@@ -4,7 +4,9 @@ Course [home page](./)
 
 ## Daily Schedule Term 5
 
-Note: All page numbers, equations, and problem numbers refer to the [3rd edition of Spivak](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444)
+Note: All page numbers, equations, and problem numbers refer to the [3rd edition of Calculus by Michael Spivak](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444).
+
+Details will be added on an ongoing basis through the term.
 
 ### Week 1 &mdash; Chapter 1 &mdash; Basic Properties of Numbers
 
@@ -38,5 +40,5 @@ Note: All page numbers, equations, and problem numbers refer to the [3rd edition
 
 ### Week 7 &mdash; Review
 
-* Monday, April 26 &mdash; April 26
-* Thursday, April 29 &mdash; Class canceled due to Shakespeare week &mdash; Mid-semester break begins Friday, April 30th
+* Monday, April 26
+* Thursday, April 29 &mdash; Class canceled due to Shakespeare week &mdash; Term 5/6 break begins Friday, April 30th
