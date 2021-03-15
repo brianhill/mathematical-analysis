@@ -11,7 +11,7 @@ Details will be added on an ongoing basis through the term.
 ### Week 1 &mdash; Chapter 1 &mdash; Basic Properties of Numbers
 
 * Monday, March 15 &mdash; Reading: Spivak, Chapter 1, pp. 3-9, postulates (P1)-(P9) for the real numbers (properties of addition and multiplication) &mdash; In-Class Problems: Chapter 1, Problems 1, 2, and 3 &mdash; Turned-in Problems: None 
-* Thursday, March 18 &mdash; Reading: Finish Spivak, Chapter 1, pp. 9-13, postulates (P10)-(P12) for the real numbers (properties of inequalities) &mdash; In-Class Problems: 6 and 7 &mdash; Turned-In Problems (Problem Set 1): 5, 13, 14, and 18 &mdash; [Problem Set 1 Solution - Forthcoming](./problem_sets/MA-PS01.pdf)
+* Thursday, March 18 &mdash; Reading: Finish Spivak, Chapter 1, pp. 9-13, postulates (P10)-(P12) for the real numbers (properties of inequalities) &mdash; In-Class Problems: 6 and 7 &mdash; Turned-In Problems (Problem Set 1): 5, 13, 14, and 18
 
 ### Week 2 &mdash; Numbers of Various Sorts
 
