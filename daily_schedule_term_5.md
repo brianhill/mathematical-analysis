@@ -1,8 +1,6 @@
-# Mathematical Analysis
+## Mathematical Analysis Daily Schedule Term 5
 
 Course [home page](./)
-
-## Daily Schedule Term 5
 
 Note: All page numbers, equations, and problem numbers refer to the [3rd edition of Calculus by Michael Spivak](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444).
 
@@ -13,27 +11,27 @@ Details will be added on an ongoing basis through the term.
 * Monday, March 15 &mdash; Reading: Spivak, Chapter 1, pp. 3-9, postulates (P1)-(P9) for the real numbers (properties of addition and multiplication) &mdash; In-Class Problems: Chapter 1, Problems 1, 2, and 3 &mdash; Turned-in Problems: None 
 * Thursday, March 18 &mdash; Reading: Finish Spivak, Chapter 1, pp. 9-13, postulates (P10)-(P12) for the real numbers (properties of inequalities) &mdash; In-Class Problems: 6 and 7 &mdash; Turned-In Problems (Problem Set 1): 5, 13, 14, and 18
 
-### Week 2 &mdash; Numbers of Various Sorts
+### Week 2 &mdash; Chapter 2 &mdash; Numbers of Various Sorts
 
 * Monday, March 22
 * Thursday, March 25
 
-### Week 3 &mdash; Graphs
+### Week 3 &mdash; Chapter 3 &mdash; Functions
 
 * Monday, March 29
 * Thursday, April 1
 
-### Week 4 &mdash; Graphs (continued)
+### Week 4 &mdash; Chapter 4 &mdash; Graphs
 
 * Monday, April 5
 * Thursday, April 8
 
-### Week 5 &mdash; Limits
+### Week 5 &mdash; Chapters 4 and 5 &mdash; Graphs and Limits
 
 * Monday, April 12
 * Thursday, April 15
 
-### Week 6 &mdash; Limits (continued)
+### Week 6 &mdash; Chapter 5 Limits
 
 * Monday, April 19
 * Thursday, April 22 &mdash; Midterm
