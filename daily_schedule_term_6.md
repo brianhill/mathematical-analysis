@@ -6,5 +6,8 @@ Course [home page](./)
 
 See also [Daily Schedule Term 5](./daily_schedule_term_5.md)
 
-### Week 1
+### Week 8
+
+A work in Progress.
+
 
