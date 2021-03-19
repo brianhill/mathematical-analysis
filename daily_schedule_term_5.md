@@ -13,7 +13,7 @@ Details will be added on an ongoing basis through the term.
 
 ### Week 2 &mdash; Chapter 2 &mdash; Numbers of Various Sorts
 
-* Monday, March 22 &mdash; Reading: Spivak, Chapter 2, pp. 21-22, the natural numbers and induction &mdash; Problem Set 2: Chapter 1, Problem 19 (a)-(c), Chapter 2, Problems 1 and 2 (Spivak has worked out half of those two problems in his back-of-the-book answers) &mdash; In-Class: Chapter 1, Problem 3 
+* Monday, March 22 &mdash; Reading: Spivak, Chapter 2, pp. 21-22, the natural numbers and induction &mdash; Problem Set 2: Chapter 1, Problem 19 (a)-(c), Chapter 2, Problems 1 and 2 (Spivak has worked out half of those two problems in his back-of-the-book answers) &mdash; In-Class: Chapter 2, Problem 3 
 * Thursday, March 25
 
 ### Week 3 &mdash; Chapter 3 &mdash; Functions
