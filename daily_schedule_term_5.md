@@ -13,12 +13,12 @@ Details will be added on an ongoing basis through the term.
 
 ### Week 2 &mdash; Chapter 2 &mdash; Numbers of Various Sorts
 
-* Monday, March 22 &mdash; Reading: Spivak, Chapter 2, pp. 21-22, the natural numbers and induction &mdash; Problem Set 2: Chapter 1, Problem 19 (a)-(c), Chapter 2, Problems 1 and 2 (Spivak has worked out half of those two problems in his back-of-the-book answers) &mdash; In-Class: Chapter 2, Problem 3 
-* Thursday, March 25
+* Monday, March 22 &mdash; Reading: Spivak, Chapter 2, pp. 21-22 (the natural numbers, N, and induction) &mdash; Problem Set 2: Chapter 1, Problem 19 (a)-(c), Chapter 2
+* Thursday, March 25 &mdash; Reading: Spivak, Chapter 2, pp. 23-25 (factorials, summations, the integers, Z) &mdash; Problem Set 3: Chapter 2, Problem 3
 
 ### Week 3 &mdash; Chapter 3 &mdash; Functions
 
-* Monday, March 29
+* Monday, March 29 &mdash; Reading: Spivak, Finish Chapter 2, (the rationals, Q, and the real numbers, R) *and* Spivak Chapter 3, pp. 39-46 (to middle of 46) (the provisional &mdash; but inadequate and about to be refined &mdash; definition of a function as a rule or association) &mdash; In-Class: Chapter 3, Problem 1.
 * Thursday, April 1
 
 ### Week 4 &mdash; Chapter 4 &mdash; Graphs
