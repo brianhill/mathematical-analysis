@@ -19,7 +19,7 @@ Details will be added on an ongoing basis through the term.
 ### Week 3 &mdash; Chapter 3 &mdash; Functions
 
 * Monday, March 29 &mdash; Reading: Spivak, Finish Chapter 2, (the rationals, Q, and the real numbers, R) *and* Spivak Chapter 3, pp. 39-46 (to middle of 46) (the provisional &mdash; but inadequate and about to be refined &mdash; definition of a function as a rule or association) &mdash; In-Class: Chapter 3, Problem 1.
-* Thursday, April 1 &mdash; Finish Chapter 3 and the first two paragraphs of the Chapter 3 Appendix (on ordered pairs) &mdash; Problem Set 4: Chapter 3, Problems 6 and 8.
+* Thursday, April 1 &mdash; Finish Chapter 3 (defining functions as collections of ordered pairs) and the first two paragraphs of the Chapter 3 Appendix (towards a definition of ordered pairs) &mdash; Problem Set 4: Chapter 3, Problems 6 and 8.
 
 ### Week 4 &mdash; Chapter 4 &mdash; Graphs
 
