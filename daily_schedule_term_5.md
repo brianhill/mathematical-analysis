@@ -23,7 +23,7 @@ Details will be added on an ongoing basis through the term.
 
 ### Week 4 &mdash; Chapter 4 &mdash; Graphs
 
-* Monday, April 5 &mdash; Reading: Spivak Chapter 4, pp. 56-62.
+* Monday, April 5 &mdash; Reading: Spivak Chapter 4, pp. 56-62 &mdash; In-Class: Chapter 4, Problems 2, 3, and 4
 * Thursday, April 8
 
 ### Week 5 &mdash; Chapters 4 and 5 &mdash; Graphs and Limits
