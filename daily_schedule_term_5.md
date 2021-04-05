@@ -14,17 +14,17 @@ Details will be added on an ongoing basis through the term.
 ### Week 2 &mdash; Chapter 2 &mdash; Numbers of Various Sorts
 
 * Monday, March 22 &mdash; Reading: Spivak, Chapter 2, pp. 21-22 (the natural numbers, N, and induction) &mdash; Problem Set 2: Chapter 1, Problem 19 (a)-(c), Chapter 2, Problems 1 and 2
-* Thursday, March 25 &mdash; Reading: Spivak, Chapter 2, pp. 23-25 (factorials, summations, the integers, Z) &mdash; Problem Set 3: Chapter 2, Problem 3
+* Thursday, March 25 &mdash; Reading: Spivak, Chapter 2, pp. 23-25 (factorials, summations, the integers, Z) &mdash; Problem Set 3: Chapter 2, Problem 3 &mdash; Aubryn's Better Proof of the [Pascal's Triangle Induction](./problem_sets/AubrynPascalsTriangleInduction.jpeg)
 
 ### Week 3 &mdash; Chapter 3 &mdash; Functions
 
 * Monday, March 29 &mdash; Reading: Spivak, Finish Chapter 2, (the rationals, Q, and the real numbers, R) *and* Spivak Chapter 3, pp. 39-46 (to middle of 46) (the provisional &mdash; but inadequate and about to be refined &mdash; definition of a function as a rule or association) &mdash; In-Class: Chapter 3, Problem 1.
-* Thursday, April 1 &mdash; Finish Chapter 3 (defining functions as collections of ordered pairs) and the first two paragraphs of the Chapter 3 Appendix (towards a definition of ordered pairs) &mdash; Problem Set 4: Chapter 3, Problems 6 and 8.
+* Thursday, April 1 &mdash; Finish Chapter 3 (defining functions as collections of ordered pairs) and the first two paragraphs of the Chapter 3 Appendix (towards a definition of ordered pairs) &mdash; Problem Set 4: Chapter 3, Problems 6 and 8 &mdash; Lagrange Interpolation [Example with *n=4*](./problem_sets/LagrangeInterpolationExample.pdf)
 
 ### Week 4 &mdash; Chapter 4 &mdash; Graphs
 
 * Monday, April 5 &mdash; Reading: Spivak Chapter 4, pp. 56-62 &mdash; In-Class: Chapter 4, Problems 2, 3, and 4
-* Thursday, April 8 &mdash; Reading: Finish Chapter 4 and Appendix 1 to Chapter 4 (Vectors) &mdash; Problem Set 5: Chapter 4, Problem 14(ii) and (iv) and plot examples with *f(x)=x<sup>2</sup>-4* and a couple of interesting values for *c*, Problem 17, Problem 20, Problem 21(a).
+* Thursday, April 8 &mdash; Reading: Finish Chapter 4 and Appendix 1 to Chapter 4 (Vectors) &mdash; Problem Set 5: Chapter 4, Problem 14(ii) and (iv) and plot examples with *f(x)=x<sup>2</sup>-4* and a couple of interesting values for *c*, Problem 17, Problem 20, Problem 21(a)
 
 ### Week 5 &mdash; Chapters 4 and 5 &mdash; Graphs and Limits
 
