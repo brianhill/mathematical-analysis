@@ -24,7 +24,7 @@ Details will be added on an ongoing basis through the term.
 ### Week 4 &mdash; Chapter 4 &mdash; Graphs
 
 * Monday, April 5 &mdash; Reading: Spivak Chapter 4, pp. 56-62 &mdash; In-Class: Chapter 4, Problems 2, 3, and 4
-* Thursday, April 8
+* Thursday, April 8 &mdash; Reading: Finish Chapter 4 and Appendix 1 to Chapter 4 (Vectors) &mdash; Problem Set 5: Chapter 4, Problem 14(ii) and (iv) and plot examples with *f(x)=x<sup>2</sup>-4* and a couple of interesting values for *c*, Problem 17, Problem 20, Problem 21(a).
 
 ### Week 5 &mdash; Chapters 4 and 5 &mdash; Graphs and Limits
 
