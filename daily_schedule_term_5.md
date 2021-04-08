@@ -2,9 +2,9 @@
 
 Course [home page](./)
 
-Note: All page numbers, equations, and problem numbers refer to the [3rd edition of Calculus by Michael Spivak](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444).
+See also [Daily Schedule Term 6](./daily_schedule_term_6.html)
 
-Details will be added on an ongoing basis through the term.
+Note: All page numbers, equations, and problem numbers refer to the [3rd edition of Calculus by Michael Spivak](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444).
 
 ### Week 1 &mdash; Chapter 1 &mdash; Basic Properties of Numbers
 
@@ -28,15 +28,15 @@ Details will be added on an ongoing basis through the term.
 
 ### Week 5 &mdash; Chapters 4 and 5 &mdash; Graphs and Limits
 
-* Monday, April 12
-* Thursday, April 15
+* Monday, April 12 &mdash; Reading: Appendix 3 to Chapter 4 (Polar Coordinates) and pp. 90-96 of Chapter 5 (Limits) &mdash; Problem Set 6: Chapter 4, Appendix 1, Problems 4, 6, and 7, and Chapter 4, Appendix 3, Problems 5 and 6.
+* Thursday, April 15 &mdash; Reading: pp. 97-103 of Chapter 5 (Two Theorems about Limits) &mdash; In-Class: Chapter 5, Problems 1, 2, and 3
 
 ### Week 6 &mdash; Chapter 5 &mdash; Limits
 
-* Monday, April 19
+* Monday, April 19 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 7: will be some more Problems from Chapter 5.
 * Thursday, April 22 &mdash; Midterm
 
 ### Week 7 &mdash; Chapter 6 &mdash; Continuous Functions
 
-* Monday, April 26
+* Monday, April 26 &mdash; Reading: Chapter 6 through Theorem 1 (top of p. 115) &mdash; In-Class: Prove parts (2) and (3) of Theorem 1
 * Thursday, April 29 &mdash; Class canceled due to Shakespeare week &mdash; Term 5/6 break begins Friday, April 30th
