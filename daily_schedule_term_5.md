@@ -33,7 +33,7 @@ Note: All page numbers, equations, and problem numbers refer to the [3rd edition
 
 ### Week 6 &mdash; Chapter 5 &mdash; Limits
 
-* Monday, April 19 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 7: will be some more Problems from Chapter 5.
+* Monday, April 19 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 7: will be several more Problems from Chapter 5.
 * Thursday, April 22 &mdash; Midterm
 
 ### Week 7 &mdash; Chapter 6 &mdash; Continuous Functions
