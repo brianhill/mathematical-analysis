@@ -1,0 +1,521 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     20042,        513]
+NotebookOptionsPosition[     16999,        451]
+NotebookOutlinePosition[     17446,        469]
+CellTagsIndexPosition[     17403,        466]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[TextData[StyleBox["Mathematical Analysis \[LongDash] PS 6 \[LongDash] \
+Vectors",
+ FontSize->36]], "Title",
+ CellChangeTimes->{{3.826990895531827*^9, 3.8269909050731707`*^9}, {
+  3.826991212936166*^9, 
+  3.826991215061927*^9}},ExpressionUUID->"1cd65f7b-be86-46b3-aaf1-\
+48ae0714202a"],
+
+Cell["April 12, 2021", "Subtitle",
+ CellChangeTimes->{{3.8269909442346687`*^9, 
+  3.8269909472827673`*^9}},ExpressionUUID->"f75a004f-b82e-44e2-9064-\
+ae0d2c22a56e"],
+
+Cell["\<\
+This problem set is designed to round out your knowledge of vectors, \
+introduced by Spivak in Appendix 1 of Chapter 4.
+
+Your next reading (for Monday, April 12th) is pp. 90-96 of Chapter 5. Chapter \
+5 is on limits. I wanted to do Appendix 3 of Chapter 4 next, but we need to \
+start limits so that we can spend three classes on it. I think we will have \
+time to come back to Appendix 3 of Chapter 4 in Term 6.\
+\>", "Text",
+ CellChangeTimes->{{3.82699096010775*^9, 3.826991127144486*^9}, {
+  3.826993914261252*^9, 3.8269939948007317`*^9}, {3.826994338254922*^9, 
+  3.82699435417417*^9}},ExpressionUUID->"e7c0cf94-4e48-4036-8533-\
+84a391a7e271"],
+
+Cell[CellGroupData[{
+
+Cell["Rotations of Vectors and the Dot Product", "Section",
+ CellChangeTimes->{{3.826991164190846*^9, 3.826991165000153*^9}, {
+  3.8269911976809387`*^9, 3.8269911994582644`*^9}, {3.826992380834362*^9, 
+  3.826992389091782*^9}},ExpressionUUID->"e3583be7-533b-427c-856f-\
+d9183166dddc"],
+
+Cell["\<\
+In class, we did Problems 1(a), 1(c), 2(b), 2(c), and 3(a). Review those \
+carefully. The big picture result of those problems are that we have formulas \
+for:\
+\>", "Text",
+ CellChangeTimes->{{3.826991261333582*^9, 3.826991387375276*^9}, 
+   3.826991563068309*^9, {3.826991654096292*^9, 3.8269916556926117`*^9}, {
+   3.8269930310293207`*^9, 
+   3.826993055373657*^9}},ExpressionUUID->"a2057f16-e51f-4168-9923-\
+9a7013c6350d"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[StyleBox["rotations of vectors", "Item"]], "Item",
+ CellChangeTimes->{{3.8269915654445057`*^9, 
+  3.8269915739874763`*^9}},ExpressionUUID->"12c76527-8232-4de9-a910-\
+f7743a3445ae"],
+
+Cell[TextData[StyleBox["the dot product of two vectors", "Item"]], "Item",
+ CellChangeTimes->{{3.826991614325158*^9, 
+  3.826991632879897*^9}},ExpressionUUID->"926db862-fb48-4908-a453-\
+92d1f442eedf"],
+
+Cell[TextData[StyleBox["the norm or length of a vector", "Item"]], "Item",
+ CellChangeTimes->{{3.826991620568987*^9, 
+  3.8269916380661173`*^9}},ExpressionUUID->"41d8613c-5396-495b-8cd5-\
+2d6706a740ba"],
+
+Cell[TextData[StyleBox["and finally, we have shown that that dot product is \
+invariant under rotations \[LongDash] that was Problem 3(a) that Amelia \
+finished the algebra for at the board", "Item"]], "Item",
+ CellChangeTimes->{{3.8269916225598803`*^9, 3.8269916490907793`*^9}, {
+  3.826991855135138*^9, 
+  3.826991887878891*^9}},ExpressionUUID->"3f854e9b-b030-4abd-b595-\
+3356f2cb44c1"]
+}, Open  ]],
+
+Cell["\<\
+In 1(a), 1(c), and 3(a), we were using \[Theta] to denote the amount of \
+rotation. In 3(b) Spivak uses \[Theta] for the angle between two vectors. Be \
+clear which you are using \[Theta] for in what follows if there is any \
+ambiguity.\
+\>", "Text",
+ CellChangeTimes->{{3.826991663653781*^9, 3.826991749394374*^9}, {
+   3.826991780454568*^9, 3.826991846052491*^9}, {3.826991906902639*^9, 
+   3.8269919920745773`*^9}, {3.826992052801083*^9, 3.8269920810157003`*^9}, 
+   3.826992883235448*^9, {3.82699401663682*^9, 3.826994024500847*^9}, {
+   3.8269943959677877`*^9, 
+   3.826994399804145*^9}},ExpressionUUID->"c693f510-9620-41c4-820c-\
+ed0837b04888"],
+
+Cell[CellGroupData[{
+
+Cell["Your First Problem", "Subsubsection",
+ CellChangeTimes->{{3.8269929032854767`*^9, 
+  3.826992906805678*^9}},ExpressionUUID->"f2ef08d9-f0f5-4022-baa2-\
+4f4be43f94bb"],
+
+Cell["\<\
+Do Problem 3(b). Use everything that Spivak has built up to this point. It is \
+pretty easy if you are crafty. In particular use invariance of the dot \
+product under rotations.\
+\>", "Text",
+ CellChangeTimes->{{3.826991663653781*^9, 3.826991749394374*^9}, {
+   3.826991780454568*^9, 3.826991846052491*^9}, {3.826991906902639*^9, 
+   3.8269919920745773`*^9}, {3.826992052801083*^9, 3.8269920810157003`*^9}, 
+   3.826992885813504*^9, 
+   3.826993093904572*^9},ExpressionUUID->"2b88c7d1-bcd4-4dc8-b2f9-\
+e91c7dd1e2cc"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Rotations of Vectors and the \[OpenCurlyDoubleQuote]Cross\
+\[CloseCurlyDoubleQuote] Product", "Section",
+ CellChangeTimes->{{3.826991164190846*^9, 3.826991165000153*^9}, {
+  3.8269911976809387`*^9, 3.8269911994582644`*^9}, {3.826992380834362*^9, 
+  3.826992404121498*^9}},ExpressionUUID->"6e40097c-d354-44a4-9da2-\
+678f2ba07664"],
+
+Cell[TextData[{
+ "In problem 4, Spivak defines the determinant of two vectors:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"det", "(", 
+     RowBox[{"v", ",", " ", "w"}], ")"}], "\[Congruent]", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["v", "1"], 
+      SubscriptBox["w", "2"]}], "-", 
+     RowBox[{
+      SubscriptBox["v", "2"], 
+      SubscriptBox["w", "1"]}]}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "56846813-ad5a-4fb4-b459-85785c4f8940"],
+ "\n\nPhysicists call this the \[OpenCurlyDoubleQuote]cross\
+\[CloseCurlyDoubleQuote] product. It is heavily used for angular momentum, \
+magnetic fields, magnetic forces, and for turbulence in fluid flow."
+}], "Text",
+ CellChangeTimes->{{3.826991261333582*^9, 3.826991387375276*^9}, 
+   3.826991563068309*^9, {3.826991654096292*^9, 3.8269916556926117`*^9}, {
+   3.826992422020948*^9, 3.826992429298726*^9}, {3.826992459919829*^9, 
+   3.826992535733453*^9}, {3.8269925727257023`*^9, 3.8269927520524282`*^9}, {
+   3.826992785488716*^9, 3.8269928617390537`*^9}, 3.826992917108042*^9, {
+   3.8269940749302273`*^9, 
+   3.826994158972892*^9}},ExpressionUUID->"fca15800-a563-4bd1-b6b9-\
+a324e7ef11c8"],
+
+Cell[CellGroupData[{
+
+Cell["Your Second Problem", "Subsubsection",
+ CellChangeTimes->{{3.8269929032854767`*^9, 
+  3.826992926380892*^9}},ExpressionUUID->"a8322833-5572-483a-bfe6-\
+83f4f9d90cd6"],
+
+Cell[TextData[{
+ "Just as we did in 2(b) for the dot product, prove the basic properties of \
+the cross product, which are:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"det", "(", 
+     RowBox[{"v", ",", " ", "w"}], ")"}], "=", 
+    RowBox[{"-", 
+     RowBox[{"det", "(", 
+      RowBox[{"w", ",", " ", "v"}], ")"}]}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "43e28c53-a85b-445e-b659-745f859700e7"],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"det", "(", 
+     RowBox[{"v", ",", 
+      RowBox[{"w", "+", "z"}]}], ")"}], "=", 
+    RowBox[{
+     RowBox[{"det", "(", 
+      RowBox[{"v", ",", " ", "w"}], ")"}], " ", "+", " ", 
+     RowBox[{"det", "(", 
+      RowBox[{"v", ",", " ", "z"}], ")"}]}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "4e316510-a607-4138-a601-58b6e5c5829e"],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"a", " ", "\[CenterDot]", 
+     RowBox[{"det", "(", 
+      RowBox[{"v", ",", " ", "w"}], ")"}]}], " ", "=", " ", 
+    RowBox[{
+     RowBox[{"det", "(", 
+      RowBox[{
+       RowBox[{"a", "\[VeryThinSpace]", "v"}], ",", " ", "w"}], ")"}], "=", 
+     RowBox[{"det", "(", 
+      RowBox[{"v", ",", " ", 
+       RowBox[{"a", " \[VeryThinSpace]", "w"}]}], ")"}]}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "8e7032a2-0684-4630-bb7e-0eb9e46c1982"],
+ "    (",
+ Cell[BoxData[
+  FormBox["a", TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "4a96db8f-a0d9-4800-aa52-97a3fff87264"],
+ " is just a number, not a vector in this formula)"
+}], "Text",
+ CellChangeTimes->{{3.826991261333582*^9, 3.826991387375276*^9}, 
+   3.826991563068309*^9, {3.826991654096292*^9, 3.8269916556926117`*^9}, {
+   3.826992422020948*^9, 3.826992429298726*^9}, {3.826992459919829*^9, 
+   3.826992535733453*^9}, {3.8269925727257023`*^9, 3.8269927520524282`*^9}, {
+   3.826992785488716*^9, 3.8269928617390537`*^9}, {3.8269929176145563`*^9, 
+   3.8269929472387123`*^9}},ExpressionUUID->"3203c5a1-681d-40a2-a6b5-\
+598e6ce364f1"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Your Third Problem", "Subsubsection",
+ CellChangeTimes->{{3.8269929032854767`*^9, 
+  3.826992934773396*^9}},ExpressionUUID->"2c993d3d-2684-446f-987a-\
+8c2381fa62e8"],
+
+Cell["\<\
+Do Problem 5(b). This problem shows that like the dot product, the cross \
+product is also invariant under rotations.\
+\>", "Text",
+ CellChangeTimes->{{3.826991261333582*^9, 3.826991387375276*^9}, 
+   3.826991563068309*^9, {3.826991654096292*^9, 3.8269916556926117`*^9}, {
+   3.826992422020948*^9, 3.826992429298726*^9}, {3.826992459919829*^9, 
+   3.826992535733453*^9}, {3.8269925727257023`*^9, 3.8269927520524282`*^9}, {
+   3.826992785488716*^9, 3.8269928617390537`*^9}, {3.8269929176145563`*^9, 
+   3.826992922579564*^9}, {3.826992958015976*^9, 3.826992959388537*^9}, {
+   3.826993129860009*^9, 
+   3.826993149726324*^9}},ExpressionUUID->"6958e160-9260-45e4-b880-\
+0a94ee5fe0e3"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["An Example", "Section",
+ CellChangeTimes->{{3.826991164190846*^9, 3.826991165000153*^9}, {
+   3.8269911976809387`*^9, 3.8269911994582644`*^9}, {3.826992380834362*^9, 
+   3.826992404121498*^9}, {3.826993332709332*^9, 3.826993333777783*^9}, 
+   3.8269936161783543`*^9, {3.8269941962216988`*^9, 
+   3.826994196582637*^9}},ExpressionUUID->"e2e3a64b-52da-4f2e-acd9-\
+ab19ff2b0271"],
+
+Cell[CellGroupData[{
+
+Cell["Your Fourth Problem", "Subsubsection",
+ CellChangeTimes->{{3.8269929032854767`*^9, 3.826992934773396*^9}, {
+  3.826993174714554*^9, 
+  3.826993175613872*^9}},ExpressionUUID->"7e45653e-b609-4842-9bb1-\
+e8b0eeeafede"],
+
+Cell[TextData[{
+ "Here are two vectors that make a 45\.ba angle with each other:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"v", "=", 
+    RowBox[{"(", 
+     RowBox[{"3", ",", " ", "3"}], ")"}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "557df789-3189-4ed1-b1d1-318702f102f2"],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"w", "=", 
+    RowBox[{"(", 
+     RowBox[{"0", ",", " ", "4"}], ")"}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "0ef268e5-0906-4542-94a9-b99d966cd4d3"],
+ "\n\n(a) Calculate ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"v", "\[CenterDot]", "w"}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "fd11a7dc-7aed-475e-a3d5-ec483b43f446"],
+ " using their components.\n(b) Calculate ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"v", "\[CenterDot]", "w"}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "01b892b5-dc1f-4dc4-b56e-be542a19f22f"],
+ " using the formula ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"v", "\[CenterDot]", "w"}], "=", 
+    RowBox[{"\[LeftDoubleBracketingBar]", " ", 
+     RowBox[{"v", 
+      RowBox[{"\[LeftDoubleBracketingBar]", 
+       RowBox[{"\[CenterDot]", 
+        RowBox[{"\[LeftDoubleBracketingBar]", " ", 
+         RowBox[{"w", 
+          RowBox[{"\[LeftDoubleBracketingBar]", 
+           RowBox[{
+            RowBox[{"\[CenterDot]", "cos"}], "\[VeryThinSpace]", 
+            "\[Theta]"}]}]}]}]}]}]}]}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "8bbdf365-caba-4165-8903-29cfea8936b3"],
+ "\n(c) Calculate ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"det", "(", 
+    RowBox[{"v", ",", " ", "w"}], ")"}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "d3c50111-7829-4db2-b4c7-ca5aebf30e76"],
+ " using their components.\n(d) Calculate ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"det", "(", 
+    RowBox[{"v", ",", " ", "w"}], ")"}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "360d51f1-0d40-405b-9168-717091f577a4"],
+ " using the formula ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"det", "(", 
+     RowBox[{"v", ",", " ", "w"}], ")"}], "=", 
+    RowBox[{"\[LeftDoubleBracketingBar]", " ", 
+     RowBox[{"v", 
+      RowBox[{"\[LeftDoubleBracketingBar]", 
+       RowBox[{"\[CenterDot]", 
+        RowBox[{"\[LeftDoubleBracketingBar]", " ", 
+         RowBox[{"w", 
+          RowBox[{"\[LeftDoubleBracketingBar]", 
+           RowBox[{
+            RowBox[{"\[CenterDot]", "sin"}], "\[VeryThinSpace]", 
+            "\[Theta]"}]}]}]}]}]}]}]}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "86b5c66f-61b0-4a51-bdfb-02f138eb8f8b"]
+}], "Text",
+ CellChangeTimes->{{3.826991261333582*^9, 3.826991387375276*^9}, 
+   3.826991563068309*^9, {3.826991654096292*^9, 3.8269916556926117`*^9}, {
+   3.826992422020948*^9, 3.826992429298726*^9}, {3.826992459919829*^9, 
+   3.826992535733453*^9}, {3.8269925727257023`*^9, 3.8269927520524282`*^9}, {
+   3.826992785488716*^9, 3.8269928617390537`*^9}, {3.8269929176145563`*^9, 
+   3.826992922579564*^9}, {3.826992958015976*^9, 3.826992959388537*^9}, {
+   3.826993129860009*^9, 3.826993149726324*^9}, {3.826993180946445*^9, 
+   3.8269933791281223`*^9}, {3.826993419847849*^9, 3.8269935223055143`*^9}, {
+   3.826993588706503*^9, 3.826993609135303*^9}, {3.826993658513217*^9, 
+   3.826993659851491*^9}},ExpressionUUID->"78a9d8d2-eeb4-42fc-8203-\
+b71b1c3d161a"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ "Proof that ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"det", "(", 
+     RowBox[{"v", ",", " ", "w"}], ")"}], "=", 
+    RowBox[{"\[LeftDoubleBracketingBar]", " ", 
+     RowBox[{"v", 
+      RowBox[{"\[LeftDoubleBracketingBar]", 
+       RowBox[{"\[CenterDot]", 
+        RowBox[{"\[LeftDoubleBracketingBar]", " ", 
+         RowBox[{"w", 
+          RowBox[{"\[LeftDoubleBracketingBar]", 
+           RowBox[{
+            RowBox[{"\[CenterDot]", "sin"}], "\[VeryThinSpace]", 
+            "\[Theta]"}]}]}]}]}]}]}]}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "70aaac23-8a9c-451d-8624-08db07eb0702"]
+}], "Section",
+ CellChangeTimes->{{3.826991164190846*^9, 3.826991165000153*^9}, {
+   3.8269911976809387`*^9, 3.8269911994582644`*^9}, {3.826992380834362*^9, 
+   3.826992404121498*^9}, {3.826993332709332*^9, 3.826993333777783*^9}, 
+   3.8269936161783543`*^9, {3.82699371318853*^9, 
+   3.826993756850581*^9}},ExpressionUUID->"4538fd2a-88d6-42e8-b233-\
+eb8114053d6c"],
+
+Cell["\<\
+In part (d) of the example, we used  a formula we haven\[CloseCurlyQuote]t \
+proved yet.\
+\>", "Text",
+ CellChangeTimes->{{3.826993828295774*^9, 
+  3.826993845410877*^9}},ExpressionUUID->"34596f3f-21b1-4a1f-b605-\
+20083c3c0723"],
+
+Cell[CellGroupData[{
+
+Cell["Your Fifth Problem", "Subsubsection",
+ CellChangeTimes->{{3.8269929032854767`*^9, 3.826992934773396*^9}, {
+  3.826993174714554*^9, 3.826993175613872*^9}, {3.826993760191103*^9, 
+  3.8269937681338*^9}, {3.8269943181528673`*^9, 
+  3.8269943196587467`*^9}},ExpressionUUID->"b812e1cd-fdb9-4c55-b581-\
+910344969a9c"],
+
+Cell[TextData[{
+ "Do Problem 7, which is to prove ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"det", "(", 
+     RowBox[{"v", ",", " ", "w"}], ")"}], "=", 
+    RowBox[{"\[LeftDoubleBracketingBar]", " ", 
+     RowBox[{"v", 
+      RowBox[{"\[LeftDoubleBracketingBar]", 
+       RowBox[{"\[CenterDot]", 
+        RowBox[{"\[LeftDoubleBracketingBar]", " ", 
+         RowBox[{"w", 
+          RowBox[{"\[LeftDoubleBracketingBar]", 
+           RowBox[{
+            RowBox[{"\[CenterDot]", "sin"}], "\[VeryThinSpace]", 
+            "\[Theta]"}]}]}]}]}]}]}]}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "9c6950b7-19e8-4bcd-b9ba-b2c7ee724f09"],
+ ", using the same crafty methods you did to prove 3(b)."
+}], "Text",
+ CellChangeTimes->{{3.826991261333582*^9, 3.826991387375276*^9}, 
+   3.826991563068309*^9, {3.826991654096292*^9, 3.8269916556926117`*^9}, {
+   3.826992422020948*^9, 3.826992429298726*^9}, {3.826992459919829*^9, 
+   3.826992535733453*^9}, {3.8269925727257023`*^9, 3.8269927520524282`*^9}, {
+   3.826992785488716*^9, 3.8269928617390537`*^9}, {3.8269929176145563`*^9, 
+   3.826992922579564*^9}, {3.826992958015976*^9, 3.826992959388537*^9}, {
+   3.826993129860009*^9, 3.826993149726324*^9}, {3.826993180946445*^9, 
+   3.8269933791281223`*^9}, {3.826993419847849*^9, 3.8269935223055143`*^9}, {
+   3.826993588706503*^9, 3.826993609135303*^9}, {3.826993658513217*^9, 
+   3.826993659851491*^9}, {3.826993774029098*^9, 3.826993813924754*^9}, {
+   3.826993849437746*^9, 
+   3.826993894213806*^9}},ExpressionUUID->"56dba346-2d29-4f43-9a85-\
+b34e7658063f"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{Automatic, 657}, {Automatic, 50}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (June 9, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"6e25029f-ab9b-455d-97fa-61553039680f"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 289, 6, 86, "Title",ExpressionUUID->"1cd65f7b-be86-46b3-aaf1-48ae0714202a"],
+Cell[872, 30, 164, 3, 53, "Subtitle",ExpressionUUID->"f75a004f-b82e-44e2-9064-ae0d2c22a56e"],
+Cell[1039, 35, 657, 12, 150, "Text",ExpressionUUID->"e7c0cf94-4e48-4036-8533-84a391a7e271"],
+Cell[CellGroupData[{
+Cell[1721, 51, 284, 4, 67, "Section",ExpressionUUID->"e3583be7-533b-427c-856f-d9183166dddc"],
+Cell[2008, 57, 436, 9, 58, "Text",ExpressionUUID->"a2057f16-e51f-4168-9923-9a7013c6350d"],
+Cell[CellGroupData[{
+Cell[2469, 70, 194, 3, 32, "Item",ExpressionUUID->"12c76527-8232-4de9-a910-f7743a3445ae"],
+Cell[2666, 75, 200, 3, 32, "Item",ExpressionUUID->"926db862-fb48-4908-a453-92d1f442eedf"],
+Cell[2869, 80, 202, 3, 32, "Item",ExpressionUUID->"41d8613c-5396-495b-8cd5-2d6706a740ba"],
+Cell[3074, 85, 388, 6, 53, "Item",ExpressionUUID->"3f854e9b-b030-4abd-b595-3356f2cb44c1"]
+}, Open  ]],
+Cell[3477, 94, 660, 12, 58, "Text",ExpressionUUID->"c693f510-9620-41c4-820c-ed0837b04888"],
+Cell[CellGroupData[{
+Cell[4162, 110, 171, 3, 45, "Subsubsection",ExpressionUUID->"f2ef08d9-f0f5-4022-baa2-4f4be43f94bb"],
+Cell[4336, 115, 526, 10, 58, "Text",ExpressionUUID->"2b88c7d1-bcd4-4dc8-b2f9-e91c7dd1e2cc"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4911, 131, 335, 5, 67, "Section",ExpressionUUID->"6e40097c-d354-44a4-9da2-678f2ba07664"],
+Cell[5249, 138, 1190, 27, 146, "Text",ExpressionUUID->"fca15800-a563-4bd1-b6b9-a324e7ef11c8"],
+Cell[CellGroupData[{
+Cell[6464, 169, 172, 3, 45, "Subsubsection",ExpressionUUID->"a8322833-5572-483a-bfe6-83f4f9d90cd6"],
+Cell[6639, 174, 2062, 56, 142, "Text",ExpressionUUID->"3203c5a1-681d-40a2-a6b5-598e6ce364f1"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[8738, 235, 171, 3, 45, "Subsubsection",ExpressionUUID->"2c993d3d-2684-446f-987a-8c2381fa62e8"],
+Cell[8912, 240, 692, 12, 58, "Text",ExpressionUUID->"6958e160-9260-45e4-b880-0a94ee5fe0e3"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[9653, 258, 382, 6, 67, "Section",ExpressionUUID->"e2e3a64b-52da-4f2e-acd9-ab19ff2b0271"],
+Cell[CellGroupData[{
+Cell[10060, 268, 221, 4, 45, "Subsubsection",ExpressionUUID->"7e45653e-b609-4842-9bb1-e8b0eeeafede"],
+Cell[10284, 274, 3440, 89, 211, "Text",ExpressionUUID->"78a9d8d2-eeb4-42fc-8203-b71b1c3d161a"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[13773, 369, 1013, 25, 68, "Section",ExpressionUUID->"4538fd2a-88d6-42e8-b233-eb8114053d6c"],
+Cell[14789, 396, 238, 6, 35, "Text",ExpressionUUID->"34596f3f-21b1-4a1f-b605-20083c3c0723"],
+Cell[CellGroupData[{
+Cell[15052, 406, 317, 5, 45, "Subsubsection",ExpressionUUID->"b812e1cd-fdb9-4c55-b581-910344969a9c"],
+Cell[15372, 413, 1587, 33, 58, "Text",ExpressionUUID->"56dba346-2d29-4f43-9a85-b34e7658063f"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+

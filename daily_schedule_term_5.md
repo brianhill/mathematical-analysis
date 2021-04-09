@@ -4,12 +4,12 @@ Course [home page](./)
 
 See also [Daily Schedule Term 6](./daily_schedule_term_6.html)
 
-Note: All page numbers, equations, and problem numbers refer to the [3rd edition of Calculus by Michael Spivak](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444).
+Note: All page numbers, equations, and problem numbers refer to the 3rd Edition of [*Calculus*](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444) by Michael Spivak.
 
 ### Week 1 &mdash; Chapter 1 &mdash; Basic Properties of Numbers
 
 * Monday, March 15 &mdash; Reading: Chapter 1, pp. 3-9, postulates (P1)-(P9) for the real numbers (properties of addition and multiplication) &mdash; In-Class: Chapter 1, Problems 1, 2, and 3 
-* Thursday, March 18 &mdash; Reading: Finish Spivak, Chapter 1, pp. 9-13, postulates (P10)-(P12) for the real numbers (properties of inequalities) &mdash; In-Class: Chapter 1, Problem 6 (a)-(c) &mdash; Problem Set 1: Chapter 1, Problem 5 &mdash; [PS1 Solution](./problem_sets/MA-PS01.pdf)
+* Thursday, March 18 &mdash; Reading: Finish Spivak, Chapter 1, pp. 9-13, postulates (P10)-(P12) for the real numbers (properties of inequalities) &mdash; In-Class: Chapter 1, Problem 6 (a)-(c) &mdash; Problem Set 1: Chapter 1, Problem 5 &mdash; [PS1 Solution](./problem_sets/MA-PS01-Solution.pdf)
 
 ### Week 2 &mdash; Chapter 2 &mdash; Numbers of Various Sorts
 
@@ -28,7 +28,7 @@ Note: All page numbers, equations, and problem numbers refer to the [3rd edition
 
 ### Week 5 &mdash; Chapters 4 and 5 &mdash; Graphs and Limits
 
-* Monday, April 12 &mdash; Reading: Appendix 3 to Chapter 4 (Polar Coordinates) and pp. 90-96 of Chapter 5 (Limits) &mdash; Problem Set 6: Chapter 4, Appendix 1, Problems 4, 6, and 7, and Chapter 4, Appendix 3, Problems 5 and 6.
+* Monday, April 12 &mdash; Reading: pp. 90-96 of Chapter 5 (Limits) &mdash; Problem Set 6: [Problems on Vectors](./problem_sets/MA-PS06.pdf)
 * Thursday, April 15 &mdash; Reading: pp. 97-103 of Chapter 5 (Two Theorems about Limits) &mdash; In-Class: Chapter 5, Problems 1, 2, and 3
 
 ### Week 6 &mdash; Chapter 5 &mdash; Limits
