@@ -28,8 +28,8 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 ### Week 5 &mdash; Chapters 4 and 5 &mdash; Graphs and Limits
 
-* Monday, April 12 &mdash; Reading: pp. 90-96 of Chapter 5 (Limits) &mdash; Problem Set 6: [Problems on Vectors](./problem_sets/MA-PS06.pdf)
-* Thursday, April 15 &mdash; Reading: pp. 97-103 of Chapter 5 (Two Theorems about Limits) &mdash; In-Class: Chapter 5, Problems 1, 2, and 3
+* Monday, April 12 &mdash; Reading: pp. 90-95 of Chapter 5 (Limits) &mdash; Problem Set 6: [Problems on Vectors](./problem_sets/MA-PS06.pdf)
+* Thursday, April 15 &mdash; Reading: pp. 96-103 of Chapter 5 (Definition of Continuity and Two Theorems about Limits) &mdash; In-Class: Chapter 5, Problems 1, 2, and 3
 
 ### Week 6 &mdash; Chapter 5 &mdash; Limits
 

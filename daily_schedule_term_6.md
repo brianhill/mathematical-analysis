@@ -22,10 +22,10 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 * Monday, May 24
 * Thursday, May 27
 
-### Week 11 &mdash; Review and Special Topics
+### Week 11 &mdash; Special Topic &mdash; Polar Coordinates or the Derivative
 
-* Monday, May 31
-* Thursday, June 3
+* Monday, May 31 &mdash; Polar Coordinates or the Derivative
+* Thursday, June 3 &mdash; Polar Coordinates or the Derivative
 
 ### Week 12 &mdash; Complex Numbers
 
