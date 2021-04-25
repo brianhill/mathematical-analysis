@@ -38,5 +38,5 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 ### Week 7 &mdash; Chapter 6 &mdash; Continuous Functions
 
-* Monday, April 26 &mdash; Return and go over Midterm &mdash; Reading: Chapter 6 through Theorem 1 (top of p. 115)
+* Monday, April 26 &mdash; Return and go over Midterm &mdash; Reading: Chapter 6 through Theorem 1 (top of p. 115) &mdash; In-Class: Prove parts (2) and (3) of Theorem 1
 * Thursday, April 29 &mdash; Class canceled due to Shakespeare week
