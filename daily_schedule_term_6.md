@@ -8,9 +8,8 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 ### Week 8 &mdash; Chapter 6 &mdash; Finish Continuous Functions
 
-*There is no class on Monday, so this week is short.*
-
-* Thursday, May 13
+* We are still on break on Monday, so this week is short.*
+* Thursday, May 13 &mdash; Finish reading Chapter 6 &mdash; Problem Set 8: Chapter 6, Problems 1-5
 
 ### Week 9 &mdash; Chapter 7 &mdash; Three Hard Theorems
 
