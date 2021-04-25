@@ -34,9 +34,9 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 ### Week 6 &mdash; Chapter 5 &mdash; Limits
 
 * Monday, April 19 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 7: Chapter 5, Problems 3(iii) and (iv), 6(i)-(iii), and 7
-* Thursday, April 22 &mdash; Midterm
+* Thursday, April 22 &mdash; [Midterm](./exams/M1.pdf)
 
 ### Week 7 &mdash; Chapter 6 &mdash; Continuous Functions
 
-* Monday, April 26 &mdash; Reading: Chapter 6 through Theorem 1 (top of p. 115) &mdash; In-Class: Prove parts (2) and (3) of Theorem 1
-* Thursday, April 29 &mdash; Class canceled due to Shakespeare week &mdash; Term 5/6 break begins Friday, April 30th
+* Monday, April 26 &mdash; Return and go over Midterm &mdash; Reading: Chapter 6 through Theorem 1 (top of p. 115)
+* Thursday, April 29 &mdash; Class canceled due to Shakespeare week
