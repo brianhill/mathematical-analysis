@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      5924,        139]
-NotebookOptionsPosition[      4866,        111]
-NotebookOutlinePosition[      5314,        129]
-CellTagsIndexPosition[      5271,        126]
+NotebookDataLength[      6020,        140]
+NotebookOptionsPosition[      4962,        112]
+NotebookOutlinePosition[      5410,        130]
+CellTagsIndexPosition[      5367,        127]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -35,13 +35,13 @@ ef4b477dcef9"],
 Cell["\<\
 Since several people are still having trouble with Chapters 5 and 6, we can\
 \[CloseCurlyQuote]t add more material until everyone is solid on those. On \
-the other hand, I don\[CloseCurlyQuote]t know what to \[LongDash] in terms of \
-things I could say or additional problems I could write up \[LongDash] to \
-help make those more solid. So I have just chosen more Spivak problems.\
+the other hand, I don\[CloseCurlyQuote]t know what \[LongDash] in terms of \
+things I could say or additional problems I could write up \[LongDash] to do \
+to help make those more solid. So I have just chosen more Spivak problems.\
 \>", "Text",
  CellChangeTimes->{{3.8300899940786343`*^9, 3.830089995470834*^9}, {
-  3.830090681917952*^9, 
-  3.830090754703341*^9}},ExpressionUUID->"ca883831-20ed-40b4-9fec-\
+  3.830090681917952*^9, 3.830090754703341*^9}, {3.8300919916810627`*^9, 
+  3.830091995763238*^9}},ExpressionUUID->"ca883831-20ed-40b4-9fec-\
 580646f747f4"],
 
 Cell[CellGroupData[{
@@ -88,8 +88,8 @@ Cell["In-Class Problems for Monday", "Section",
 c1e167287e1c"],
 
 Cell["\<\
-Problems 4, 10, 11, and 12 from Chapter 5. I am hoping these two will help \
-cement Chapter 5.
+Problems 4, 10, 11, and 12 from Chapter 5. I am hoping these will help cement \
+Chapter 5.
 
 Problem 7 from Chapter 6.\
 \>", "Text",
@@ -103,8 +103,9 @@ Problem 7 from Chapter 6.\
   3.830089389736863*^9, 3.8300895339532957`*^9}, {3.830089866463937*^9, 
   3.830089903972629*^9}, {3.8300899461600513`*^9, 3.83008995414845*^9}, {
   3.830090055377365*^9, 3.830090083503559*^9}, {3.830090245407777*^9, 
-  3.830090271710587*^9}, {3.830090404673402*^9, 
-  3.830090404740685*^9}},ExpressionUUID->"6b9c493a-2d47-4179-87d5-\
+  3.830090271710587*^9}, {3.830090404673402*^9, 3.830090404740685*^9}, {
+  3.830092001129231*^9, 
+  3.830092001748591*^9}},ExpressionUUID->"6b9c493a-2d47-4179-87d5-\
 3f8e15efc482"]
 }, Open  ]]
 }, Open  ]]
@@ -131,14 +132,14 @@ Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 254, 4, 69, "Chapter",ExpressionUUID->"08dff64c-4584-4a30-a4b1-c0485c5ee0f5"],
 Cell[837, 28, 269, 4, 53, "Subtitle",ExpressionUUID->"9a2c62ca-d9d6-4a5c-b2ab-ef4b477dcef9"],
-Cell[1109, 34, 582, 10, 58, "Text",ExpressionUUID->"ca883831-20ed-40b4-9fec-580646f747f4"],
+Cell[1109, 34, 633, 10, 58, "Text",ExpressionUUID->"ca883831-20ed-40b4-9fec-580646f747f4"],
 Cell[CellGroupData[{
-Cell[1716, 48, 521, 8, 67, "Section",ExpressionUUID->"0c1143f9-d520-41f7-9672-043e024b40e2"],
-Cell[2240, 58, 959, 15, 35, "Text",ExpressionUUID->"6f30e651-ac80-49ea-bc64-65793e8fb5bc"]
+Cell[1767, 48, 521, 8, 67, "Section",ExpressionUUID->"0c1143f9-d520-41f7-9672-043e024b40e2"],
+Cell[2291, 58, 959, 15, 35, "Text",ExpressionUUID->"6f30e651-ac80-49ea-bc64-65793e8fb5bc"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[3236, 78, 593, 9, 67, "Section",ExpressionUUID->"3c190689-1ce0-4e3c-a8ce-c1e167287e1c"],
-Cell[3832, 89, 1006, 18, 81, "Text",ExpressionUUID->"6b9c493a-2d47-4179-87d5-3f8e15efc482"]
+Cell[3287, 78, 593, 9, 67, "Section",ExpressionUUID->"3c190689-1ce0-4e3c-a8ce-c1e167287e1c"],
+Cell[3883, 89, 1051, 19, 81, "Text",ExpressionUUID->"6b9c493a-2d47-4179-87d5-3f8e15efc482"]
 }, Open  ]]
 }, Open  ]]
 }
