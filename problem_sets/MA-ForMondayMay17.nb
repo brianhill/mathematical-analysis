@@ -1,0 +1,147 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5924,        139]
+NotebookOptionsPosition[      4866,        111]
+NotebookOutlinePosition[      5314,        129]
+CellTagsIndexPosition[      5271,        126]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Mathematical Analysis \[LongDash] More on Chapters 5 and 6", "Chapter",
+ CellChangeTimes->{{3.8297409657170067`*^9, 3.829740997891358*^9}, {
+  3.830089292166008*^9, 
+  3.830089316790659*^9}},ExpressionUUID->"08dff64c-4584-4a30-a4b1-\
+c0485c5ee0f5"],
+
+Cell["For Monday, May 17, 2021", "Subtitle",
+ CellChangeTimes->{{3.829741017397872*^9, 3.8297410327204447`*^9}, {
+  3.829741904724494*^9, 3.829741922228442*^9}, {3.8300893290533047`*^9, 
+  3.830089338615944*^9}},ExpressionUUID->"9a2c62ca-d9d6-4a5c-b2ab-\
+ef4b477dcef9"],
+
+Cell["\<\
+Since several people are still having trouble with Chapters 5 and 6, we can\
+\[CloseCurlyQuote]t add more material until everyone is solid on those. On \
+the other hand, I don\[CloseCurlyQuote]t know what to \[LongDash] in terms of \
+things I could say or additional problems I could write up \[LongDash] to \
+help make those more solid. So I have just chosen more Spivak problems.\
+\>", "Text",
+ CellChangeTimes->{{3.8300899940786343`*^9, 3.830089995470834*^9}, {
+  3.830090681917952*^9, 
+  3.830090754703341*^9}},ExpressionUUID->"ca883831-20ed-40b4-9fec-\
+580646f747f4"],
+
+Cell[CellGroupData[{
+
+Cell["Reading", "Section",
+ CellChangeTimes->{{3.828447303125578*^9, 3.8284473071759043`*^9}, {
+   3.828448098636496*^9, 3.828448109391552*^9}, 3.828448210755623*^9, {
+   3.829740478855976*^9, 3.829740499747809*^9}, {3.829740564467444*^9, 
+   3.829740566357663*^9}, {3.82974090817356*^9, 3.829740912381254*^9}, {
+   3.830089378452539*^9, 3.830089384977572*^9}, {3.83008949474662*^9, 
+   3.8300895007539253`*^9}, {3.8300901070726624`*^9, 
+   3.830090107994543*^9}},ExpressionUUID->"0c1143f9-d520-41f7-9672-\
+043e024b40e2"],
+
+Cell["\<\
+The reading therefore has nothing additional. For discussion, we\
+\[CloseCurlyQuote]ll continue to focus on Chapter 6.\
+\>", "Text",
+ CellChangeTimes->{{3.8284474725875397`*^9, 3.828447589824294*^9}, {
+  3.828447670769052*^9, 3.82844769501711*^9}, {3.828447786409136*^9, 
+  3.828447884611442*^9}, {3.828447919296382*^9, 3.828447993017722*^9}, {
+  3.8284480339297037`*^9, 3.8284480387951593`*^9}, {3.8284481139503307`*^9, 
+  3.828448231558095*^9}, {3.8297402766946383`*^9, 3.829740292157325*^9}, {
+  3.829740323634078*^9, 3.82974034027992*^9}, {3.829740506812354*^9, 
+  3.8297406077798777`*^9}, {3.8297406390488663`*^9, 3.829740658808031*^9}, {
+  3.830089389736863*^9, 3.8300895339532957`*^9}, {3.8300899767201977`*^9, 
+  3.830089984153571*^9}, {3.830090022346635*^9, 3.830090031900531*^9}, {
+  3.8300901477192287`*^9, 3.830090152354065*^9}, {3.830090421075674*^9, 
+  3.8300904297836742`*^9}},ExpressionUUID->"6f30e651-ac80-49ea-bc64-\
+65793e8fb5bc"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["In-Class Problems for Monday", "Section",
+ CellChangeTimes->{{3.828447303125578*^9, 3.8284473071759043`*^9}, {
+   3.828448098636496*^9, 3.828448109391552*^9}, 3.828448210755623*^9, {
+   3.829740478855976*^9, 3.829740499747809*^9}, {3.829740564467444*^9, 
+   3.829740566357663*^9}, {3.82974090817356*^9, 3.829740912381254*^9}, {
+   3.830089378452539*^9, 3.830089384977572*^9}, {3.83008949474662*^9, 
+   3.8300895007539253`*^9}, {3.83008986020962*^9, 3.8300898610078363`*^9}, {
+   3.830090110199362*^9, 
+   3.8300901336230392`*^9}},ExpressionUUID->"3c190689-1ce0-4e3c-a8ce-\
+c1e167287e1c"],
+
+Cell["\<\
+Problems 4, 10, 11, and 12 from Chapter 5. I am hoping these two will help \
+cement Chapter 5.
+
+Problem 7 from Chapter 6.\
+\>", "Text",
+ CellChangeTimes->{{3.8284474725875397`*^9, 3.828447589824294*^9}, {
+  3.828447670769052*^9, 3.82844769501711*^9}, {3.828447786409136*^9, 
+  3.828447884611442*^9}, {3.828447919296382*^9, 3.828447993017722*^9}, {
+  3.8284480339297037`*^9, 3.8284480387951593`*^9}, {3.8284481139503307`*^9, 
+  3.828448231558095*^9}, {3.8297402766946383`*^9, 3.829740292157325*^9}, {
+  3.829740323634078*^9, 3.82974034027992*^9}, {3.829740506812354*^9, 
+  3.8297406077798777`*^9}, {3.8297406390488663`*^9, 3.829740658808031*^9}, {
+  3.830089389736863*^9, 3.8300895339532957`*^9}, {3.830089866463937*^9, 
+  3.830089903972629*^9}, {3.8300899461600513`*^9, 3.83008995414845*^9}, {
+  3.830090055377365*^9, 3.830090083503559*^9}, {3.830090245407777*^9, 
+  3.830090271710587*^9}, {3.830090404673402*^9, 
+  3.830090404740685*^9}},ExpressionUUID->"6b9c493a-2d47-4179-87d5-\
+3f8e15efc482"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1329, 1348},
+WindowMargins->{{150, Automatic}, {Automatic, 6}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (June 9, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"9f1213f7-a8fb-41b3-ae61-89cf01d7023a"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 254, 4, 69, "Chapter",ExpressionUUID->"08dff64c-4584-4a30-a4b1-c0485c5ee0f5"],
+Cell[837, 28, 269, 4, 53, "Subtitle",ExpressionUUID->"9a2c62ca-d9d6-4a5c-b2ab-ef4b477dcef9"],
+Cell[1109, 34, 582, 10, 58, "Text",ExpressionUUID->"ca883831-20ed-40b4-9fec-580646f747f4"],
+Cell[CellGroupData[{
+Cell[1716, 48, 521, 8, 67, "Section",ExpressionUUID->"0c1143f9-d520-41f7-9672-043e024b40e2"],
+Cell[2240, 58, 959, 15, 35, "Text",ExpressionUUID->"6f30e651-ac80-49ea-bc64-65793e8fb5bc"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3236, 78, 593, 9, 67, "Section",ExpressionUUID->"3c190689-1ce0-4e3c-a8ce-c1e167287e1c"],
+Cell[3832, 89, 1006, 18, 81, "Text",ExpressionUUID->"6b9c493a-2d47-4179-87d5-3f8e15efc482"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+

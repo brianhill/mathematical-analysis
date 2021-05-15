@@ -10,9 +10,9 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 * Thursday, May 13 &mdash; Finish reading Chapter 6 &mdash; [Problem Set 8](./problem_sets/MA-PS08.pdf)
 
-### Week 9 &mdash; Chapter 7 &mdash; Finish Continuous Functions and Three Hard Theorems
+### Week 9 &mdash; Continue Consolidating Chapters 5 and 6
 
-* Monday, May 17
+* Monday, May 17 &mdash; [For Monday, May 17](./problem_sets/MA-ForMondayMay17.pdf)
 * Thursday, May 20
 
 ### Week 10 &mdash; Chapter 8 &mdash; Least Upper Bounds
