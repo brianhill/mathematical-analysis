@@ -4,17 +4,16 @@ Course [home page](./)
 
 See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
-Note: All page numbers, equations, and problem numbers refer to the 3rd Edition of [*Calculus*](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444) by Michael Spivak or to the 2nd Edition of [*What is Mathematics?*], 2nd Edition](https://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192) by Courant and Robbins.
+Note: All page numbers, equations, and problem numbers refer to the 3rd Edition of [*Calculus*](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444) by Michael Spivak or to the 2nd Edition of [*What is Mathematics?*](https://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192) by Courant and Robbins.
 
-### Week 8 &mdash; Chapter 6 &mdash; Finish Continuous Functions
+### Week 8 &mdash; Chapter 6 &mdash; Start Continuous Functions
 
-* We are still on break on Monday, so this week is short.*
-* Thursday, May 13 &mdash; Finish reading Chapter 6 &mdash; Problem Set 8: Chapter 6, Problems 1-5
+* Thursday, May 13 &mdash; Finish reading Chapter 6 &mdash; [Problem Set 8](./problem_sets/MA-PS08.pdf)
 
-### Week 9 &mdash; Chapter 7 &mdash; Three Hard Theorems
+### Week 9 &mdash; Consolidate Chapters 5 and 6 &mdash; Start Three Hard Theorems
 
-* Monday, May 17
-* Thursday, May 20
+* Monday, May 17 &mdash; [For Monday, May 17](./problem_sets/MA-ForMondayMay17.pdf)
+* Thursday, May 20 &mdash; Read Chapter 7, pp. 120-123 (through Theorem 8) &mdash; [Problem Set 9](./problem_sets/MA-PS09.pdf)
 
 ### Week 10 &mdash; Chapter 8 &mdash; Least Upper Bounds
 

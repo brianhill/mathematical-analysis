@@ -1,0 +1,251 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      9894,        243]
+NotebookOptionsPosition[      8344,        205]
+NotebookOutlinePosition[      8792,        223]
+CellTagsIndexPosition[      8749,        220]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Mathematical Analysis Problem Set 9", "Chapter",
+ CellChangeTimes->{{3.8297409657170067`*^9, 3.829740997891358*^9}, {
+  3.830276933298452*^9, 
+  3.830276933569028*^9}},ExpressionUUID->"08dff64c-4584-4a30-a4b1-\
+c0485c5ee0f5"],
+
+Cell[CellGroupData[{
+
+Cell["Reading for Thursday, May 20, 2021", "Section",
+ CellChangeTimes->{{3.829738920437018*^9, 3.829738931300631*^9}, {
+  3.830276961976013*^9, 3.8302769749807777`*^9}, {3.8302805170569468`*^9, 
+  3.830280519723055*^9}},ExpressionUUID->"b2fb4647-8afb-43ca-91bb-\
+ba963af1ea65"],
+
+Cell[TextData[{
+ "Chapter 7, pp. 120 through the proof of Theorem 8 at the top of p. 123.\n\n\
+Comments: Theorems 1-3 are the \[OpenCurlyDoubleQuote]three hard theorems.\
+\[CloseCurlyDoubleQuote] Try to appreciate how reasonable the results are. \
+How could continuous functions behave anything but this way? But also \
+appreciate that we have no way to prove them!\n\nMore comments: Theorems 4-7 \
+are easy extensions of Theorems 1-3. The proofs are short. But keep in mind, \
+we still don\[CloseCurlyQuote]t have Theorems 1-3, so we haven\
+\[CloseCurlyQuote]t really yet proved Theorems 4-7. Then Theorem 8, is a bolt \
+from the blue. It is so easy now to prove that there must be some positive ",
+ Cell[BoxData[
+  FormBox["x", TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "78252865-42b8-40b0-832b-c2b6cfbe35f2"],
+ " such that ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     SuperscriptBox["x", "2"], "-", "c"}], "=", "0"}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "cbbb7c37-972b-42f0-91f1-5080761b342a"],
+ " has a solution if ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"c", ">", "0"}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "7a8ef241-c9cc-4a36-b773-c3c9b232e53e"],
+ ". But we needed Theorem 4, which in turn needed Theorem 1, and we still can\
+\[CloseCurlyQuote]t prove Theorem 1. After you have read and thought about \
+Theorems 1-8, go back to Chapter 6, and take another look at Theorem 3 and \
+its proof on p. 117. "
+}], "Text",
+ CellChangeTimes->{{3.829737938718643*^9, 3.829737950878636*^9}, {
+  3.829738030314198*^9, 3.829738209907251*^9}, {3.8297382532303047`*^9, 
+  3.829738254242917*^9}, {3.829738946861884*^9, 3.8297389572571287`*^9}, {
+  3.829742779881722*^9, 3.829742780150837*^9}, {3.8302769974817743`*^9, 
+  3.830277483624457*^9}, {3.8302775476234713`*^9, 3.830277601217767*^9}, {
+  3.830280548299024*^9, 
+  3.83028054932183*^9}},ExpressionUUID->"c55cc1db-4e48-4bc8-bd23-\
+30f402479f4e"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Problem Set 9 for Thursday, May 20, 2021", "Section",
+ CellChangeTimes->{{3.829738920437018*^9, 3.829738931300631*^9}, {
+  3.830277615346884*^9, 3.8302776184743967`*^9}, {3.83028050622369*^9, 
+  3.830280513411769*^9}},ExpressionUUID->"7e855a0b-1ec0-4961-8f77-\
+75be052ffa9b"],
+
+Cell[CellGroupData[{
+
+Cell["1 Chapter 6, Problem 1.", "Subsection",
+ CellChangeTimes->{{3.8297390093669977`*^9, 3.829739010367674*^9}, {
+  3.8302776558125772`*^9, 3.830277695164997*^9}, {3.8302780270465183`*^9, 
+  3.830278027406331*^9}},ExpressionUUID->"2b0ddca6-7bc2-4c50-8028-\
+cca96911bdcb"],
+
+Cell[TextData[{
+ "Comments: First make it very clear what the domain of ",
+ Cell[BoxData[
+  FormBox["f", TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "06a7ddb4-010f-46c8-bb6b-cf0df2ec5ab0"],
+ " is for each part. For example, for Part (iii), the domain of ",
+ Cell[BoxData[
+  FormBox["f", TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "1fe16ff5-1a45-46ee-99b7-5d8dceac94a5"],
+ " is the irrational numbers. So the problem for this part is to find a \
+function ",
+ Cell[BoxData[
+  FormBox["F", TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "89a9afbf-3e25-4820-a5a8-03212b920f99"],
+ " whose domain is all the real numbers that agrees with ",
+ Cell[BoxData[
+  FormBox["f", TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "1ec2c203-7eb0-4674-849d-3247b689fb9f"],
+ " in ",
+ Cell[BoxData[
+  FormBox["f", TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "7eac4e0e-dcc8-4b2c-8db9-c6b049c31385"],
+ "\[CloseCurlyQuote]s domain, and it has to be continuous. Or if no such \
+function can be found, then you state that. For Part (iv) you might be happy \
+to graph ",
+ Cell[BoxData[
+  FormBox["f", TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "fb5d9a41-8f32-4dec-a788-d46568a1981b"],
+ " and then to graph ",
+ Cell[BoxData[
+  FormBox["F", TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "3a81e99d-7b49-4c38-9c5a-cb92be6b5c44"],
+ "."
+}], "Text",
+ CellChangeTimes->{{3.829737938718643*^9, 3.829737950878636*^9}, {
+   3.829738030314198*^9, 3.829738209907251*^9}, {3.8297382532303047`*^9, 
+   3.829738254242917*^9}, {3.829738946861884*^9, 3.8297389572571287`*^9}, {
+   3.829742779881722*^9, 3.829742780150837*^9}, {3.83027770408626*^9, 
+   3.830277960942333*^9}, 
+   3.8302780307479362`*^9},ExpressionUUID->"a779fc9a-4c05-4a1c-8819-\
+f941891ed9f0"]
+}, Open  ]],
+
+Cell["\<\
+2 Chapter 6, Problem 2, but ignore the functions of problem 4-19.\
+\>", "Subsection",
+ CellChangeTimes->{{3.8297390093669977`*^9, 3.829739010367674*^9}, {
+  3.8302776558125772`*^9, 3.830277695164997*^9}, {3.830278017237165*^9, 
+  3.8302780560491858`*^9}},ExpressionUUID->"a191048b-7663-4e47-bc80-\
+f92028f0bbc7"],
+
+Cell[CellGroupData[{
+
+Cell["3 Chapter 6, Problem 8", "Subsection",
+ CellChangeTimes->{{3.8297390093669977`*^9, 3.829739010367674*^9}, {
+   3.8302776558125772`*^9, 3.830277695164997*^9}, {3.830278017237165*^9, 
+   3.830278066027185*^9}, 
+   3.830278135203061*^9},ExpressionUUID->"b2e2a1d5-8dd1-4270-9499-\
+a89fd6e2e3f8"],
+
+Cell["\<\
+Comment: I think this follows straightforwardly from Chapter 6, Theorem 3.\
+\>", "Text",
+ CellChangeTimes->{{3.829737938718643*^9, 3.829737950878636*^9}, {
+   3.829738030314198*^9, 3.829738209907251*^9}, {3.8297382532303047`*^9, 
+   3.829738254242917*^9}, {3.829738946861884*^9, 3.8297389572571287`*^9}, {
+   3.829742779881722*^9, 3.829742780150837*^9}, {3.83027770408626*^9, 
+   3.830277960942333*^9}, 3.8302780307479362`*^9, {3.8302781431126423`*^9, 
+   3.830278166927309*^9}, {3.8302804460922422`*^9, 
+   3.830280447373699*^9}},ExpressionUUID->"b06eb44a-cdb9-4405-9854-\
+6b3792def121"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["4 Chapter 6, Problem 13", "Subsection",
+ CellChangeTimes->{{3.8297390093669977`*^9, 3.829739010367674*^9}, {
+   3.8302776558125772`*^9, 3.830277695164997*^9}, {3.830278017237165*^9, 
+   3.830278066027185*^9}, 3.830278135203061*^9, {3.8302782922180977`*^9, 
+   3.830278296076202*^9}},ExpressionUUID->"c1e45950-fc54-44b7-a15f-\
+5e34506f3fd7"],
+
+Cell["\<\
+Comments: 13(a) seems a bit dull. It says that a function that is defined \
+only on [a, b] and is continuous on that interval can be extended to be \
+continuous on all the reals. However, 13(b) is so close to the same thing \
+except the closed interval [a, b] is replaced by the open interval (a, b). \
+Then you can\[CloseCurlyQuote]t necessarily extend the function to be \
+continuous on all the reals. Spivak asks for a counterexample (an example to \
+show that the assertion is false for the open interval.\
+\>", "Text",
+ CellChangeTimes->{{3.829737938718643*^9, 3.829737950878636*^9}, {
+   3.829738030314198*^9, 3.829738209907251*^9}, {3.8297382532303047`*^9, 
+   3.829738254242917*^9}, {3.829738946861884*^9, 3.8297389572571287`*^9}, {
+   3.829742779881722*^9, 3.829742780150837*^9}, {3.83027770408626*^9, 
+   3.830277960942333*^9}, 3.8302780307479362`*^9, {3.8302781431126423`*^9, 
+   3.830278166927309*^9}, {3.830278321928151*^9, 
+   3.8302785257024527`*^9}},ExpressionUUID->"1fc9afb6-87a8-4b3d-8e98-\
+06024d52dc11"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1329, 1348},
+WindowMargins->{{531, Automatic}, {Automatic, 0}},
+PrintingCopies->5,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (June 9, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"ebd33cd0-020b-48d7-98ae-3e9fb1f7a012"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 231, 4, 69, "Chapter",ExpressionUUID->"08dff64c-4584-4a30-a4b1-c0485c5ee0f5"],
+Cell[CellGroupData[{
+Cell[836, 30, 278, 4, 67, "Section",ExpressionUUID->"b2fb4647-8afb-43ca-91bb-ba963af1ea65"],
+Cell[1117, 36, 2000, 40, 196, "Text",ExpressionUUID->"c55cc1db-4e48-4bc8-bd23-30f402479f4e"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3154, 81, 281, 4, 67, "Section",ExpressionUUID->"7e855a0b-1ec0-4961-8f77-75be052ffa9b"],
+Cell[CellGroupData[{
+Cell[3460, 89, 272, 4, 54, "Subsection",ExpressionUUID->"2b0ddca6-7bc2-4c50-8028-cca96911bdcb"],
+Cell[3735, 95, 1890, 47, 81, "Text",ExpressionUUID->"a779fc9a-4c05-4a1c-8819-f941891ed9f0"]
+}, Open  ]],
+Cell[5640, 145, 322, 6, 54, "Subsection",ExpressionUUID->"a191048b-7663-4e47-bc80-f92028f0bbc7"],
+Cell[CellGroupData[{
+Cell[5987, 155, 297, 5, 38, "Subsection",ExpressionUUID->"b2e2a1d5-8dd1-4270-9499-a89fd6e2e3f8"],
+Cell[6287, 162, 598, 10, 35, "Text",ExpressionUUID->"b06eb44a-cdb9-4405-9854-6b3792def121"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6922, 177, 346, 5, 54, "Subsection",ExpressionUUID->"c1e45950-fc54-44b7-a15f-5e34506f3fd7"],
+Cell[7271, 184, 1033, 16, 81, "Text",ExpressionUUID->"1fc9afb6-87a8-4b3d-8e98-06024d52dc11"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
