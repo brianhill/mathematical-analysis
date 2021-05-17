@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     10078,        249]
-NotebookOptionsPosition[      8432,        210]
-NotebookOutlinePosition[      8880,        228]
-CellTagsIndexPosition[      8837,        225]
+NotebookDataLength[      9894,        243]
+NotebookOptionsPosition[      8344,        205]
+NotebookOutlinePosition[      8792,        223]
+CellTagsIndexPosition[      8749,        220]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -26,18 +26,12 @@ Cell["Mathematical Analysis Problem Set 9", "Chapter",
   3.830276933569028*^9}},ExpressionUUID->"08dff64c-4584-4a30-a4b1-\
 c0485c5ee0f5"],
 
-Cell["Problems For Thursday, May 20, 2021", "Subtitle",
- CellChangeTimes->{{3.829741017397872*^9, 3.8297410327204447`*^9}, {
-  3.829741904724494*^9, 3.829741922228442*^9}, {3.83027694015025*^9, 
-  3.83027695493265*^9}},ExpressionUUID->"9a2c62ca-d9d6-4a5c-b2ab-\
-ef4b477dcef9"],
-
 Cell[CellGroupData[{
 
-Cell["Reading for Thursday", "Section",
+Cell["Reading for Thursday, May 20, 2021", "Section",
  CellChangeTimes->{{3.829738920437018*^9, 3.829738931300631*^9}, {
-  3.830276961976013*^9, 
-  3.8302769749807777`*^9}},ExpressionUUID->"b2fb4647-8afb-43ca-91bb-\
+  3.830276961976013*^9, 3.8302769749807777`*^9}, {3.8302805170569468`*^9, 
+  3.830280519723055*^9}},ExpressionUUID->"b2fb4647-8afb-43ca-91bb-\
 ba963af1ea65"],
 
 Cell[TextData[{
@@ -69,25 +63,26 @@ from the blue. It is so easy now to prove that there must be some positive ",
   FormatType->"TraditionalForm",ExpressionUUID->
   "7a8ef241-c9cc-4a36-b773-c3c9b232e53e"],
  ". But we needed Theorem 4, which in turn needed Theorem 1, and we still can\
-\[CloseCurlyQuote]t prove Theorem 1.\n\nOne last comment: After you have read \
-and thought about Theorems 1-8, go back to Chapter 6, and take another look \
-at Theorem 3 and its proof on p. 117. "
+\[CloseCurlyQuote]t prove Theorem 1. After you have read and thought about \
+Theorems 1-8, go back to Chapter 6, and take another look at Theorem 3 and \
+its proof on p. 117. "
 }], "Text",
  CellChangeTimes->{{3.829737938718643*^9, 3.829737950878636*^9}, {
   3.829738030314198*^9, 3.829738209907251*^9}, {3.8297382532303047`*^9, 
   3.829738254242917*^9}, {3.829738946861884*^9, 3.8297389572571287`*^9}, {
   3.829742779881722*^9, 3.829742780150837*^9}, {3.8302769974817743`*^9, 
-  3.830277483624457*^9}, {3.8302775476234713`*^9, 
-  3.830277601217767*^9}},ExpressionUUID->"c55cc1db-4e48-4bc8-bd23-\
+  3.830277483624457*^9}, {3.8302775476234713`*^9, 3.830277601217767*^9}, {
+  3.830280548299024*^9, 
+  3.83028054932183*^9}},ExpressionUUID->"c55cc1db-4e48-4bc8-bd23-\
 30f402479f4e"]
 }, Open  ]],
 
 Cell[CellGroupData[{
 
-Cell["Problem Set 9 for Thursday", "Section",
+Cell["Problem Set 9 for Thursday, May 20, 2021", "Section",
  CellChangeTimes->{{3.829738920437018*^9, 3.829738931300631*^9}, {
-  3.830277615346884*^9, 
-  3.8302776184743967`*^9}},ExpressionUUID->"7e855a0b-1ec0-4961-8f77-\
+  3.830277615346884*^9, 3.8302776184743967`*^9}, {3.83028050622369*^9, 
+  3.830280513411769*^9}},ExpressionUUID->"7e855a0b-1ec0-4961-8f77-\
 75be052ffa9b"],
 
 Cell[CellGroupData[{
@@ -166,15 +161,15 @@ Cell["3 Chapter 6, Problem 8", "Subsection",
 a89fd6e2e3f8"],
 
 Cell["\<\
-Comment: I think this follows pretty straightforwardly from Chapter 6, \
-Theorem 3.\
+Comment: I think this follows straightforwardly from Chapter 6, Theorem 3.\
 \>", "Text",
  CellChangeTimes->{{3.829737938718643*^9, 3.829737950878636*^9}, {
    3.829738030314198*^9, 3.829738209907251*^9}, {3.8297382532303047`*^9, 
    3.829738254242917*^9}, {3.829738946861884*^9, 3.8297389572571287`*^9}, {
    3.829742779881722*^9, 3.829742780150837*^9}, {3.83027770408626*^9, 
    3.830277960942333*^9}, 3.8302780307479362`*^9, {3.8302781431126423`*^9, 
-   3.830278166927309*^9}},ExpressionUUID->"b06eb44a-cdb9-4405-9854-\
+   3.830278166927309*^9}, {3.8302804460922422`*^9, 
+   3.830280447373699*^9}},ExpressionUUID->"b06eb44a-cdb9-4405-9854-\
 6b3792def121"]
 }, Open  ]],
 
@@ -210,7 +205,7 @@ show that the assertion is false for the open interval.\
 },
 WindowSize->{1329, 1348},
 WindowMargins->{{531, Automatic}, {Automatic, 0}},
-PrintingCopies->1,
+PrintingCopies->5,
 PrintingPageRange->{1, Automatic},
 FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (June 9, 2020)",
 StyleDefinitions->"Default.nb",
@@ -229,25 +224,24 @@ CellTagsIndex->{}
 Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 231, 4, 69, "Chapter",ExpressionUUID->"08dff64c-4584-4a30-a4b1-c0485c5ee0f5"],
-Cell[814, 28, 276, 4, 53, "Subtitle",ExpressionUUID->"9a2c62ca-d9d6-4a5c-b2ab-ef4b477dcef9"],
 Cell[CellGroupData[{
-Cell[1115, 36, 216, 4, 67, "Section",ExpressionUUID->"b2fb4647-8afb-43ca-91bb-ba963af1ea65"],
-Cell[1334, 42, 1973, 39, 242, "Text",ExpressionUUID->"c55cc1db-4e48-4bc8-bd23-30f402479f4e"]
+Cell[836, 30, 278, 4, 67, "Section",ExpressionUUID->"b2fb4647-8afb-43ca-91bb-ba963af1ea65"],
+Cell[1117, 36, 2000, 40, 196, "Text",ExpressionUUID->"c55cc1db-4e48-4bc8-bd23-30f402479f4e"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[3344, 86, 222, 4, 67, "Section",ExpressionUUID->"7e855a0b-1ec0-4961-8f77-75be052ffa9b"],
+Cell[3154, 81, 281, 4, 67, "Section",ExpressionUUID->"7e855a0b-1ec0-4961-8f77-75be052ffa9b"],
 Cell[CellGroupData[{
-Cell[3591, 94, 272, 4, 54, "Subsection",ExpressionUUID->"2b0ddca6-7bc2-4c50-8028-cca96911bdcb"],
-Cell[3866, 100, 1890, 47, 81, "Text",ExpressionUUID->"a779fc9a-4c05-4a1c-8819-f941891ed9f0"]
+Cell[3460, 89, 272, 4, 54, "Subsection",ExpressionUUID->"2b0ddca6-7bc2-4c50-8028-cca96911bdcb"],
+Cell[3735, 95, 1890, 47, 81, "Text",ExpressionUUID->"a779fc9a-4c05-4a1c-8819-f941891ed9f0"]
 }, Open  ]],
-Cell[5771, 150, 322, 6, 54, "Subsection",ExpressionUUID->"a191048b-7663-4e47-bc80-f92028f0bbc7"],
+Cell[5640, 145, 322, 6, 54, "Subsection",ExpressionUUID->"a191048b-7663-4e47-bc80-f92028f0bbc7"],
 Cell[CellGroupData[{
-Cell[6118, 160, 297, 5, 38, "Subsection",ExpressionUUID->"b2e2a1d5-8dd1-4270-9499-a89fd6e2e3f8"],
-Cell[6418, 167, 555, 10, 35, "Text",ExpressionUUID->"b06eb44a-cdb9-4405-9854-6b3792def121"]
+Cell[5987, 155, 297, 5, 38, "Subsection",ExpressionUUID->"b2e2a1d5-8dd1-4270-9499-a89fd6e2e3f8"],
+Cell[6287, 162, 598, 10, 35, "Text",ExpressionUUID->"b06eb44a-cdb9-4405-9854-6b3792def121"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[7010, 182, 346, 5, 54, "Subsection",ExpressionUUID->"c1e45950-fc54-44b7-a15f-5e34506f3fd7"],
-Cell[7359, 189, 1033, 16, 81, "Text",ExpressionUUID->"1fc9afb6-87a8-4b3d-8e98-06024d52dc11"]
+Cell[6922, 177, 346, 5, 54, "Subsection",ExpressionUUID->"c1e45950-fc54-44b7-a15f-5e34506f3fd7"],
+Cell[7271, 184, 1033, 16, 81, "Text",ExpressionUUID->"1fc9afb6-87a8-4b3d-8e98-06024d52dc11"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
