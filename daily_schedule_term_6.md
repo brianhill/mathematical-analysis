@@ -10,15 +10,15 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 * Thursday, May 13 &mdash; Finish reading Chapter 6 &mdash; [Problem Set 8](./problem_sets/MA-PS08.pdf)
 
-### Week 9 &mdash; Consolidate Chapters 5 and 6 &mdash; Start Three Hard Theorems
+### Week 9 &mdash; Consolidate Chapters 5 and 6 &mdash; Start Chapter 7 &mdash; Three Hard Theorems
 
 * Monday, May 17 &mdash; [For Monday, May 17](./problem_sets/MA-ForMondayMay17.pdf)
 * Thursday, May 20 &mdash; Read Chapter 7, pp. 120-123 (through Theorem 8) &mdash; [Problem Set 9](./problem_sets/MA-PS09.pdf)
 
 ### Week 10 &mdash; Chapter 8 &mdash; Least Upper Bounds
 
-* Monday, May 24
-* Thursday, May 27
+* Monday, May 24 &mdash; Finish Reading Chapter 7 &mdash; Problem Set 10: Chapter 7, Problem 1 parts (i)-(vi) only, Problems, 2, 3, and 10 &mdash; In-Class: Chapter 6, Problem 15 (I think this can quickly be proved using Chapter 6, Problem 13), and Chapter 7, Problem 11
+* Thursday, May 27 &mdash; Read Chapter 8 through to the proof of Theorem 7-1 which ends at the top of p. 134 &mdash; In-Class: Chapter 8, Problem 1
 
 ### Week 11 &mdash; Special Topic &mdash; Polar Coordinates or the Derivative
 
