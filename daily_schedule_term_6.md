@@ -17,13 +17,13 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 ### Week 10 &mdash; Chapter 8 &mdash; Least Upper Bounds
 
-* Monday, May 24 &mdash; Finish Reading Chapter 7 &mdash; Problem Set 10: Chapter 7, Problem 1 parts (i)-(vi) only, Problems, 2, 3, and 10 &mdash; In-Class: Chapter 6, Problem 15 (I think this can quickly be proved using Chapter 6, Problem 13), and Chapter 7, Problem 11
-* Thursday, May 27 &mdash; Read Chapter 8 through to the proof of Theorem 7-1 which ends at the top of p. 134 &mdash; In-Class: Chapter 8, Problem 1
+* Monday, May 24 &mdash; Finish Reading Chapter 7 &mdash; Problem Set 10: Chapter 7, Problem 1 parts (i)-(vi) only, Problems, 2, 3, and 10 &mdash; In-Class: Chapter 6, Problem 15, and Chapter 7, Problem 11
+* Thursday, May 27 &mdash; Read Chapter 8 through to the proof of Theorem 7-3 which ends at the top of p. 136 &mdash; In-Class: Chapter 8, Problem 1
 
-### Week 11 &mdash; Special Topic &mdash; Polar Coordinates or the Derivative
+### Week 11 &mdash; Special Topic &mdash; The Derivative
 
-* Monday, May 31 &mdash; Polar Coordinates or the Derivative
-* Thursday, June 3 &mdash; Polar Coordinates or the Derivative
+* Monday, May 31 &mdash; Finish Chapter 8 &mdash; Begin Special Topic (Chapter 9) The Derivative
+* Thursday, June 3 &mdash; Finish Chapter 9
 
 ### Week 12 &mdash; Complex Numbers
 
