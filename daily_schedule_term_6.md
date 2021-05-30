@@ -22,8 +22,8 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 ### Week 11 &mdash; Special Topic &mdash; The Derivative
 
-* Monday, May 31 &mdash; Finish Chapter 8 &mdash; Begin Special Topic (Chapter 9) The Derivative
-* Thursday, June 3 &mdash; Finish Chapter 9
+* Monday, May 31 &mdash; Finish Chapter 8 &mdash; Begin Special Topic (Chapter 9) Differentiability, and the Derivative &mdash; [Problem Set 10](./problem_sets/MA-PS10.pdf)
+* Thursday, June 3 &mdash; Continue with our study of the derivative.
 
 ### Week 12 &mdash; Complex Numbers
 
