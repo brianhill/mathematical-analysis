@@ -22,8 +22,8 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 ### Week 11 Uniform Continuity &mdash; Special Topic The Derivative
 
-* Monday, May 31 &mdash; Finish Reading Chapter 8 including reading the appendix up to the boxed definition of uniform continuity on page 149. &mdash; Begin our Special Topic (Chapter 9) up to the boxed definition of differentiability and the derivative. &mdash; [Problem Set 10](./problem_sets/MA-PS10.pdf)
-* Thursday, June 3 &mdash; Continue with our study of the derivative by reading through to the bottom of p. 156. &mdash; [Problem Set 11](./problem_sets/MA-PS11.pdf)
+* Monday, May 31 &mdash; Finish Reading Chapter 8 including reading the appendix up to the boxed definition of uniform continuity on page 149. &mdash; Begin our Special Topic (Chapter 9) up to the boxed definition of differentiability and the derivative. &mdash; [Problem Set 11](./problem_sets/MA-PS11.pdf)
+* Thursday, June 3 &mdash; Continue with our study of the derivative by reading through to the bottom of p. 156. &mdash; [Problem Set 12](./problem_sets/MA-PS12.pdf)
 
 ### Week 12 &mdash; Complex Numbers
 
