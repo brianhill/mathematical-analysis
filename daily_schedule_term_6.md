@@ -23,19 +23,19 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 ### Week 11 Uniform Continuity &mdash; Special Topic Derivatives and Integrals
 
 * Monday, May 31 &mdash; Finish Reading Chapter 8 including reading the appendix up to the boxed definition of uniform continuity on page 149. &mdash; Begin our Special Topic (Chapter 9) up to the boxed definition of differentiability and the derivative. &mdash; [Problem Set 11](./problem_sets/MA-PS11.pdf)
-* Thursday, June 3 &mdash; Continue with our study of the derivative by reading through to the bottom of p. 156. &mdash; [Problem Set 12](./problem_sets/MA-PS12.pdf) with [Drag Racer worksheet](./problem_sets/DragRacer.pdf) &mdash; [Drag Racer Integrals worksheet](./problem_sets/DragRacerIntegrals.pdf)
+* Thursday, June 3 &mdash; Continue with our study of the derivative by reading through to the bottom of p. 156. &mdash; [Problem Set 12](./problem_sets/MA-PS12.pdf) with [Drag Racer worksheet](./problem_sets/DragRacer.pdf)
 
-### Week 12 &mdash; Complex Numbers
+### Week 12 &mdash; Finish Derivatives and Integrals &mdash; The Origin of the Complex Numbers
 
-* Monday, June 7
-* Thursday, June 10
+* Monday, June 7 &mdash; Finish Chapter 9 of Spivak and the [Drag Racer Integrals worksheet](./problem_sets/DragRacerIntegrals.pdf)
+* Thursday, June 10 &mdash; Read Courant &amp; Robbins, Section II.5.1
 
-### Week 13 &mdash; Complex Numbers and Final
+### Week 13 &mdash; The Geometrical Interpretation of Complex Numbers and Final
 
-* Monday, June 14
+* Monday, June 14 &mdash; Read Courant &amp; Robbins, Section II.5.2
 * Thursday, June 17 &mdash; Final
 
-### Week 14 &mdash; The Fundamental Theorem of Algebra and Special Topics
+### Week 14 &mdash; The Roots of Unity and the Fundamental Theorem of Algebra
 
-* Monday, June 21
-* Thursday, June 24
+* Monday, June 21  &mdash; Read Courant &amp; Robbins, Section II.5.3
+* Thursday, June 24  &mdash; Read Courant &amp; Robbins, Section II.5.4
