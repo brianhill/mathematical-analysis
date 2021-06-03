@@ -20,10 +20,10 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 * Monday, May 24 &mdash; Finish Reading Chapter 7 &mdash; Problem Set 10: Chapter 7, Problem 1 parts (i)-(vi) only, Problems, 2, 3, and 10 &mdash; In-Class: Chapter 6, Problem 15, and Chapter 7, Problem 11
 * Thursday, May 27 &mdash; Read Chapter 8 through to the proof of Theorem 7-3 which ends at the top of p. 136 &mdash; In-Class: Chapter 8, Problem 1
 
-### Week 11 Uniform Continuity &mdash; Special Topic The Derivative
+### Week 11 Uniform Continuity &mdash; Special Topic Derivatives and Integrals
 
 * Monday, May 31 &mdash; Finish Reading Chapter 8 including reading the appendix up to the boxed definition of uniform continuity on page 149. &mdash; Begin our Special Topic (Chapter 9) up to the boxed definition of differentiability and the derivative. &mdash; [Problem Set 11](./problem_sets/MA-PS11.pdf)
-* Thursday, June 3 &mdash; Continue with our study of the derivative by reading through to the bottom of p. 156. &mdash; [Problem Set 12](./problem_sets/MA-PS12.pdf) &mdash; [Drag Racer worksheet](./problem_sets/DragRacer.pdf) for Problem Set 12
+* Thursday, June 3 &mdash; Continue with our study of the derivative by reading through to the bottom of p. 156. &mdash; [Problem Set 12](./problem_sets/MA-PS12.pdf) with [Drag Racer worksheet](./problem_sets/DragRacer.pdf) &mdash; [Drag Racer Integrals worksheet](./problem_sets/DragRacerIntegrals.pdf)
 
 ### Week 12 &mdash; Complex Numbers
 
