@@ -31,8 +31,8 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 ### Week 12 &mdash; Finish Derivatives and Integrals &mdash; Start Complex Numbers
 
-* Monday, June 7 &mdash; Finish Chapter 9 of Spivak and the [Drag Racer Integrals worksheet](./problem_sets/DragRacerIntegrals.pdf)
-* Thursday, June 10 &mdash; Read Courant &amp; Robbins, Section II.5.1 &mdash; The Origin of the Complex Numbers
+* Monday, June 7 &mdash; Finish Chapter 9 of Spivak and the [Drag Racer Integrals worksheet](./problem_sets/DragRacerIntegrals.pdf) &mdash; Mass on a spring example from physics &mdash; In-Class Chapter 9, Problems 8(a), 8(b), 9(a), and 11
+* Thursday, June 10 &mdash; Read Courant &amp; Robbins, Section II.5.1 &mdash; The Origin of the Complex Numbers &mdash; Problem Set 13 all four exercises in Section II.5.1
 
 ### Week 13 &mdash; Continue Complex Numbers and Final
 
