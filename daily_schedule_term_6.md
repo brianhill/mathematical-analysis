@@ -6,10 +6,6 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 Note: All page numbers, equations, and problem numbers refer to the 3rd Edition of [*Calculus*](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444) by Michael Spivak or to the 2nd Edition of [*What is Mathematics?*](https://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192) by Courant and Robbins.
 
-&nbsp;
-
-&nbsp;
-
 ### Week 8 &mdash; Chapter 6 &mdash; Start Continuous Functions
 
 * Thursday, May 13 &mdash; Finish reading Chapter 6 &mdash; [Problem Set 8](./problem_sets/MA-PS08.pdf)
@@ -36,7 +32,7 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 ### Week 13 &mdash; Continue Complex Numbers and Final
 
-* Monday, June 14 &mdash; Read Courant &amp; Robbins, Section II.5.2 &mdash; The Geometrical Interpretation of Complex Numbers
+* Monday, June 14 &mdash; Read Courant &amp; Robbins, Section II.5.2 &mdash; The Geometrical Interpretation of Complex Numbers &mdash; [Problem Set 13](./problem_sets/MA-PS13.pdf)
 * Thursday, June 17 &mdash; Final
 
 ### Week 14 &mdash; Finish Complex Numbers
