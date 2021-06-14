@@ -6,10 +6,6 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 Note: All page numbers, equations, and problem numbers refer to the 3rd Edition of [*Calculus*](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444) by Michael Spivak or to the 2nd Edition of [*What is Mathematics?*](https://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192) by Courant and Robbins.
 
-&nbsp;
-
-&nbsp;
-
 ### Week 8 &mdash; Chapter 6 &mdash; Start Continuous Functions
 
 * Thursday, May 13 &mdash; Finish reading Chapter 6 &mdash; [Problem Set 8](./problem_sets/MA-PS08.pdf)
@@ -31,12 +27,12 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 
 ### Week 12 &mdash; Finish Derivatives and Integrals &mdash; Start Complex Numbers
 
-* Monday, June 7 &mdash; Finish Chapter 9 of Spivak and the [Drag Racer Integrals worksheet](./problem_sets/DragRacerIntegrals.pdf)
-* Thursday, June 10 &mdash; Read Courant &amp; Robbins, Section II.5.1 &mdash; The Origin of the Complex Numbers
+* Monday, June 7 &mdash; Finish Chapter 9 of Spivak and the [Drag Racer Integrals worksheet](./problem_sets/DragRacerIntegrals.pdf) &mdash; Mass on a spring example from physics &mdash; In-Class Chapter 9, Problems 8(a), 8(b), 9(a), and 11
+* Thursday, June 10 &mdash; Read Courant &amp; Robbins, Section II.5.1 &mdash; The Origin of the Complex Numbers &mdash; Problem Set 13 all four exercises in Section II.5.1
 
 ### Week 13 &mdash; Continue Complex Numbers and Final
 
-* Monday, June 14 &mdash; Read Courant &amp; Robbins, Section II.5.2 &mdash; The Geometrical Interpretation of Complex Numbers
+* Monday, June 14 &mdash; Read Courant &amp; Robbins, Section II.5.2 &mdash; The Geometrical Interpretation of Complex Numbers &mdash; [Problem Set 13](./problem_sets/MA-PS13.pdf)
 * Thursday, June 17 &mdash; Final
 
 ### Week 14 &mdash; Finish Complex Numbers
