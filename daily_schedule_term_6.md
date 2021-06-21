@@ -33,7 +33,7 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 ### Week 13 &mdash; Continue Complex Numbers and Final
 
 * Monday, June 14 &mdash; Read Courant &amp; Robbins, Section II.5.2 &mdash; The Geometrical Interpretation of Complex Numbers &mdash; [Problem Set 13](./problem_sets/MA-PS13.pdf)
-* Thursday, June 17 &mdash; Final
+* Thursday, June 17 &mdash; [Final](./exams/M2.pdf)
 
 ### Week 14 &mdash; Finish Complex Numbers
 
