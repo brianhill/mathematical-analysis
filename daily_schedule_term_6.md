@@ -38,4 +38,4 @@ Note: All page numbers, equations, and problem numbers refer to the 3rd Edition 
 ### Week 14 &mdash; Finish Complex Numbers
 
 * Monday, June 21  &mdash; Read Courant &amp; Robbins, Section II.5.3 &mdash; The Roots of Unity
-* Thursday, June 24  &mdash; Read Courant &amp; Robbins, Section II.5.4 &mdash; The Fundamental Theorem of Algebra
+* Thursday, June 24  &mdash; Read Courant &amp; Robbins, Section II.5.4 &mdash; The Fundamental Theorem of Algebra &mdash; [Things to consider](./problem_sets/ThingsToConsider.pdf) when reading the proof of The Fundamental Theorem of Algebra
