@@ -9,9 +9,11 @@
 
 * [Preliminary Syllabus](./MathematicalAnalysisSyllabus.pages.pdf) containing essentially the same information as is on these web pages.
 
-## Principal Text
+### Principal Text
 
-#### *Calculus, 3rd Edition,* Michael Spivak, Publish or Perish, 2006
+#### Michael Spivak, *Calculus, 3rd Edition,* Publish or Perish Inc., 2006 ([Amazon link](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444))
+
+*NB: If the cover does not look like that in the Amazon link above, you have the* wrong *edition*
 
 The Mathematical Association of America review begins, &ldquo;This is the best Calculus textbook ever
 written.&rdquo; Need more be said? Anyway, this is the principal text for the course, but we
