@@ -6,8 +6,12 @@ Course [home page](./)
 
 ### Week 1 &mdash; Chapter 1 &mdash; Properties of the Real Numbers
 
-* Tuesday, Jan. 14 &mdash; Reading: Chapter 1, pp. 3-9, postulates (P1)-(P9) for the real numbers (properties of addition and multiplication) &mdash; In-Class: Chapter 1, Problems 1, 2, and 3 
+* Tuesday, Jan. 14 &mdash; Reading: Chapter 1, pp. 3-9, postulates (P1)-(P9) for the real numbers (properties of addition and multiplication) &mdash; In-Class: Chapter 1, Problems 1, 2, and 3
 * Friday, Jan. 17
+
+*Because there are a lot of editions, reprints, and knock-offs, to confirm that you are buying the correct edition from Cambridge University Press, check that what you are buying looks like:*
+
+<img src="./illustrations/Spivak3rdEdition.png" width="27%"/>
 
 ### Week 2
 
