@@ -11,7 +11,7 @@
 
 ## Preliminary Syllabus
  
-*[Preliminary Syllabus](./MathematicalAnalysisSyllabus.pdf) containing essentially the same information as is on these web pages.
+* [Preliminary Syllabus](./MathematicalAnalysisSyllabus.pdf) containing essentially the same information as is on these web pages.
 
 ## Required Text
 
