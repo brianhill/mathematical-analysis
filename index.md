@@ -5,15 +5,21 @@
 
 *Spring 2025, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)*
 
-## Syllabus
+## Daily Schedules (Kept Retrospectively)
 
-* [Preliminary Syllabus](./MathematicalAnalysisSyllabus.pages.pdf) containing essentially the same information as is on these web pages.
+* [Daily Schedule Term 4](./daily_schedule_term_4.html)
 
-### Principal Text
+## Preliminary Syllabus
+ 
+*[Preliminary Syllabus](./MathematicalAnalysisSyllabus.pdf) containing essentially the same information as is on these web pages.
+
+## Required Text
 
 #### Michael Spivak, *Calculus, 3rd Edition,* Publish or Perish Inc., 2006 ([Amazon link](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444))
 
-##### *NB: If the cover does not look like that in the Amazon link above, you have the* wrong *edition.*
+*Because there are a lot of editions, reprints, and knock-offs, to confirm that you are buying the correct edition from Cambridge University Press, check that what you are buying looks like:*
+
+<img src="./illustrations/Spivak3rdEdition.png" width="60%"/>
 
 The Mathematical Association of America review begins, &ldquo;This is the best Calculus textbook ever
 written.&rdquo; Need more be said? Anyway, this is the principal text for the course, but we
@@ -24,7 +30,7 @@ get to Chapter 9 in Part III, which introduces the derivative.
 
 ## Overview
 
-There is a wealth of material that logically fits in between standard high school mathematics and calculus. This material has been deemed too hard by most schools &mdash; both those with college prep tracks and with colleges themselves. It is simply skipped! Only those that continue on to the junior level as mathematics majors get to see it, and they see it in a course that is often titled &ldquo;Introduction to Analysis&rdquo; or *ldquo;Introduction to Mathematical Reasoning.&rdquo; It is perfect for the Deep Springs curriculum insofar as it requires no prerequisites beyond very good high school mathematics, and yet it is both more advanced and provocative than what is generally found in lower-division math courses.
+There is a wealth of material that logically fits in between standard high school mathematics and calculus. This material has been deemed too hard by most schools &mdash; both those with college prep tracks and with colleges themselves. It is simply skipped! Only those that continue on to the junior level as mathematics majors get to see it, and they see it in a course that is often titled &ldquo;Introduction to Analysis&rdquo; or &ldquo;Introduction to Mathematical Reasoning.&rdquo; It is perfect for the Deep Springs curriculum insofar as it requires no prerequisites beyond very good high school mathematics, and yet it is both more advanced and provocative than what is generally found in lower-division math courses.
 
 The material is called &ldquo;mathematical analysis&rdquo; or &ldquo;real analysis&rdquo; and it includes many theorems that are absolutely essential to calculus but are typically used as if they are obvious and without proof. What students usually move on to in their lower division courses, with the time freed up by skipping the foundations of calculus are all sorts of pragmatic results &mdash; like the chain rule as a method for simplifying derivatives, or integration by parts as a common trick for doing integrals, and even more mundane rules.
 
@@ -32,6 +38,21 @@ One might think that with only so much time to either obtain and apply practical
 
 A course in the topics of mathematical analysis that undergird calculus prepares one to think rigorously, to understand real analysis the way mathematicians do, and to understand fundamental theorems that are beautiful and significant in their own right. As a treat we will even go beyond the confines of the real numbers and in our final unit introduce imaginary numbers (also known as complex numbers). This will allow us to conclude with the 1799 proof by Gauss of The Fundamental Theorem of Algebra.
 
-## Daily Schedules
+## Grading
 
-* [Daily Schedule Term 4](./daily_schedule_term_4.html)
+* 40% assignments
+* 50% total for three or four exams, dates to be determined, but coming approximately evenly through the course
+* 10% preparation for class and leadership of course
+
+## Problem Sets / Handouts / Exams
+
+There will be problem sets due at least every week, and sometimes every class, limited only by how quickly I can assign, write solutions, and grade. The more problems you do the better.
+
+In addition to the problem sets and their solutions, there will be handouts, exams, and exam solutions to file. Locate a three-ring binder and a three-ring hole punch, and file everything chronologically. Actually, reverse-chronological is the most convenient, because you then naturally open your binder to what you are currently working on.
+
+Problem sets will mostly be done in Mathematica notebooks.
+
+## Absences (and late work)
+
+The College's policies on absences (and late work) are applicable. Refer to the Academic Year 2024-2025 Deep Springs Handbook.
+
