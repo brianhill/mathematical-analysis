@@ -1,5 +1,4 @@
 # Mathematical Analysis
-## *The Foundation of Calculus*
 
 Course [home page](./)
 

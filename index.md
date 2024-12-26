@@ -1,7 +1,7 @@
 # Mathematical Analysis
 ## *The Foundation of Calculus*
 
-*Unofficial/Short Course Title:* Analysis
+*Unofficial/Short Course Title:* Mathematical Analysis
 
 *Spring 2025, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)*
 
