@@ -15,7 +15,7 @@
 
 ## Required Text
 
-#### Michael Spivak, *Calculus, 3rd Edition,* Publish or Perish Inc., 2006 ([Amazon link](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444))
+#### Michael Spivak, *Calculus, 3rd Edition,* Cambridge University Press, 2006 ([Amazon link](https://www.amazon.com/Calculus-Michael-Spivak/dp/0521867444))
 
 *Because there are a lot of editions, reprints, and knock-offs, to confirm that you are buying the correct edition from Cambridge University Press, check that what you are buying looks like:*
 
