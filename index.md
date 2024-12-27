@@ -11,7 +11,7 @@
 
 ## Preliminary Syllabus
  
-* [Preliminary Syllabus](./MathematicalAnalysisSyllabus.pdf) containing essentially the same information as is on these web pages.
+* A [Preliminary Syllabus](./MathematicalAnalysisSyllabus.pdf) containing essentially the same information as is on this web page.
 
 ## Required Text
 
@@ -19,7 +19,7 @@
 
 *Because there are a lot of editions, reprints, and knock-offs, to confirm that you are buying the correct edition from Cambridge University Press, check that what you are buying looks like:*
 
-<img src="./illustrations/Spivak3rdEdition.png" width="60%"/>
+<img src="./illustrations/Spivak3rdEdition.png" width="30%"/>
 
 The Mathematical Association of America review begins, &ldquo;This is the best Calculus textbook ever
 written.&rdquo; Need more be said? Anyway, this is the principal text for the course, but we
