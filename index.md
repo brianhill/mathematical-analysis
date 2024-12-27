@@ -50,7 +50,7 @@ There will be problem sets due at least every week, and sometimes every class, l
 
 In addition to the problem sets and their solutions, there will be handouts, exams, and exam solutions to file. Locate a three-ring binder and a three-ring hole punch, and file everything chronologically. Actually, reverse-chronological is the most convenient, because you then naturally open your binder to what you are currently working on.
 
-Problem sets will mostly be done in Mathematica notebooks.
+Problem sets should be *neat* and on standard 8 1/2 x 11 paper. Multi-page problem sets &mdash; and most will be multi-page &mdash; should be stapled. The nicest technical work is facilitated by engineering pads, such as these [Roaring Spring Engineering Pads at Amazon](https://www.amazon.com/Roaring-Signature-Collection-Covered-Engineering/dp/B09F724P4X) (which are pretty expensive unless you buy by the case), and done with a mechanical pencil, a ruler, and an eraser at hand.
 
 ## Absences (and late work)
 
