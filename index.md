@@ -38,6 +38,8 @@ One might think that with only so much time to either obtain and apply practical
 
 A course in the topics of mathematical analysis that undergird calculus prepares one to think rigorously, to understand real analysis the way mathematicians do, and to understand fundamental theorems that are beautiful and significant in their own right. As a treat we will even go beyond the confines of the real numbers and in our final unit introduce imaginary numbers (also known as complex numbers). This will allow us to conclude with the 1799 proof by Gauss of The Fundamental Theorem of Algebra.
 
+Note: Part of the reason this syllabus is preliminary is that I would like to discuss with you, once we get about half way through the course, what you would like to do for the final unit.
+
 ## Grading
 
 * 40% assignments
