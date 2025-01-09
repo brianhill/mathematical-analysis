@@ -41,4 +41,5 @@ Course [home page](./)
 ### Week 7
 
 * Monday, Feb. 24
-* Thursday, Feb. 27
+* Thursday, Feb. 27 &mdash; No class &mdash; Drama/Theatre/Vaudeville Festival to be Announced for Feb. 26-28
+
