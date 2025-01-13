@@ -6,7 +6,7 @@ Course [home page](./)
 
 ### Week 1 &mdash; Chapter 1 &mdash; Properties of the Real Numbers
 
-* Monday, Jan. 13 &mdash; Reading: Chapter 1, pp. 3-9, postulates (P1)-(P9) for the real numbers (properties of addition and multiplication) &mdash; In-Class: Chapter 1, Problems 1, 2, and 3
+* Monday, Jan. 13 &mdash; Reading: Chapter 1, pp. 3-10, postulates (P1)-(P12) for the real numbers &mdash; In-Class: Chapter 1, Problems 1, 2, and 3
 * Thursday, Jan. 16
 
 *Because there are a lot of editions, reprints, and knock-offs, to confirm that you are buying the correct edition from Cambridge University Press, check that what you are buying looks like:*
@@ -41,5 +41,4 @@ Course [home page](./)
 ### Week 7
 
 * Monday, Feb. 24
-* Thursday, Feb. 27 &mdash; No class &mdash; Drama/Theatre/Vaudeville Festival to be Announced for Feb. 26-28
-
+* Thursday, Feb. 27 &mdash; No class &mdash; Shakespeare 2.0 Festival Feb. 26-28
