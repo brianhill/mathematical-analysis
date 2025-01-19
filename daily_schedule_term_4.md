@@ -11,7 +11,10 @@ Course [home page](./)
 
 ### Week 2 &mdash; The Natural Numbers &mdash; Induction &mdash; &Sigma; Notation
 
-* Monday, Jan. 20 &mdash; Second homework: Let's do Problems 5-7 (still in Chapter 1) &mdash; NB: to keep the verbosity of your proofs manageable you may start using everything you have previously proven (but be sure you aren't using things we haven't proven!) &mdash; As an example, you don't have to keep re-proving *(-(-a))=a* every time you use it, or that the additive inverse and multiplicative inverse (when it exists) are unique, because you know how that goes now &mdash; Reading: Finish Chapter 2 &mdash; In-Class: We will be ready to start tackling problems at the end of Chapter 2
+* Monday, Jan. 20 &mdash; Second homework: Let's do Problems 5-7 (still in Chapter 1) &mdash; NB: to keep the verbosity of your proofs manageable, you may start using everything you have previously proven (but be sure you aren't using things we haven't proven!) &mdash; As an example, you don't have to keep re-proving *(-(-a))=a* every time you use it, or that the multiplicative inverse (when it exists) and additive inverse are unique, because you know how that goes now &mdash; Reading: Finish Chapter 2 &mdash; In-class: We will be ready to start tackling problems at the end of Chapter 2
+
+#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
+
 * Thursday, Jan. 23
 
 <img src="./illustrations/Sum1ToN.jpeg" width="75%"/>
