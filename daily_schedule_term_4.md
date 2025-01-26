@@ -18,11 +18,12 @@ Course [home page](./)
 
 <img src="./illustrations/SumOfSquares.png" width="60%"/>
 
-### Week 3
+### Week 3 &mdash; Functions
+
+* Monday, Jan. 27 &mdash; Reading: First half of Chapter 3 to p. 44 (ending with commutativity of addition for functions and of multiplication for functions &ldquo;should also present no difficulty&rdquo;) &mdash; Problem Set 4: Problems 1-3 of Chapter 3
 
 #### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
 
-* Monday, Jan. 27
 * Thursday, Jan. 30
 
 ### Week 4
