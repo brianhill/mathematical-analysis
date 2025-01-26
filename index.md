@@ -43,7 +43,7 @@ Note: Part of the reason this syllabus is preliminary is that I would like to di
 ## Grading
 
 * 40% assignments
-* 50% total for three or four exams, dates to be determined, but coming approximately evenly through the course
+* 50% total for three exams, dates still to be finalized, but coming roughly at the Mondays of the 5th, 10th, and 14th week of the course.
 * 10% preparation for class and leadership of course
 
 ## Problem Sets / Handouts / Exams
