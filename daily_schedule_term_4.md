@@ -14,10 +14,6 @@ Course [home page](./)
 * Monday, Jan. 20 &mdash; Second homework: Let's do Problems 5-7 (still in Chapter 1) &mdash; NB: to keep the verbosity of your proofs manageable, you may start using everything you have previously proven (but be sure you aren't using things we haven't proven!) &mdash; As an example, you don't have to keep re-proving *(-(-a))=a* every time you use it, or that the multiplicative inverse (when it exists) and additive inverse are unique, because you know how that goes now &mdash; Reading: Finish Chapter 2 &mdash; In-class: We did inequality proofs
 * Thursday, Jan. 23 &mdash; No new reading &mdash; Second homework due date extended to Wednesday, Jan. 22 by 12:30pm &mdash; Third homework due at beginning of class: Just Problems 1 and 2 from Chapter 2 &mdash; In-class: How about we do a selection of the parts from Problem 3 and 4? &mdash; Are there other end-of-chapter problems that particularly interest you? &mdash; I find lots of them interesting-looking, such  as 13, 14, and 15 &mdash; Avoid problems marked with an asterisk unless you are finding all the others to be easy
 
-#### A visual proof, drawn with *n*=3, that 3(1<sup>2</sup>+2<sup>2</sup>+...+*n*<sup>2</sup>)=*n*(*n*+1)(*n*+&frac12;):
-
-<img src="./illustrations/SumOfSquares.png" width="60%"/>
-
 ### Week 3 &mdash; Functions
 
 * Monday, Jan. 27 &mdash; Reading: First half of Chapter 3 to p. 44 (ending with commutativity of addition for functions and of multiplication for functions &ldquo;should also present no difficulty&rdquo;) &mdash; Problem Set 4: Problems 1-3 of Chapter 3
@@ -45,3 +41,6 @@ Course [home page](./)
 
 * Monday, Feb. 24
 * Thursday, Feb. 27 &mdash; No class &mdash; Shakespeare 2.0 Festival Feb. 26-28
+
+<img src="./illustrations/OneOverOnePlusX.png" width="95%"/>
+
