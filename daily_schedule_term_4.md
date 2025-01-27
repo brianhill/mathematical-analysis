@@ -14,15 +14,18 @@ Course [home page](./)
 * Monday, Jan. 20 &mdash; Problem Set 2: Let's do Problems 5-7 (still in Chapter 1) &mdash; NB: to keep the verbosity of your proofs manageable, you may start using everything you have previously proven (but be sure you aren't using things we haven't proven!) &mdash; As an example, you don't have to keep re-proving *(-(-a))=a* every time you use it, or that the multiplicative inverse (when it exists) and additive inverse are unique, because you know how that goes now &mdash; Reading: Finish Chapter 2 &mdash; In-class: We did inequality proofs
 * Thursday, Jan. 23 &mdash; No new reading &mdash; Problem Set 3: Just Problems 1 and 2 from Chapter 2 &mdash; In-class: How about we do a selection of the parts from Problem 3 and 4? &mdash; Are there other end-of-chapter problems that particularly interest you? &mdash; I find lots of them interesting-looking, such  as 13, 14, and 15 &mdash; Avoid problems marked with an asterisk unless you are finding all the others to be easy
 
-### Week 3 &mdash; Functions
+### Week 3 &mdash; Functions &mdash; Addition, Multiplication, and Division of Functions &mdash; Function Composition
 
 * Monday, Jan. 27 &mdash; Reading: First half of Chapter 3 to p. 44 (ending with commutativity of addition for functions and of multiplication for functions &ldquo;should also present no difficulty&rdquo;) &mdash; Problem Set 4: Problems 1-3 of Chapter 3
+* Thursday, Jan. 30 &mdash; Problem Set 5: Problems 5 and 6 still from Chapter 3 &mdash; Reading: Finish Chapter 3 (but skip the Chapter 3 Appendix, per my comments below) and then continue through to p. 60 of Chapter 4
+
+*The following question is the kind of thing that people who do set theory think about, and which we are not going to try to disentangle in this course:*
+
+*&ldquo;You can define the barber as &lsquo;one who shaves all those, and those only, who do not shave themselves.&rsquo; The question is, does the barber shave himself?&rdquo; &ndash;Bertrand Russell*
+
+*By all means, if you like set-theoretic thinking, then read the Chapter 3 Appendix.*
 
 #### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
-
-* Thursday, Jan. 30 &mdash; Reading: Finish Chapter 3 (After having read the appendix, I see no big value in it, and in fact, Spivak kind of warns us off of it, so feel free to skip it) &mdash; Problem Set 5: We should choose more problems from Chapter 3, since Problems 1-3 only scratched the surface of the possible complexities
-
-#### You can define the barber as &ldquo; one who shaves all those, and those only, who do not shave themselves.&rdquo; The question is, does the barber shave himself? &ndash;Bertrand Russell, *The Philosophy of Logical Atomism*
 
 ### Week 4
 
@@ -31,7 +34,7 @@ Course [home page](./)
 
 ### Week 5
 
-* Monday, Feb. 10
+* Monday, Feb. 10 &mdash; Exam 1?
 * Thursday, Feb. 13
 
 ### Week 6
@@ -45,4 +48,3 @@ Course [home page](./)
 * Thursday, Feb. 27 &mdash; No class &mdash; Shakespeare 2.0 Festival Feb. 26-28
 
 <img src="./illustrations/OneOverOnePlusX.png" width="95%"/>
-
