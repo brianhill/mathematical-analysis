@@ -4,6 +4,8 @@ Course [home page](./)
 
 ## Daily Schedule Term 4
 
+See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
+
 ### Week 1 &mdash; Chapter 1 &mdash; Properties of the Real Numbers
 
 * Monday, Jan. 13 &mdash; Reading: Chapter 1, pp. 3-10, postulates (P1)-(P12) for the real numbers &mdash; How to read mathematics: (1) when the author &ldquo;leaves something for the reader&rdquo; stop and do it, and (2) keep a constant eye on what has so far been postulated (as an axiom), defined, or proven (in a theorem, a lemma, or a corollary) and be very careful not to use things that seem obvious but have not yet been postulated, defined, or proven &mdash; In-class: we got started on the end-of-chapter problems
