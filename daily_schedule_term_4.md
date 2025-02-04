@@ -21,17 +21,17 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 * Monday, Jan. 27 &mdash; Reading: First half of Chapter 3 to p. 44 (ending with commutativity of addition for functions and of multiplication for functions &ldquo;should also present no difficulty&rdquo;) &mdash; Problem Set 4: Problems 1-3 of Chapter 3
 * Thursday, Jan. 30 &mdash; Problem Set 5: Problems 5 and 6 (still from Chapter 3) &mdash; Reading: Finish Chapter 3 (but skip the Chapter 3 Appendix) and then continue through to p. 60 of Chapter 4 &mdash; In-class: [Examples of Lagrange Interpolation](./illustrations/LagrangeInterpolation.nb.pdf), open and closed intervals, even and odd functions
 
-### Week 4 &mdash; Graphing in Cartesian and Polar Coordinates
+### Week 4 &mdash; Graphing in Cartesian and Polar Coordinates &mdash; Vectors
 
-* Monday, Feb. 3 &mdash; Reading: Finish Reading Chapter 4 &mdash; Problem Set 6: Problems 3, 4, 5 and 9 from Chapter 4 (and perhaps you should at least look at 1 and 2 before starting on the assigned problems) &mdash; Note: Problem 9 is a bit of a challenge because you will first have to understand Problem 19 from Chapter 1 &mdash; In-class: I am thinking we will start into Chapter 4 Appendix 3 (pp. 84-89) on Polar Coordinates if people are already fully comfortable with the main part of Chapter 4, or we can save that for next time
-
-#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
-
-* Thursday, Feb. 6
+* Monday, Feb. 3 &mdash; Reading: Finish Reading Chapter 4 &mdash; Problem Set 6: Problems 3, 4, 5 and 9 from Chapter 4 (and perhaps you should at least look at 1 and 2 before starting on the assigned problems) &mdash; Note: Problem 9 is a bit of a challenge because you will first have to understand Problem 19 from Chapter 1 &mdash; In-class: We did some more strange functions (stair step and saw tooth), and then started into into Chapter 4 Appendices 1 and 3 (pp. 84-89) on on Vectors and Polar Coordinates
+* Thursday, Feb. 6 &mdash; Reading: Appendix 1 of Chapter 4 &mdash; Problem Set 7: Problems 18(v) and 21(a) of Chapter 4 (on pp. 72-73), Problems 1, 2, and 3 of Appendix 1 (on p. 77-78), and Problems 6 and 9(i) of Appendix 3 (on pp. 88-89)
 
 ### Week 5
 
-* Monday, Feb. 10 &mdash; Exam 1?
+* Monday, Feb. 10 &mdash; Exam 1 covering Spivak Chapters 1 to 4, including what we did in Appendices 1 and 3 of Chapter 4
+
+#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
+
 * Thursday, Feb. 13
 
 ### Week 6
