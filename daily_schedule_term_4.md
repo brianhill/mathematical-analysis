@@ -34,6 +34,8 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 * Thursday, Feb. 13 &mdash; Start Chapter 5
 
+<img src="./illustrations/Cos2x.png" width="65%">
+
 ### Week 6
 
 * Monday, Feb. 17
@@ -42,4 +44,3 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 ### Week 7
 
 * Monday, Feb. 24
-* Thursday, Feb. 27 &mdash; No class &mdash; Shakespeare 2.0 Festival Feb. 26-28
