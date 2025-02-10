@@ -14,7 +14,7 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 ### Week 2 &mdash; The Natural Numbers &mdash; Induction &mdash; &Sigma; Notation
 
 * Monday, Jan. 20 &mdash; Problem Set 2: Let's do Problems 5-7 (still in Chapter 1) &mdash; NB: to keep the verbosity of your proofs manageable, you may start using everything you have previously proven (but be sure you aren't using things we haven't proven!) &mdash; As an example, you don't have to keep re-proving *(-(-a))=a* every time you use it, or that the multiplicative inverse (when it exists) and additive inverse are unique, because you know how that goes now &mdash; Reading: Finish Chapter 2 &mdash; In-class: We did inequality proofs
-* Thursday, Jan. 23 &mdash; No new reading &mdash; Problem Set 3: Just Problems 1 and 2 from Chapter 2 &mdash; In-class: How about we do a selection of the parts from Problem 3 and 4? &mdash; Are there other end-of-chapter problems that particularly interest you? &mdash; I find lots of them interesting-looking, such  as 13, 14, and 15 &mdash; Avoid problems marked with an asterisk unless you are finding all the others to be easy
+* Thursday, Jan. 23 &mdash; No new reading &mdash; Problem Set 3: Just Problems 1 and 2 from Chapter 2 &mdash; In-class: How about we do a selection of the parts from Problem 3 and 4? &mdash; Are there other end-of-chapter problems that particularly interest you? &mdash; I find lots of them interesting-looking, such  as 13, 14, and 15 &mdash; Avoid problems marked with an asterisk unless you are finding the others to be easy
 
 ### Week 3 &mdash; Functions as Sets &mdash; Addition, Multiplication, and Division of Functions &mdash; Composition of Functions
 
@@ -23,20 +23,19 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 ### Week 4 &mdash; Graphing in Cartesian and Polar Coordinates &mdash; Vectors
 
-* Monday, Feb. 3 &mdash; Reading: Finish Reading Chapter 4 &mdash; Problem Set 6: Problems 3, 4, 5 and 9 from Chapter 4 (and perhaps you should at least look at 1 and 2 before starting on the assigned problems) &mdash; Note: Problem 9 is a bit of a challenge because you will first have to understand Problem 19 from Chapter 1 &mdash; In-class: We did some more strange functions (stair step and saw tooth), and then started into into Chapter 4 Appendices 1 and 3 (pp. 84-89) on Vectors and Polar Coordinates
-* Thursday, Feb. 6 &mdash; Reading: Appendices 1 and 3 of Chapter 4 (but you don't have to study ellipses any harder than what we already did in class) &mdash; Problem Set 7: Problems 18(v) and 21(a) of Chapter 4 (on pp. 72-73), Problems 1, 2, and 3 of Appendix 1 (on p. 77-78), and Problems 6 and 9(i) of Appendix 3 (on pp. 88-89) &mdash; In-class: Depending on the class's interest, we could do a few more problems from Chapters 1 to 4 or I could get you started on Chapter 5
+* Monday, Feb. 3 &mdash; Reading: Finish Reading Chapter 4 &mdash; Problem Set 6: Problems 3, 4, 5 and 9 from Chapter 4 &mdash; In-class: We did some more strange functions (stair step and saw tooth), and then started into into Chapter 4 Appendices 1 and 3 (pp. 84-89) on Vectors and Polar Coordinates
+* Thursday, Feb. 6 &mdash; Reading: Appendices 1 and 3 of Chapter 4 &mdash; Problem Set 7: Problems 18(v) and 21(a) of Chapter 4 (on pp. 72-73), Problems 1, 2, and 3 of Appendix 1 (on p. 77-78), and Problems 6 and 9(i) of Appendix 3 (on pp. 88-89) &mdash; In-class: As review before the exam, we will do more problems from Chapters 1 to 4
 
-### Week 5 &mdash; Exam 1 &mdash; Limits
+### Week 5 &mdash; Exam 1 &mdash; Start Limits
 
-* Monday, Feb. 10 &mdash; Exam 1 covering Spivak Chapters 1 to 4, including what we did in Appendices 1 and 3 of Chapter 4
+* Monday, Feb. 10 &mdash; [Exam 1](./exams/Exam1.nb.pdf) on Spivak Chapters 1 to 4, including Appendices 1 and 3 of Chapter 4
+* Thursday, Feb. 13 &mdash; Study Chapter 5 to the bottom of p. 100
 
-#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
-
-* Thursday, Feb. 13 &mdash; Start Chapter 5
-
-<img src="./illustrations/Cos2x.png" width="65%">
+<img src="./illustrations/xSinOneOverX.png" width="65%">
 
 ### Week 6
+
+#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
 
 * Monday, Feb. 17
 * Thursday, Feb. 20
@@ -44,3 +43,25 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 ### Week 7
 
 * Monday, Feb. 24
+
+## Daily Schedule Term 5
+
+### Week 8
+
+* Monday, March 17
+* Thursday, March 20
+
+### Week 9
+
+* Monday, March 24
+* Thursday, March 27
+
+### Week 10
+
+* Monday, March 31
+* Thursday, April 3
+
+### Week 11
+
+* Monday, April 7
+* Thursday, April 10
