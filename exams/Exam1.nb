@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[    783687,      13317]
-NotebookOptionsPosition[    780456,      13257]
-NotebookOutlinePosition[    780943,      13276]
-CellTagsIndexPosition[    780900,      13273]
+NotebookDataLength[    782346,      13268]
+NotebookOptionsPosition[    779358,      13212]
+NotebookOutlinePosition[    779845,      13231]
+CellTagsIndexPosition[    779802,      13228]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -26,13 +26,12 @@ Cell["Mathematical Analysis Exam 1", "Chapter",
 26d40e095659"],
 
 Cell["\<\
-Feb. 10, 2025.
-
-If you get bogged down on a problem, move on and come back later. No part of \
-any problem is meant to be long.\
+Feb. 10, 2025. If you get bogged down on a problem, move on and come back \
+later. No part of any problem is meant to be long.\
 \>", "Subtitle",
  CellChangeTimes->{{3.948145711397246*^9, 3.94814576514284*^9}, {
-  3.948191340887882*^9, 3.948191354014695*^9}},
+  3.948191340887882*^9, 3.948191354014695*^9}, {3.948210628116547*^9, 
+  3.948210628655779*^9}},
  FontSize->18,
  FontWeight->"Regular",
  FontSlant->"Italic",ExpressionUUID->"2b299968-a9fb-4b8f-8686-7a4d66acf4e0"],
@@ -251,20 +250,17 @@ Cell[TextData[{
  "Suppose you know that  ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"0", "<", "a"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"0", "<", "a"}], TraditionalForm]],ExpressionUUID->
   "1232641c-c33f-49c2-a496-c80c05f5dcdc"],
  " and  ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"0", "<", "b"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"0", "<", "b"}], TraditionalForm]],ExpressionUUID->
   "b50d4fef-a551-4ac8-84a4-5d1e07e6cb9e"],
  ", but  unlike in 1(b), you don\[CloseCurlyQuote]t yet know that ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"a", "<", "b"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"a", "<", "b"}], TraditionalForm]],ExpressionUUID->
   "f97bf4e8-8ba5-483b-a1e6-72242983f87f"],
  ". However you do know that ",
  Cell[BoxData[
@@ -276,8 +272,7 @@ Cell[TextData[{
  ". We would like to prove that ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"a", "<", "b"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"a", "<", "b"}], TraditionalForm]],ExpressionUUID->
   "bb6c35f5-1088-41a8-a6e0-46e3290963c8"],
  "! I am going to break this waaaaay down for you:\n(i) Show that ",
  Cell[BoxData[
@@ -294,8 +289,7 @@ Cell[TextData[{
        SuperscriptBox["a", "2"], "+", 
        RowBox[{"a", " ", "b"}], "+", 
        SuperscriptBox["b", "2"]}], ")"}]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "58f1fbfd-afd6-4f61-af1d-c0e0622a34fd"],
+  ExpressionUUID->"58f1fbfd-afd6-4f61-af1d-c0e0622a34fd"],
  " just by doing a bit of multiplication to get six terms and then doing a \
 bit canceling. You don\[CloseCurlyQuote]t need to cite P1-P12.\n(ii) Just \
 using the definition of inequality given at the beginning of Problem 1 what \
@@ -304,10 +298,9 @@ does ",
   FormBox[
    RowBox[{
     SuperscriptBox["a", "3"], "<", 
-    SuperscriptBox["b", "3"]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    SuperscriptBox["b", "3"]}], TraditionalForm]],ExpressionUUID->
   "b39fcd43-a847-4e07-b4f6-cc367ba43a18"],
- " mean?\n(iv) ",
+ " mean?\n(iii) Oops, there was no part (iii).\n(iv) ",
  Cell[BoxData[
   FormBox[
    RowBox[{
@@ -330,8 +323,7 @@ does ",
        SuperscriptBox["a", "2"], "+", 
        RowBox[{"a", " ", "b"}], "+", 
        SuperscriptBox["b", "2"]}], ")"}]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "91354883-a622-498a-a353-eac88e3ed249"],
+  ExpressionUUID->"91354883-a622-498a-a353-eac88e3ed249"],
  " tells us that ",
  Cell[BoxData[
   FormBox[
@@ -344,9 +336,7 @@ does ",
        SuperscriptBox["a", "2"], "+", 
        RowBox[{"a", " ", "b"}], "+", 
        SuperscriptBox["b", "2"]}], ")"}]}], "\[Element]", "P"}], 
-   TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "92cca2cb-c24c-434d-8954-7845d4584277"],
+   TraditionalForm]],ExpressionUUID->"92cca2cb-c24c-434d-8954-7845d4584277"],
  ". What properties P1-P12 tell you that ",
  Cell[BoxData[
   FormBox[
@@ -355,8 +345,7 @@ does ",
      SuperscriptBox["a", "2"], "+", 
      RowBox[{"a", " ", "b"}], "+", 
      SuperscriptBox["b", "2"]}], "\[Element]", "P", " "}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "3124e19a-6ab6-49fa-9039-adfb9034f0ca"],
+  ExpressionUUID->"3124e19a-6ab6-49fa-9039-adfb9034f0ca"],
  "?\n(v) What property P1-P12 tells you that ",
  Cell[BoxData[
   FormBox[
@@ -366,14 +355,12 @@ does ",
       SuperscriptBox["a", "2"], "+", 
       RowBox[{"a", " ", "b"}], "+", 
       SuperscriptBox["b", "2"]}], ")"}], 
-    RowBox[{"-", "1"}]], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    RowBox[{"-", "1"}]], TraditionalForm]],ExpressionUUID->
   "f773bfa0-d848-40d2-b5e9-161dd23a31c5"],
  " exists? \n(vi) I\[CloseCurlyQuote]ll just tell you that if ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"c", "\[Element]", "P"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"c", "\[Element]", "P"}], TraditionalForm]],ExpressionUUID->
   "8a122f8c-f692-4627-bacc-8274809d8a4f"],
  " then ",
  Cell[BoxData[
@@ -381,8 +368,7 @@ does ",
    RowBox[{
     SuperscriptBox["c", 
      RowBox[{"-", "1"}]], "\[Element]", "P"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "e23d5415-18e9-4f77-adae-9b2bbe5b6042"],
+  ExpressionUUID->"e23d5415-18e9-4f77-adae-9b2bbe5b6042"],
  " (it is super-easy to prove, but this problem is already getting long). So \
 you can assume that  ",
  Cell[BoxData[
@@ -395,23 +381,20 @@ you can assume that  ",
        RowBox[{"a", " ", "b"}], "+", 
        SuperscriptBox["b", "2"]}], ")"}], 
      RowBox[{"-", "1"}]], "\[Element]", "P"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "27aeb32f-8c7f-419b-9d89-9210378e6cfd"],
+  ExpressionUUID->"27aeb32f-8c7f-419b-9d89-9210378e6cfd"],
  ". How do you use that fact and (iv) and (v) to show that ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{"b", "-", "a"}], "\[Element]", "P", " "}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "cec8c88a-679f-4b4b-bb66-dc08c6862a8b"],
+  ExpressionUUID->"cec8c88a-679f-4b4b-bb66-dc08c6862a8b"],
  "?\n(vii) Going back to the definition of inequality, what is the familiar \
 way to write write ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{"b", "-", "a"}], "\[Element]", "P", " "}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "7b337462-fff5-4526-bab6-0fb3023478f4"],
+  ExpressionUUID->"7b337462-fff5-4526-bab6-0fb3023478f4"],
  "?"
 }], "Text",
  CellChangeTimes->{{3.9481489267586937`*^9, 3.948148966483757*^9}, {
@@ -421,8 +404,9 @@ way to write write ",
    3.948150914032646*^9, 3.9481512525131493`*^9}, {3.9481513025006866`*^9, 
    3.948151308882964*^9}, {3.948191454987585*^9, 3.9481914617024603`*^9}, {
    3.948194542766378*^9, 3.9481945474479218`*^9}, {3.948198203901827*^9, 
-   3.948198204350662*^9}, {3.948198326155334*^9, 
-   3.948198369028804*^9}},ExpressionUUID->"4ca3a0fd-65b3-49bc-8c6f-\
+   3.948198204350662*^9}, {3.948198326155334*^9, 3.948198369028804*^9}, {
+   3.948210516126196*^9, 
+   3.948210522812779*^9}},ExpressionUUID->"4ca3a0fd-65b3-49bc-8c6f-\
 2eff1c4aa6aa"],
 
 Cell["", "PageBreak",
@@ -5624,6 +5608,7 @@ fq9e33of9TcBLmj/ALmyhTM=
       "], "RGB", "XYZ"], Interleaving -> True],
    Selectable->False],
   DefaultBaseStyle->"ImageGraphics",
+  ImageSize->{622.113, Automatic},
   ImageSizeRaw->{1122., 1646.},
   PlotRange->{{0, 1122.}, {
     0, 1646.}}]], \
@@ -5631,9 +5616,6 @@ fq9e33of9TcBLmj/ALmyhTM=
  CellChangeTimes->{
   3.948196837857007*^9},ExpressionUUID->"720dd396-7a24-43ea-81fd-\
 7e28fce4e7e7"],
-
-Cell["", "PageBreak",
- PageBreakBelow->True,ExpressionUUID->"10d526d6-83e1-4a11-b2f4-7bbb05a9340a"],
 
 Cell["3. Inequalities", "Section",
  CellChangeTimes->{{3.728655217903658*^9, 3.728655221681748*^9}, {
@@ -5883,13 +5865,11 @@ Cell[TextData[{
  "Let ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["A", "0"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["A", "0"], TraditionalForm]],ExpressionUUID->
   "a4150aa8-f970-4fef-98a1-5f82668cef2f"],
  " be an endowment. After one month, you get a return, ",
  Cell[BoxData[
-  FormBox["r", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["r", TraditionalForm]],ExpressionUUID->
   "20f1a983-0942-4e6d-b0a2-ba87bc6714ab"],
  " proportional to the endowment that tells you the new value of the \
 endowment. ",
@@ -5900,13 +5880,11 @@ endowment. ",
     RowBox[{
      RowBox[{"A", "(", 
       RowBox[{"1", "+", "r"}], ")"}], "."}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "00dcbb01-3c3d-4b29-9efd-69eb3575bc9f"],
+  ExpressionUUID->"00dcbb01-3c3d-4b29-9efd-69eb3575bc9f"],
  "\n\nHowever, running a college costs money, so you also draw off a fixed \
 amount of money , ",
  Cell[BoxData[
-  FormBox["a", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["a", TraditionalForm]],ExpressionUUID->
   "bce9aef1-303c-4bbd-b853-82c563c398d8"],
  ", from the endowment, and after one month you are left with\n\n",
  Cell[BoxData[
@@ -5917,8 +5895,7 @@ amount of money , ",
      RowBox[{
       SubscriptBox["A", "0"], "(", 
       RowBox[{"1", "+", "r"}], ")"}], "-", "a"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "24039577-c713-4777-a0fd-3ce4e310b690"],
+  ExpressionUUID->"24039577-c713-4777-a0fd-3ce4e310b690"],
  ".\n\nYou repeat this process the next month, so\n\n",
  Cell[BoxData[
   FormBox[
@@ -5928,12 +5905,10 @@ amount of money , ",
      RowBox[{
       SubscriptBox["A", "1"], "(", 
       RowBox[{"1", "+", "r"}], ")"}], "-", "a"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "9fba24f3-68ba-40e4-95cb-393621ba430f"],
- "\n\nand on and on, so at month ",
+  ExpressionUUID->"9fba24f3-68ba-40e4-95cb-393621ba430f"],
+ "\n\netc., etc.\n\nSo at month ",
  Cell[BoxData[
-  FormBox["n", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["n", TraditionalForm]],ExpressionUUID->
   "84c84a9d-07b6-44cf-bca7-463a27dfd0df"],
  " you have the ",
  StyleBox["recursive formula",
@@ -5941,15 +5916,13 @@ amount of money , ",
  " for ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["A", "n"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["A", "n"], TraditionalForm]],ExpressionUUID->
   "959b56ee-8a00-4a2d-a3d8-b5ce93b08d65"],
  " in terms of ",
  Cell[BoxData[
   FormBox[
    SubscriptBox["A", 
-    RowBox[{"n", "-", "1"}]], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    RowBox[{"n", "-", "1"}]], TraditionalForm]],ExpressionUUID->
   "87d833ba-5848-484c-804e-fc3928886788"],
  ".\n\n",
  Cell[BoxData[
@@ -5961,15 +5934,13 @@ amount of money , ",
       SubscriptBox["A", 
        RowBox[{"n", "-", "1"}]], "(", 
       RowBox[{"1", "+", "r"}], ")"}], "-", "a"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "a1c22c3a-4356-422e-a140-fd56ff5f7198"],
+  ExpressionUUID->"a1c22c3a-4356-422e-a140-fd56ff5f7198"],
  "\n\nSomeone tells you a",
  StyleBox[" dubious solution",
   FontWeight->"Bold"],
  " to the question of how much the endowment will be worth after ",
  Cell[BoxData[
-  FormBox["n", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["n", TraditionalForm]],ExpressionUUID->
   "f9e0cfe7-577b-463a-be86-828806d19ffe"],
  " months,  which you want to prove using induction (or disprove), and they \
 say the solution is:\n\n",
@@ -5986,14 +5957,12 @@ say the solution is:\n\n",
       FractionBox[
        RowBox[{"1", "-", 
         SuperscriptBox["r", "n"]}], 
-       RowBox[{"1", "-", "r"}]]}]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+       RowBox[{"1", "-", "r"}]]}]}]}], TraditionalForm]],ExpressionUUID->
   "2a10a7d5-5472-4dd1-b51e-908da3190091"],
  "\n\n(a) Is it true for ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"n", "=", "1"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"n", "=", "1"}], TraditionalForm]],ExpressionUUID->
   "fd90bc92-22fe-4bf3-a2b6-87502a5b827d"],
  "? Check it. If yes, you are on the induction ladder.\n(b) Make the ",
  StyleBox["assumption",
@@ -6001,8 +5970,7 @@ say the solution is:\n\n",
  " that the solution is true for ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"n", "=", "k"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"n", "=", "k"}], TraditionalForm]],ExpressionUUID->
   "c20e35ff-84c5-411f-bb01-21d63d8d1afe"],
  ". Write down what assuming the ",
  StyleBox["dubious solution",
@@ -6010,15 +5978,13 @@ say the solution is:\n\n",
  " with ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"n", "=", "k"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"n", "=", "k"}], TraditionalForm]],ExpressionUUID->
   "ca6678a7-eb58-4fcd-a628-e414bbf1f203"],
- " says.\n(c) You wish you could get to the next rung of the ladder ",
+ " says.\n(c) You wish you could get to the next rung, ",
  Cell[BoxData[
   FormBox[
    SubscriptBox["A", 
-    RowBox[{"k", "+", "1"}]], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    RowBox[{"k", "+", "1"}]], TraditionalForm]],ExpressionUUID->
   "da94901d-e7b1-4e9d-8062-ca17ab480bd3"],
  ". Write down the ",
  StyleBox["dubious solution",
@@ -6027,8 +5993,7 @@ say the solution is:\n\n",
  Cell[BoxData[
   FormBox[
    RowBox[{"n", "=", 
-    RowBox[{"k", "+", "1"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    RowBox[{"k", "+", "1"}]}], TraditionalForm]],ExpressionUUID->
   "9696a4ed-4323-474e-b297-b0372fcf6f6a"],
  ".\n(d) At least (c) tells you what you are trying to prove. So let\
 \[CloseCurlyQuote]s prove it. First write down the ",
@@ -6038,14 +6003,12 @@ say the solution is:\n\n",
  Cell[BoxData[
   FormBox[
    RowBox[{"n", "=", 
-    RowBox[{"k", "+", "1"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    RowBox[{"k", "+", "1"}]}], TraditionalForm]],ExpressionUUID->
   "42e0d5a6-331b-4532-b887-a6d1eb957858"],
  ".\n(e) The recursive formula has ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["A", "k"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["A", "k"], TraditionalForm]],ExpressionUUID->
   "26e9201b-0664-44de-9b2c-32e9d05cd6bb"],
  " in it, so use the ",
  StyleBox["assumption",
@@ -6053,20 +6016,18 @@ say the solution is:\n\n",
  " you wrote down in (b) to substitute into the ",
  StyleBox["recursive formula",
   FontWeight->"Bold"],
- " you wrote down in (c). Don\[CloseCurlyQuote]t simplify yet.\n(f) Now \
+ " you wrote down in (d). Don\[CloseCurlyQuote]t simplify yet.\n(f) Now \
 simplify (e). When you have simplified (e) answer whether this the same as \
 what you wanted to prove in (c). If yes, you have proven that ",
  Cell[BoxData[
   FormBox[
    RowBox[{"n", "=", 
-    RowBox[{"k", "+", "1"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    RowBox[{"k", "+", "1"}]}], TraditionalForm]],ExpressionUUID->
   "494878e9-2ad8-4426-b00d-426570b2a106"],
  " is true assuming ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"n", "=", "k"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"n", "=", "k"}], TraditionalForm]],ExpressionUUID->
   "21616de6-0682-4b40-84b0-e81e16bae9a4"],
  " is true, which is showing we can get from one rung to the next on the \
 ladder and the proof by induction is done. If no, the dubious solution is \
@@ -6082,7 +6043,9 @@ apparently false."
   3.948191928332101*^9, 3.9481921100235147`*^9}, {3.948194402632978*^9, 
   3.9481944196740427`*^9}, {3.948194560606104*^9, 3.948194564307169*^9}, {
   3.94819543484486*^9, 3.94819543541051*^9}, {3.948195502273435*^9, 
-  3.948195547460841*^9}},ExpressionUUID->"e4299f43-8f08-4627-bce7-\
+  3.948195547460841*^9}, {3.948210565971636*^9, 3.948210566058433*^9}, {
+  3.948210767799099*^9, 3.948210780011689*^9}, {3.948210823351735*^9, 
+  3.948210823992776*^9}},ExpressionUUID->"e4299f43-8f08-4627-bce7-\
 40658664f18f"]
 }, Open  ]],
 
@@ -6207,17 +6170,15 @@ Cell["6. Graphing, Domains", "Section",
 Cell[TextData[{
  "On the next page is a table of 15 values of ",
  Cell[BoxData[
-  FormBox["cot\[Theta]", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["cot\[Theta]", TraditionalForm]],ExpressionUUID->
   "32c76b40-8ca2-4e9f-aa43-702da3f872e0"],
- ", rounded to the nearest 0.1 and a plot to use as graph paper.\n\n(a) Use \
-those 15 values to plot the function ",
+ ", rounded to the nearest 0.1 and graph paper to use.\n\n(a) Use those 15 \
+values to plot the function ",
  Cell[BoxData[
   FormBox[
    RowBox[{"r", "=", 
     RowBox[{"cot", "\[VeryThinSpace]", "\[Theta]"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "a8409337-e9ba-492d-adc7-4ab36e925fa5"],
+  ExpressionUUID->"a8409337-e9ba-492d-adc7-4ab36e925fa5"],
  " on the graph paper.",
  StyleBox[" ",
   FontWeight->"Bold",
@@ -6230,8 +6191,7 @@ those 15 values to plot the function ",
  Cell[BoxData[
   FormBox[
    FractionBox[
-    RowBox[{"9", "\[Pi]", " "}], "16"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    RowBox[{"9", "\[Pi]", " "}], "16"], TraditionalForm]],ExpressionUUID->
   "7fe475db-27e9-41eb-8929-2c5053c51e79"],
  StyleBox[" be sure to do what Spivak said to do on polar plots when you have \
 negative values of ",
@@ -6239,7 +6199,6 @@ negative values of ",
   FontSlant->"Italic"],
  Cell[BoxData[
   FormBox["r", TraditionalForm]],
-  FormatType->TraditionalForm,
   FontWeight->"Bold",
   FontSlant->"Italic",ExpressionUUID->
   "b2de7d3d-b2cb-4ffe-9094-87e56c3029fb"],
@@ -6252,8 +6211,7 @@ domain ",
   FormBox[
    RowBox[{"\[Theta]", "\[Element]", 
     RowBox[{"(", 
-     RowBox[{"0", ",", "\[Pi]"}], ")"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     RowBox[{"0", ",", "\[Pi]"}], ")"}]}], TraditionalForm]],ExpressionUUID->
   "89424f8d-e43f-40ec-9fdc-1e1b98a731af"],
  ". In polar coordinates, the domain is typically ",
  Cell[BoxData[
@@ -6262,8 +6220,7 @@ domain ",
     RowBox[{"\[Theta]", "\[Element]", 
      RowBox[{"[", 
       RowBox[{"0", ",", 
-       RowBox[{"2", "\[Pi]"}]}]}]}], ")"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+       RowBox[{"2", "\[Pi]"}]}]}]}], ")"}], TraditionalForm]],ExpressionUUID->
   "14570afc-1770-404b-8ea4-a9f47d8fe839"],
  ". What values are definitely illegal and therefore excluded from ",
  Cell[BoxData[
@@ -6271,28 +6228,26 @@ domain ",
    RowBox[{
     RowBox[{"[", 
      RowBox[{"0", ",", 
-      RowBox[{"2", "\[Pi]"}]}]}], ")"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+      RowBox[{"2", "\[Pi]"}]}]}], ")"}], TraditionalForm]],ExpressionUUID->
   "1bc8648a-521a-4579-8a17-e446bd1f04e0"],
  " for the function ",
  Cell[BoxData[
   FormBox[
    RowBox[{"r", "=", 
     RowBox[{"cot\[Theta]", "=", 
-     FractionBox["sin\[Theta]", "cos\[Theta]"]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "1a316602-0239-4972-99ea-adaa89ff173f"],
+     FractionBox[
+      RowBox[{"cos", "\[VeryThinSpace]", "\[Theta]"}], 
+      RowBox[{"sin", "\[VeryThinSpace]", "\[Theta]"}]]}]}], TraditionalForm]],
+  ExpressionUUID->"1a316602-0239-4972-99ea-adaa89ff173f"],
  "?"
 }], "Text",
  CellChangeTimes->{{3.948193964468042*^9, 3.948194024828874*^9}, {
    3.9481941230812387`*^9, 3.948194128660843*^9}, {3.9481945720164833`*^9, 
    3.948194572750998*^9}, {3.9481946420403357`*^9, 3.948194650184484*^9}, {
-   3.948195840223983*^9, 3.9481958614279346`*^9}, 
-   3.948196887018825*^9},ExpressionUUID->"a90be327-c9e0-4760-9c3d-\
+   3.948195840223983*^9, 3.9481958614279346`*^9}, 3.948196887018825*^9, {
+   3.9482105825382442`*^9, 3.948210597250724*^9}, {3.948210730828288*^9, 
+   3.9482107346321383`*^9}},ExpressionUUID->"a90be327-c9e0-4760-9c3d-\
 8d7509dd7cd8"],
-
-Cell["", "PageBreak",
- PageBreakBelow->True,ExpressionUUID->"555ea1fc-2816-4309-8205-e0e1e6a847f8"],
 
 Cell[TextData[Cell[BoxData[
  GraphicsBox[
@@ -13277,48 +13232,44 @@ CellTagsIndex->{}
 Notebook[{
 Cell[CellGroupData[{
 Cell[576, 22, 173, 3, 105, "Chapter",ExpressionUUID->"efb3200c-bbbd-4332-8a6d-26d40e095659"],
-Cell[752, 27, 385, 10, 180, "Subtitle",ExpressionUUID->"2b299968-a9fb-4b8f-8686-7a4d66acf4e0"],
-Cell[1140, 39, 1127, 16, 103, "Section",ExpressionUUID->"bedc15d2-27e6-4b78-b9b2-d4faaa1955ae"]
+Cell[752, 27, 433, 9, 106, "Subtitle",ExpressionUUID->"2b299968-a9fb-4b8f-8686-7a4d66acf4e0"],
+Cell[1188, 38, 1127, 16, 103, "Section",ExpressionUUID->"bedc15d2-27e6-4b78-b9b2-d4faaa1955ae"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2304, 60, 331, 6, 69, "Subtitle",ExpressionUUID->"cea95fb6-9216-4f67-9153-a06cd42eb953"],
-Cell[2638, 68, 870, 28, 52, "Text",ExpressionUUID->"cd97856b-b2f7-4628-a67d-3f9ea0527183"],
-Cell[3511, 98, 4437, 118, 291, "Text",ExpressionUUID->"31729eba-8076-4b0d-a32b-9b45a7e35f25"],
-Cell[7951, 218, 1153, 16, 103, "Section",ExpressionUUID->"abda116e-607a-4cf1-82e7-5c4aaba73fa5"]
+Cell[2352, 59, 331, 6, 69, "Subtitle",ExpressionUUID->"cea95fb6-9216-4f67-9153-a06cd42eb953"],
+Cell[2686, 67, 870, 28, 52, "Text",ExpressionUUID->"cd97856b-b2f7-4628-a67d-3f9ea0527183"],
+Cell[3559, 97, 4437, 118, 291, "Text",ExpressionUUID->"31729eba-8076-4b0d-a32b-9b45a7e35f25"],
+Cell[7999, 217, 1153, 16, 103, "Section",ExpressionUUID->"abda116e-607a-4cf1-82e7-5c4aaba73fa5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[9141, 239, 367, 8, 69, "Subtitle",ExpressionUUID->"f5bd6540-a914-4510-91ce-61f3659e2667"],
-Cell[9511, 249, 6027, 176, 433, "Text",ExpressionUUID->"4ca3a0fd-65b3-49bc-8c6f-2eff1c4aa6aa"],
-Cell[15541, 427, 99, 1, 5, "PageBreak",ExpressionUUID->"37e538bf-28ac-47de-bedd-6492aaf2c5e6",
+Cell[9189, 238, 367, 8, 69, "Subtitle",ExpressionUUID->"f5bd6540-a914-4510-91ce-61f3659e2667"],
+Cell[9559, 248, 5647, 161, 468, "Text",ExpressionUUID->"4ca3a0fd-65b3-49bc-8c6f-2eff1c4aa6aa"],
+Cell[15209, 411, 99, 1, 1, "PageBreak",ExpressionUUID->"37e538bf-28ac-47de-bedd-6492aaf2c5e6",
  PageBreakBelow->True],
-Cell[15643, 430, 316950, 5202, 1380, "Text",ExpressionUUID->"720dd396-7a24-43ea-81fd-7e28fce4e7e7"],
-Cell[332596, 5634, 99, 1, 5, "PageBreak",ExpressionUUID->"10d526d6-83e1-4a11-b2f4-7bbb05a9340a",
- PageBreakBelow->True],
-Cell[332698, 5637, 1017, 15, 103, "Section",ExpressionUUID->"8f6e1f71-ec97-4a87-a391-c8b758624354"]
+Cell[15311, 414, 316985, 5203, 1449, "Text",ExpressionUUID->"720dd396-7a24-43ea-81fd-7e28fce4e7e7"],
+Cell[332299, 5619, 1017, 15, 103, "Section",ExpressionUUID->"8f6e1f71-ec97-4a87-a391-c8b758624354"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[333752, 5657, 413, 10, 106, "Subtitle",ExpressionUUID->"f1ecf15c-374a-452c-9379-cea0f8c07400"],
-Cell[334168, 5669, 6676, 190, 576, "Text",ExpressionUUID->"06ede073-7457-4a7f-bcbc-f71f6bc94683"],
+Cell[333353, 5639, 413, 10, 106, "Subtitle",ExpressionUUID->"f1ecf15c-374a-452c-9379-cea0f8c07400"],
+Cell[333769, 5651, 6676, 190, 576, "Text",ExpressionUUID->"06ede073-7457-4a7f-bcbc-f71f6bc94683"],
 Cell[CellGroupData[{
-Cell[340869, 5863, 1127, 16, 103, "Section",ExpressionUUID->"8761d57b-df36-4f0d-882f-e8cc01f6e343"],
-Cell[341999, 5881, 7166, 204, 1205, "Text",ExpressionUUID->"e4299f43-8f08-4627-bce7-40658664f18f"]
+Cell[340470, 5845, 1127, 16, 103, "Section",ExpressionUUID->"8761d57b-df36-4f0d-882f-e8cc01f6e343"],
+Cell[341600, 5863, 6645, 185, 1239, "Text",ExpressionUUID->"e4299f43-8f08-4627-bce7-40658664f18f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[349202, 6090, 1174, 17, 103, "Section",ExpressionUUID->"43e192ef-e0b9-4dea-90cf-673580c310df"],
-Cell[350379, 6109, 2600, 72, 223, "Text",ExpressionUUID->"e6d96c06-39e1-4966-8cfe-d7c5dde52d94"]
+Cell[348282, 6053, 1174, 17, 103, "Section",ExpressionUUID->"43e192ef-e0b9-4dea-90cf-673580c310df"],
+Cell[349459, 6072, 2600, 72, 223, "Text",ExpressionUUID->"e6d96c06-39e1-4966-8cfe-d7c5dde52d94"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[353016, 6186, 1265, 18, 103, "Section",ExpressionUUID->"2894793b-4ba1-4da1-87ce-325db421f802"],
-Cell[354284, 6206, 2908, 85, 302, "Text",ExpressionUUID->"a90be327-c9e0-4760-9c3d-8d7509dd7cd8"],
-Cell[357195, 6293, 99, 1, 1, "PageBreak",ExpressionUUID->"555ea1fc-2816-4309-8205-e0e1e6a847f8",
- PageBreakBelow->True],
-Cell[357297, 6296, 421274, 6912, 1296, "Text",ExpressionUUID->"f2f88dcc-697a-4427-9db6-7a780612b181"],
-Cell[778574, 13210, 99, 1, 1, "PageBreak",ExpressionUUID->"e4be3ec8-8678-4f41-8fb7-0f7dbaa30793",
+Cell[352096, 6149, 1265, 18, 103, "Section",ExpressionUUID->"2894793b-4ba1-4da1-87ce-325db421f802"],
+Cell[353364, 6169, 2832, 80, 268, "Text",ExpressionUUID->"a90be327-c9e0-4760-9c3d-8d7509dd7cd8"],
+Cell[356199, 6251, 421274, 6912, 1296, "Text",ExpressionUUID->"f2f88dcc-697a-4427-9db6-7a780612b181"],
+Cell[777476, 13165, 99, 1, 5, "PageBreak",ExpressionUUID->"e4be3ec8-8678-4f41-8fb7-0f7dbaa30793",
  PageBreakBelow->True]
 }, Open  ]],
-Cell[778688, 13214, 1240, 22, 277, "Section",ExpressionUUID->"5f5b4cf0-2799-43a0-a739-8431d51e06d8"]
+Cell[777590, 13169, 1240, 22, 277, "Section",ExpressionUUID->"5f5b4cf0-2799-43a0-a739-8431d51e06d8"]
 }, Open  ]],
-Cell[779943, 13239, 509, 16, 519, "Subtitle",ExpressionUUID->"9b9782d8-e3fe-484c-a8c0-d6d3fb5aa480"]
+Cell[778845, 13194, 509, 16, 519, "Subtitle",ExpressionUUID->"9b9782d8-e3fe-484c-a8c0-d6d3fb5aa480"]
 }
 ]
 *)
