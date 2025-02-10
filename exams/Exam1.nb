@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[    782201,      13264]
-NotebookOptionsPosition[    779335,      13210]
-NotebookOutlinePosition[    779822,      13229]
-CellTagsIndexPosition[    779779,      13226]
+NotebookDataLength[    781797,      13250]
+NotebookOptionsPosition[    778931,      13196]
+NotebookOutlinePosition[    779418,      13215]
+CellTagsIndexPosition[    779375,      13212]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -96,17 +96,15 @@ Cell[TextData[{
 3f9ea0527183"],
 
 Cell[TextData[{
- " We wish to prove that if ",
+ "We wish to prove that if ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"0", "<", "a", "<", "b"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"0", "<", "a", "<", "b"}], TraditionalForm]],ExpressionUUID->
   "fb6013bd-c1fb-4fe1-8895-b0c48f4b08f8"],
  " and ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"0", "<", "c", "<", "d"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"0", "<", "c", "<", "d"}], TraditionalForm]],ExpressionUUID->
   "ef534fc5-5eb4-431c-9542-9ea5e673d7e2"],
  ", then ",
  Cell[BoxData[
@@ -114,21 +112,18 @@ Cell[TextData[{
    RowBox[{
     RowBox[{"a", "\[VeryThinSpace]", "c"}], "<", 
     RowBox[{"b", "\[VeryThinSpace]", "d"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "9eb9a65f-65e6-4018-8c5f-0a326dae9dca"],
+  ExpressionUUID->"9eb9a65f-65e6-4018-8c5f-0a326dae9dca"],
  " using the definition of inequality and whichever of P10-P12 you need to \
 cite. You don\[CloseCurlyQuote]t need to cite P1-P9 as you use them. I\
 \[CloseCurlyQuote]ll take you through the steps:\n(a) What does ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"a", "<", "b"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"a", "<", "b"}], TraditionalForm]],ExpressionUUID->
   "55a1abde-a253-4b3a-87ec-a329c89368b5"],
  " say using the definition of inequality? And what does ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"c", "<", "d"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"c", "<", "d"}], TraditionalForm]],ExpressionUUID->
   "7897890a-9bb8-4d50-a281-df92162b867d"],
  " say?\n(b) Prove that ",
  Cell[BoxData[
@@ -136,83 +131,74 @@ cite. You don\[CloseCurlyQuote]t need to cite P1-P9 as you use them. I\
    RowBox[{
     RowBox[{"a", "\[VeryThinSpace]", "c"}], "<", 
     RowBox[{"b", "\[VeryThinSpace]", "c"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "c997b481-dc6d-4a97-908c-a858797aee80"],
+  ExpressionUUID->"c997b481-dc6d-4a97-908c-a858797aee80"],
  ". First, what does ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{"a", "\[VeryThinSpace]", "c"}], "<", 
     RowBox[{"b", "\[VeryThinSpace]", "c"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "305ca383-4245-4158-8333-ae09308cdb7c"],
+  ExpressionUUID->"305ca383-4245-4158-8333-ae09308cdb7c"],
  " say using the definition of inequality?\n(c) Prove that ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{"b", "\[VeryThinSpace]", "c"}], "<", 
     RowBox[{"b", "\[VeryThinSpace]", "d"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "a371ca56-c1ba-4a1a-a351-3e142ad6bf04"],
+  ExpressionUUID->"a371ca56-c1ba-4a1a-a351-3e142ad6bf04"],
  ". First, what does ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{"b", "\[VeryThinSpace]", "c"}], "<", 
     RowBox[{"b", "\[VeryThinSpace]", "d"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "2959ad95-b603-4e4c-9934-235af795c0c0"],
+  ExpressionUUID->"2959ad95-b603-4e4c-9934-235af795c0c0"],
  " say using the definition of inequality?\n(d) You now have ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{"a", "\[VeryThinSpace]", "c"}], "<", 
     RowBox[{"b", "\[VeryThinSpace]", "c"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "601bc278-c713-4c71-8e74-cb4f8af91da7"],
+  ExpressionUUID->"601bc278-c713-4c71-8e74-cb4f8af91da7"],
  " and ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{"b", "\[VeryThinSpace]", "c"}], "<", 
     RowBox[{"b", "\[VeryThinSpace]", "d"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "61bdcec4-45cf-40ca-bcb0-d8d878c9589f"],
+  ExpressionUUID->"61bdcec4-45cf-40ca-bcb0-d8d878c9589f"],
  ". You are done because that implies ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{"a", "\[VeryThinSpace]", "c"}], "<", 
     RowBox[{"b", "\[VeryThinSpace]", "d"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "a63d0ff6-4340-464f-8ab5-f6810cdd2d7c"],
+  ExpressionUUID->"a63d0ff6-4340-464f-8ab5-f6810cdd2d7c"],
  ". But let\[CloseCurlyQuote]s do a corollary.... Using what you have proved, \
 show that if ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"0", "<", "a", "<", "b"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"0", "<", "a", "<", "b"}], TraditionalForm]],ExpressionUUID->
   "5f830768-966e-4676-8760-c6a9cced773d"],
  " then ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     SuperscriptBox["a", "2"], "<", 
-    SuperscriptBox["b", "2"]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    SuperscriptBox["b", "2"]}], TraditionalForm]],ExpressionUUID->
   "3056c9af-2900-48a7-8a2b-429eccd094f0"],
  "."
 }], "Text",
  CellChangeTimes->{{3.9481482291659737`*^9, 3.948148444165512*^9}, {
-  3.948148511463028*^9, 3.948148518330453*^9}, {3.948148556853589*^9, 
-  3.9481487247801*^9}, {3.948148775349023*^9, 3.9481488241585693`*^9}, {
-  3.948148865863822*^9, 3.948148865950164*^9}, {3.9481489039432993`*^9, 
-  3.9481489047610493`*^9}, {3.9481502278713017`*^9, 3.948150230329687*^9}, {
-  3.9481502836286583`*^9, 3.948150438309146*^9}, {3.948192215520976*^9, 
-  3.9481922155641737`*^9}, {3.948194382322258*^9, 3.948194388846105*^9}, {
-  3.948194537788563*^9, 3.9481945402000523`*^9}, {3.9481977752757*^9, 
-  3.948198177638698*^9}, {3.948198232373335*^9, 
-  3.94819829110039*^9}},ExpressionUUID->"31729eba-8076-4b0d-a32b-\
+   3.948148511463028*^9, 3.948148518330453*^9}, {3.948148556853589*^9, 
+   3.9481487247801*^9}, {3.948148775349023*^9, 3.9481488241585693`*^9}, {
+   3.948148865863822*^9, 3.948148865950164*^9}, {3.9481489039432993`*^9, 
+   3.9481489047610493`*^9}, {3.9481502278713017`*^9, 3.948150230329687*^9}, {
+   3.9481502836286583`*^9, 3.948150438309146*^9}, {3.948192215520976*^9, 
+   3.9481922155641737`*^9}, {3.948194382322258*^9, 3.948194388846105*^9}, {
+   3.948194537788563*^9, 3.9481945402000523`*^9}, {3.9481977752757*^9, 
+   3.948198177638698*^9}, {3.948198232373335*^9, 3.94819829110039*^9}, 
+   3.948211444942587*^9},ExpressionUUID->"31729eba-8076-4b0d-a32b-\
 9b45a7e35f25"],
 
 Cell["2. More Proofs of Things We All Know", "Section",
@@ -13236,36 +13222,36 @@ Cell[1188, 38, 1127, 16, 103, "Section",ExpressionUUID->"bedc15d2-27e6-4b78-b9b2
 Cell[CellGroupData[{
 Cell[2352, 59, 331, 6, 69, "Subtitle",ExpressionUUID->"cea95fb6-9216-4f67-9153-a06cd42eb953"],
 Cell[2686, 67, 870, 28, 52, "Text",ExpressionUUID->"cd97856b-b2f7-4628-a67d-3f9ea0527183"],
-Cell[3559, 97, 4437, 118, 291, "Text",ExpressionUUID->"31729eba-8076-4b0d-a32b-9b45a7e35f25"],
-Cell[7999, 217, 1207, 17, 103, "Section",ExpressionUUID->"abda116e-607a-4cf1-82e7-5c4aaba73fa5"]
+Cell[3559, 97, 4033, 104, 291, "Text",ExpressionUUID->"31729eba-8076-4b0d-a32b-9b45a7e35f25"],
+Cell[7595, 203, 1207, 17, 103, "Section",ExpressionUUID->"abda116e-607a-4cf1-82e7-5c4aaba73fa5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[9243, 239, 392, 8, 69, "Subtitle",ExpressionUUID->"f5bd6540-a914-4510-91ce-61f3659e2667"],
-Cell[9638, 249, 5647, 161, 468, "Text",ExpressionUUID->"4ca3a0fd-65b3-49bc-8c6f-2eff1c4aa6aa"],
-Cell[15288, 412, 99, 1, 5, "PageBreak",ExpressionUUID->"37e538bf-28ac-47de-bedd-6492aaf2c5e6",
+Cell[8839, 225, 392, 8, 69, "Subtitle",ExpressionUUID->"f5bd6540-a914-4510-91ce-61f3659e2667"],
+Cell[9234, 235, 5647, 161, 468, "Text",ExpressionUUID->"4ca3a0fd-65b3-49bc-8c6f-2eff1c4aa6aa"],
+Cell[14884, 398, 99, 1, 5, "PageBreak",ExpressionUUID->"37e538bf-28ac-47de-bedd-6492aaf2c5e6",
  PageBreakBelow->True],
-Cell[15390, 415, 316985, 5203, 1449, "Text",ExpressionUUID->"720dd396-7a24-43ea-81fd-7e28fce4e7e7"],
-Cell[332378, 5620, 1017, 15, 103, "Section",ExpressionUUID->"8f6e1f71-ec97-4a87-a391-c8b758624354"]
+Cell[14986, 401, 316985, 5203, 1449, "Text",ExpressionUUID->"720dd396-7a24-43ea-81fd-7e28fce4e7e7"],
+Cell[331974, 5606, 1017, 15, 103, "Section",ExpressionUUID->"8f6e1f71-ec97-4a87-a391-c8b758624354"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[333432, 5640, 413, 10, 106, "Subtitle",ExpressionUUID->"f1ecf15c-374a-452c-9379-cea0f8c07400"],
-Cell[333848, 5652, 6676, 190, 576, "Text",ExpressionUUID->"06ede073-7457-4a7f-bcbc-f71f6bc94683"],
+Cell[333028, 5626, 413, 10, 106, "Subtitle",ExpressionUUID->"f1ecf15c-374a-452c-9379-cea0f8c07400"],
+Cell[333444, 5638, 6676, 190, 576, "Text",ExpressionUUID->"06ede073-7457-4a7f-bcbc-f71f6bc94683"],
 Cell[CellGroupData[{
-Cell[340549, 5846, 1127, 16, 103, "Section",ExpressionUUID->"8761d57b-df36-4f0d-882f-e8cc01f6e343"],
-Cell[341679, 5864, 6645, 185, 1205, "Text",ExpressionUUID->"e4299f43-8f08-4627-bce7-40658664f18f"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[348361, 6054, 1174, 17, 103, "Section",ExpressionUUID->"43e192ef-e0b9-4dea-90cf-673580c310df"],
-Cell[349538, 6073, 2600, 72, 223, "Text",ExpressionUUID->"e6d96c06-39e1-4966-8cfe-d7c5dde52d94"]
+Cell[340145, 5832, 1127, 16, 103, "Section",ExpressionUUID->"8761d57b-df36-4f0d-882f-e8cc01f6e343"],
+Cell[341275, 5850, 6645, 185, 1239, "Text",ExpressionUUID->"e4299f43-8f08-4627-bce7-40658664f18f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[352175, 6150, 1265, 18, 103, "Section",ExpressionUUID->"2894793b-4ba1-4da1-87ce-325db421f802"],
-Cell[353443, 6170, 2832, 80, 268, "Text",ExpressionUUID->"a90be327-c9e0-4760-9c3d-8d7509dd7cd8"],
-Cell[356278, 6252, 421274, 6912, 1296, "Text",ExpressionUUID->"f2f88dcc-697a-4427-9db6-7a780612b181"]
+Cell[347957, 6040, 1174, 17, 103, "Section",ExpressionUUID->"43e192ef-e0b9-4dea-90cf-673580c310df"],
+Cell[349134, 6059, 2600, 72, 223, "Text",ExpressionUUID->"e6d96c06-39e1-4966-8cfe-d7c5dde52d94"]
 }, Open  ]],
-Cell[777567, 13167, 1240, 22, 277, "Section",ExpressionUUID->"5f5b4cf0-2799-43a0-a739-8431d51e06d8"]
+Cell[CellGroupData[{
+Cell[351771, 6136, 1265, 18, 103, "Section",ExpressionUUID->"2894793b-4ba1-4da1-87ce-325db421f802"],
+Cell[353039, 6156, 2832, 80, 268, "Text",ExpressionUUID->"a90be327-c9e0-4760-9c3d-8d7509dd7cd8"],
+Cell[355874, 6238, 421274, 6912, 1296, "Text",ExpressionUUID->"f2f88dcc-697a-4427-9db6-7a780612b181"]
 }, Open  ]],
-Cell[778822, 13192, 509, 16, 519, "Subtitle",ExpressionUUID->"9b9782d8-e3fe-484c-a8c0-d6d3fb5aa480"]
+Cell[777163, 13153, 1240, 22, 277, "Section",ExpressionUUID->"5f5b4cf0-2799-43a0-a739-8431d51e06d8"]
+}, Open  ]],
+Cell[778418, 13178, 509, 16, 519, "Subtitle",ExpressionUUID->"9b9782d8-e3fe-484c-a8c0-d6d3fb5aa480"]
 }
 ]
 *)
