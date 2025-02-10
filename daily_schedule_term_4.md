@@ -23,26 +23,26 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 ### Week 4 &mdash; Graphing in Cartesian and Polar Coordinates &mdash; Vectors
 
-* Monday, Feb. 3 &mdash; Reading: Finish Reading Chapter 4 &mdash; Problem Set 6: Problems 3, 4, 5 and 9 from Chapter 4 &mdash; In-class: We did some more strange functions (stair step and saw tooth), and then started into into Chapter 4 Appendices 1 and 3 (pp. 84-89) on Vectors and Polar Coordinates
+* Monday, Feb. 3 &mdash; Reading: Finish Chapter 4 &mdash; Problem Set 6: Problems 3, 4, 5 and 9 from Chapter 4 &mdash; In-class: We did some more strange functions (stair step and saw tooth), and then started into into Chapter 4 Appendices 1 and 3 (pp. 84-89) on Vectors and Polar Coordinates
 * Thursday, Feb. 6 &mdash; Reading: Appendices 1 and 3 of Chapter 4 &mdash; Problem Set 7: Problems 18(v) and 21(a) of Chapter 4 (on pp. 72-73), Problems 1, 2, and 3 of Appendix 1 (on p. 77-78), and Problems 6 and 9(i) of Appendix 3 (on pp. 88-89) &mdash; In-class: As review before the exam, we will do more problems from Chapters 1 to 4
 
 ### Week 5 &mdash; Exam 1 &mdash; Start Limits
 
 * Monday, Feb. 10 &mdash; [Exam 1](./exams/Exam1.nb.pdf) on Spivak Chapters 1 to 4, including Appendices 1 and 3 of Chapter 4
-* Thursday, Feb. 13 &mdash; Study Chapter 5 to the bottom of p. 100
+* Thursday, Feb. 13 &mdash; Reading: Study Chapter 5 to the bottom of p. 100
 
 <img src="./illustrations/xSinOneOverX.png" width="65%">
 
-### Week 6
+### Week 6 &mdash; Finish Limits &mdash; Start Continuity
 
 #### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
 
-* Monday, Feb. 17
-* Thursday, Feb. 20
+* Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Selected Problems from the end of Chapter 5
+* Thursday, Feb. 20 &mdash; Reading: Start Chapter 6
 
-### Week 7
+### Week 7 &mdash; Finish Continuity
 
-* Monday, Feb. 24
+* Monday, Feb. 24 &mdash; Reading: Finish Chapter 6 &mdash; Problem Set 9: Selected Problems from the end of Chapter 6
 
 ## Daily Schedule Term 5
 
