@@ -29,16 +29,18 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 ### Week 5 &mdash; Exam 1 &mdash; Start Limits
 
 * Monday, Feb. 10 &mdash; [Exam 1](./exams/Exam1.nb.pdf) on Spivak Chapters 1 to 4, including Appendices 1 and 3 of Chapter 4
-* Thursday, Feb. 13 &mdash; Reading: Study Chapter 5 to the bottom of p. 100
-
-<img src="./illustrations/xSinOneOverX.png" width="65%">
+* Thursday, Feb. 13 &mdash; Reading: Study Chapter 5 to the bottom of p. 100 &mdash; In-class: [Mapping the square function](./illustrations/SquareMapping.nb.png) and [Cube root limits](./illustrations/CubeRootLimit.nb.pdf)
 
 ### Week 6 &mdash; Finish Limits &mdash; Start Continuity
 
+* Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Chapter 5, Problems 1-4, 7, and 8
+
+<img src="./illustrations/xSinOneOverX.png" width="65%">
+
 #### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
 
-* Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Selected Problems from the end of Chapter 5
-* Thursday, Feb. 20 &mdash; Reading: Start Chapter 6
+* Thursday, Feb. 20 &mdash; Reading: Start Chapter 6 &mdash; Problem Set 9: More problems from Chapter 5
+
 
 ### Week 7 &mdash; Finish Continuity
 
@@ -60,8 +62,3 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 * Monday, March 31
 * Thursday, April 3
-
-### Week 11
-
-* Monday, April 7
-* Thursday, April 10
