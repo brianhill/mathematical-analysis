@@ -14,7 +14,7 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 
 * Thursday, March 20 &mdash; Reading: Finish studying Chapter 7 &mdash; Problem Set 12: TBD
 
-### Week 9
+### Week 9 &mdash; Least Upper Bounds
 
 * Monday, March 24
 * Thursday, March 27
