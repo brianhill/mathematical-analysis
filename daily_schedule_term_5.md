@@ -9,7 +9,10 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 ### Week 8
 
 * Monday, March 17 &mdash; Reading: Study the first eight theorems in Chapter 7 (note that the proofs of the first three theorems are deferred until Chapter 8) &mdash; Problem Set 11: Chapter 7, Problems 1-3
-* Thursday, March 20
+
+#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
+
+* Thursday, March 20 &mdash; Reading: Finish studying Chapter 7 &mdash; Problem Set 12: TBD
 
 ### Week 9
 

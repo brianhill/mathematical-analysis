@@ -31,6 +31,10 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 * Monday, Feb. 10 &mdash; [Exam 1](./exams/Exam1.nb.pdf) on Spivak Chapters 1 to 4, including Appendices 1 and 3 of Chapter 4
 * Thursday, Feb. 13 &mdash; Reading: Study Chapter 5 to the bottom of p. 100 &mdash; In-class: [Mapping the square function](./illustrations/SquareMapping.nb.png) and [Cube root limits](./illustrations/CubeRootLimit.nb.pdf)
 
+<img src="./illustrations/Weierstrass.png" width="65%">
+
+### Karl Weierstrass
+
 ### Week 6 &mdash; Finish Limits &mdash; Start Defining Continuity
 
 * Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Chapter 5, Problems 1-4, 7, and 8
@@ -40,18 +44,17 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 * Monday, Feb. 24 &mdash; Reading: Finish Studying Chapter 6 &mdash; Problem Set 10: Chapter 6, Problems 1-5, but for Problem 2 just do 4-17's functions
 
-<img src="./illustrations/Weierstrass.png" width="65%">
-
-### Karl Weierstrass
-
 ## Daily Schedule Term 5
 
 ### Week 8 &mdash; Three Hard Theorems about Continuous Functions
 
 * Monday, March 17 &mdash; Reading: Study the first eight theorems in Chapter 7 (note that the proofs of the first three theorems are deferred until Chapter 8) &mdash; Problem Set 11: Chapter 7, Problems 1-3
-* Thursday, March 20
 
-### Week 9
+#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
+
+* Thursday, March 20 &mdash; Reading: Finish studying Chapter 7 &mdash; Problem Set 12: TBD
+
+### Week 9 &mdash; Least Upper Bounds
 
 * Monday, March 24
 * Thursday, March 27
