@@ -14,15 +14,15 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 
 * Thursday, March 20 &mdash; Reading: Finish studying Chapter 7 &mdash; Problem Set 12: TBD
 
-### Week 9 &mdash; Least Upper Bounds
+### Week 9 &mdash; The Least Upper Bound Property (P13)
 
-* Monday, March 24
-* Thursday, March 27
+* Monday, March 24 &mdash; Reading: Start Chapter 8
+* Thursday, March 27 &mdash; Reading: Finish Chapter 8
 
-### Week 10
+### Week 10 &mdash; Exam 2 &mdash; Start Derivatives
 
-* Monday, March 31
-* Thursday, April 3
+* Monday, March 31 &mdash; Exam 2
+* Thursday, April 3 &mdash; Reading: Start Chapter 9
 
 ### Week 11
 

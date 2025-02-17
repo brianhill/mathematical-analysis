@@ -6,7 +6,7 @@ Course [home page](./)
 
 See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
-### Week 1 &mdash; Chapter 1 &mdash; Properties of the Real Numbers
+### Week 1 &mdash; Chapter 1 &mdash; Properties of the Real Numbers (P1-P12)
 
 * Monday, Jan. 13 &mdash; Reading: Chapter 1, pp. 3-10, postulates (P1)-(P12) for the real numbers &mdash; How to read mathematics: (1) when the author &ldquo;leaves something for the reader&rdquo; stop and do it, and (2) keep a constant eye on what has so far been postulated (as an axiom), defined, or proven (in a theorem, a lemma, or a corollary) and be very careful not to use things that seem obvious but have not yet been postulated, defined, or proven &mdash; In-class: we got started on the end-of-chapter problems
 * Thursday, Jan. 16 &mdash; Problem Set 1: Write up Problems 1-3 (which have many subparts) &mdash; For all of the first three problems, it would be best to work in a two-column format where you do the work in the left column, and enumerate which postulates you used in the right column &mdash; To keep the verbosity manageable, let's agree that we don't have to repeatedly note that *a-b* means *a+(-b),* that *a/b* means *a&middot;b<sup>-1</sup>,* and that *-(a&middot;b)=(-a)&middot;b=a&middot;(-b)* &mdash; Second Reading: Finish Chapter 1, and read the first three pages of Chapter 2 &mdash; In-class: scrutinizing what is meant by equality, proving *(-(-a))=a,* and proving that the additive inverse is unique
@@ -35,12 +35,12 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 ### Karl Weierstrass
 
-### Week 6 &mdash; Finish Limits &mdash; Start Defining Continuity
+### Week 6 &mdash; Finish Limits &mdash; Start Continuous Functions
 
 * Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Chapter 5, Problems 1-4, 7, and 8 &mdash; Focus on the limit of the inverse function (Theorem 2, Part 3, p. 102) &mdash;  [Illustration of g Inverse](./illustrations/gInverse.nb.pdf)
 * Thursday, Feb. 20 &mdash; Reading: Chapter 6, p. 113-115, including the statement of Theorem 2, but not the proof &mdash; Problem Set 9: Still from Chapter 5, do Problems 6, 9, 10, and 11
 
-### Week 7 &mdash; Finish Defining Continuity and Continuous Functions
+### Week 7 &mdash; Finish Continuous Functions
 
 * Monday, Feb. 24 &mdash; Reading: Finish Studying Chapter 6 &mdash; Problem Set 10: Chapter 6, Problems 1-5, but for Problem 2 just do 4-17's functions
 
@@ -54,12 +54,12 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 * Thursday, March 20 &mdash; Reading: Finish studying Chapter 7 &mdash; Problem Set 12: TBD
 
-### Week 9 &mdash; Least Upper Bounds
+### Week 9 &mdash; The Least Upper Bound Property (P13)
 
-* Monday, March 24
-* Thursday, March 27
+* Monday, March 24 &mdash; Reading: Start Chapter 8
+* Thursday, March 27 &mdash; Reading: Finish Chapter 8
 
-### Week 10
+### Week 10 &mdash; Exam 2 &mdash; Start Derivatives
 
-* Monday, March 31
-* Thursday, April 3
+* Monday, March 31 &mdash; Exam 2
+* Thursday, April 3 &mdash; Reading: Start Chapter 9
