@@ -37,7 +37,7 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 ### Week 6 &mdash; Finish Limits &mdash; Start Defining Continuity
 
-* Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Chapter 5, Problems 1-4, 7, and 8
+* Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Chapter 5, Problems 1-4, 7, and 8 &mdash; Focus on the limit of the inverse function (Theorem 2, Part 3, p. 102) &mdash;  [Illustration of g Inverse](./illustrations/gInverse.nb.pdf)
 * Thursday, Feb. 20 &mdash; Reading: Chapter 6, p. 113-115, including the statement of Theorem 2, but not the proof &mdash; Problem Set 9: Still from Chapter 5, do Problems 6, 9, 10, and 11
 
 ### Week 7 &mdash; Finish Defining Continuity and Continuous Functions
