@@ -31,17 +31,18 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 * Monday, Feb. 10 &mdash; [Exam 1](./exams/Exam1.nb.pdf) on Spivak Chapters 1 to 4, including Appendices 1 and 3 of Chapter 4
 * Thursday, Feb. 13 &mdash; Reading: Study Chapter 5 to the bottom of p. 100 &mdash; In-class: [Mapping the square function](./illustrations/SquareMapping.nb.png) and [Cube root limits](./illustrations/CubeRootLimit.nb.pdf)
 
+### Week 6 &mdash; Finish Limits &mdash; Start Continuous Functions
+
+* Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Chapter 5, Problems 1-4, 7, and 8 &mdash; In-class: Focus on the limit of the inverse function (Theorem 2, Part 3, p. 102) &mdash;  [Illustration of g Inverse](./illustrations/gInverse.nb.pdf)
+* Thursday, Feb. 20 &mdash; Reading: Chapter 6, p. 113-115, including the statement of Theorem 2, but not the proof &mdash; Problem Set 9: Still from Chapter 5, do Problems 6, 9, 10, and 11 &mdash; In-class: lots of time going over problems 6 and 10, limits at infinity, [including 5-39(v)](./illustrations/ALimitAtInfinity.nb.pdf), and a look ahead at Problem 2 of Chapter 6
+
+### Week 7 &mdash; Finish Continuous Functions
+
+* Monday, Feb. 24 &mdash; Reading: Finish Chapter 6 &mdash; Problem Set 10: Chapter 6, Problems 1-5, but for Problem 2 just do 4-17's functions
+
+#### See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
+
 <img src="./illustrations/Weierstrass.png" width="65%">
 
 ### Karl Weierstrass
 
-### Week 6 &mdash; Finish Limits &mdash; Start Continuous Functions
-
-* Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Chapter 5, Problems 1-4, 7, and 8 &mdash; In-class: Focus on the limit of the inverse function (Theorem 2, Part 3, p. 102) &mdash;  [Illustration of g Inverse](./illustrations/gInverse.nb.pdf)
-* Thursday, Feb. 20 &mdash; Reading: Chapter 6, p. 113-115, including the statement of Theorem 2, but not the proof &mdash; Problem Set 9: Still from Chapter 5, do Problems 6, 9, 10, and 11 &mdash; In-class: lots of time going over problems 6 and 10, limits at infinity, and a look ahead at Problem 2 of Chapter 6
-
-### Week 7 &mdash; Finish Continuous Functions
-
-* Monday, Feb. 24 &mdash; Reading: Finish Studying Chapter 6 &mdash; Problem Set 10: Chapter 6, Problems 1-5, but for Problem 2 just do 4-17's functions
-
-#### See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
