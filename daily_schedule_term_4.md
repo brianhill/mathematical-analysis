@@ -37,29 +37,11 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 ### Week 6 &mdash; Finish Limits &mdash; Start Continuous Functions
 
-* Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Chapter 5, Problems 1-4, 7, and 8 &mdash; Focus on the limit of the inverse function (Theorem 2, Part 3, p. 102) &mdash;  [Illustration of g Inverse](./illustrations/gInverse.nb.pdf)
-* Thursday, Feb. 20 &mdash; Reading: Chapter 6, p. 113-115, including the statement of Theorem 2, but not the proof &mdash; Problem Set 9: Still from Chapter 5, do Problems 6, 9, 10, and 11
+* Monday, Feb. 17 &mdash; Reading: Finish Chapter 5 &mdash; Problem Set 8: Chapter 5, Problems 1-4, 7, and 8 &mdash; In-class: Focus on the limit of the inverse function (Theorem 2, Part 3, p. 102) &mdash;  [Illustration of g Inverse](./illustrations/gInverse.nb.pdf)
+* Thursday, Feb. 20 &mdash; Reading: Chapter 6, p. 113-115, including the statement of Theorem 2, but not the proof &mdash; Problem Set 9: Still from Chapter 5, do Problems 6, 9, 10, and 11 &mdash; In-class: lots of time going over problems 6 and 10, limits at infinity, and a look ahead at Problem 2 of Chapter 6
 
 ### Week 7 &mdash; Finish Continuous Functions
 
 * Monday, Feb. 24 &mdash; Reading: Finish Studying Chapter 6 &mdash; Problem Set 10: Chapter 6, Problems 1-5, but for Problem 2 just do 4-17's functions
 
-## Daily Schedule Term 5
-
-### Week 8 &mdash; Three Hard Theorems about Continuous Functions
-
-* Monday, March 17 &mdash; Reading: Study the first eight theorems in Chapter 7 (note that the proofs of the first three theorems are deferred until Chapter 8) &mdash; Problem Set 11: Chapter 7, Problems 1-3
-
-#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
-
-* Thursday, March 20 &mdash; Reading: Finish studying Chapter 7 &mdash; Problem Set 12: TBD
-
-### Week 9 &mdash; The Least Upper Bound Property (P13)
-
-* Monday, March 24 &mdash; Reading: Start Chapter 8
-* Thursday, March 27 &mdash; Reading: Finish Chapter 8
-
-### Week 10 &mdash; Exam 2 &mdash; Start Derivatives
-
-* Monday, March 31 &mdash; Exam 2
-* Thursday, April 3 &mdash; Reading: Start Chapter 9
+#### See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
