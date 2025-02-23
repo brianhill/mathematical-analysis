@@ -24,22 +24,22 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 * Monday, March 31 &mdash; Exam 2
 * Thursday, April 3 &mdash; Reading: Start Chapter 9
 
-### Week 11
+### Week 11 &mdash; Finish Derivative &mdassh; Start Differentiation
 
 * Monday, April 7
 * Thursday, April 10
 
-### Week 12
+### Week 12 &mdash; Finish Differentiation &mdash; Significance of the Derivative
 
 * Monday, April 14
 * Thursday, April 17
 
-### Week 13
+### Week 13 &mdash; Integrals
 
 * Monday, April 21
 * Thursday, April 24
 
-### Week 14
+### Week 14 The Fundamental Theorem of Calculus &mdash; Exam 3
 
-* Monday, April 28
-* Thursday, May 1
+* Monday, April 28 &mdash; The Fundamental Theorem of Calculus
+* Thursday, May 1 &mdash; Exam 3
