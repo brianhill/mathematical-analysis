@@ -34,7 +34,7 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 * Monday, April 14 &mdash; Reading: Finish Chapter 10
 * Thursday, April 17 &mdash; Reading: Chapter 11
 
-#### In the interest of getting to The Fundamental Theorem of Calculus, I am proposing to skip Chapter 12 on inverse functions, and going straight to Chapter 13 on integrals.
+#### In the interest of getting to The Fundamental Theorem of Calculus, I am proposing to skip Chapter 12 on inverse functions and go straight to Chapter 13 on integrals.
 
 ### Week 13 &mdash; Integrals
 
