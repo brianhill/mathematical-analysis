@@ -10,7 +10,7 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 
 * Monday, March 17 &mdash; Reading: Study the first eight theorems in Chapter 7 (note that the proofs of the first three theorems are deferred until Chapter 8) &mdash; Problem Set 11: Chapter 7, Problems 1-3
 
-#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes
+#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes.
 
 * Thursday, March 20 &mdash; Reading: Finish studying Chapter 7 &mdash; Problem Set 12: TBD
 
@@ -24,7 +24,7 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 * Monday, March 31 &mdash; Exam 2
 * Thursday, April 3 &mdash; Reading: Start Chapter 9
 
-### Week 11 &mdash; Finish Derivative &mdash; Start Differentiation
+### Week 11 &mdash; Finish Derivatives &mdash; Start Differentiation
 
 * Monday, April 7 &mdash; Reading: Finish Chapter 9
 * Thursday, April 10 &mdash; Reading: Start Chapter 10
@@ -34,9 +34,9 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 * Monday, April 14 &mdash; Reading: Finish Chapter 10
 * Thursday, April 17 &mdash; Reading: Chapter 11
 
-### Week 13 &mdash; Integrals
+#### In the interest of getting to The Fundamental Theorem of Calculus, I am proposing to skip Chapter 12 on inverse functions, and going straight to Chapter 13 on integrals.
 
-#### In the interest of getting to The Fundamental Theorem of Calculus, I am proposing to skip Chapter 12, even though is is great stuff
+### Week 13 &mdash; Integrals
 
 * Monday, April 21 &mdash; Reading: Start Chapter 13
 * Thursday, April 24 &mdash; Reading: Finish Chapter 13
