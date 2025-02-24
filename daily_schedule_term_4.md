@@ -38,7 +38,7 @@ See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
 ### Week 7 &mdash; Finish Continuous Functions
 
-* Monday, Feb. 24 &mdash; Reading: Finish Chapter 6 &mdash; Problem Set 10: Chapter 6, Problems 1-5, but for Problem 2 just do 4-17's functions
+* Monday, Feb. 24 &mdash; Reading: Finish Chapter 6 &mdash; Problem Set 10: Chapter 6, Problems 1-5, but for Problem 2 just do 4-17's functions &mdash; In-class: Preview the first eight theorems of Chapter 7
 
 #### See also [Daily Schedule Term 5](./daily_schedule_term_5.html)
 
