@@ -11,22 +11,22 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 * Monday, March 17 &mdash; Reading: Study the first eight theorems in Chapter 7 (note that the proofs of the first three theorems are deferred until Chapter 8) &mdash; Problem Set 11: Chapter 7, Problems 1-3
 * Thursday, March 20 &mdash; Reading: Finish studying Chapter 7 and read Chapter 8 through the proof of Theorem 1 &mdash; Problem Set 12: Chapter 7, Problems 10-12, and Chapter 8, Problems 1 and 3
 
-### Week 9 &mdash; Finish Least Upper Bounds
+### Week 9 &mdash; Finish Least Upper Bounds &mdash; Uniform Continuity &mdash; Start Derivatives
 
 * Monday, March 24 &mdash; Reading: Finish Chapter 8 and study the Appendix to Chapter 8 &mdash; Instead of a new problem set, three presentations: Rania and Will, Problem 1, p. 144; Brian and Hexi, Problem 2, p. 144; Brendan and Jeremy, Problem 10, p. 139 &mdash; Also, read each others' mid-semester course evaluations and be prepared to discuss
-* Thursday, March 27 &mdash; Review questions? &mdash; Look ahead to derivatives?
+* Thursday, March 27 &mdash; Review questions? &mdash; Look ahead to Chapter 9, derivatives (not on Exam 2)
 
-### Week 10 &mdash; Exam 2 &mdash; Start Derivatives
+### Week 10 &mdash; Exam 2 
 
 * Monday, March 31 &mdash; Exam 2
 
 #### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes.
 
-* Thursday, April 3 &mdash; Reading: Start Chapter 9
+* Thursday, April 3 &mdash; Reading: Continue Chapter 9, derivatives
 
 ### Week 11 &mdash; Finish Derivatives &mdash; Start Differentiation
 
-* Monday, April 7 &mdash; Reading: Finish Chapter 9
+* Monday, April 7 &mdash; Reading: Finish Chapter 9, derivatives
 * Thursday, April 10 &mdash; Reading: Start Chapter 10
 
 ### Week 12 &mdash; Finish Differentiation &mdash; Significance of the Derivative
