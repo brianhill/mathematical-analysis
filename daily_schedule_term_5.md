@@ -13,7 +13,7 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 
 ### Week 9 &mdash; Finish Least Upper Bounds
 
-* Monday, March 24 &mdash; Reading: Finish Chapter 8
+* Monday, March 24 &mdash; Reading: Finish Chapter 8 and study the Appendix to Chapter 8 &mdash; Instead of a new problem set, three presentations: Rania and Will, Problem 1, p. 144; Brian and Hexi, Problem 2, p. 144; Brendan and Jeremy, Problem 10, p. 139 &mdash; Also, read each others' mid-semester course evaluations and be prepared to discuss
 * Thursday, March 27 &mdash; Review questions? &mdash; Look ahead to derivatives?
 
 ### Week 10 &mdash; Exam 2 &mdash; Start Derivatives
