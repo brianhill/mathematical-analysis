@@ -14,9 +14,9 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 ### Week 9 &mdash; Finish Least Upper Bounds &mdash; Uniform Continuity &mdash; Start Derivatives
 
 * Monday, March 24 &mdash; Reading: Finish Chapter 8 and study the Appendix to Chapter 8 &mdash; Instead of a new problem set, three presentations: Rania and Will, Problem 1, p. 144; [Brian and Hexi, Problem 2, p. 144](./illustrations/UniformContinuity.nb.pdf); Brendan and Jeremy, Problem 10, p. 139 &mdash; Also, read each others' mid-semester course evaluations and be prepared to discuss &mdash; Surprise: [Continuity Implies Uniform Continuity](./illustrations/ContinuityImpliesUniformContinuity.nb.pdf) (only on a closed interval)
-* Thursday, March 27 &mdash; Start Chapter 9, derivatives (not on Exam 2) through to the middle of p. 154 &mdash; Problem Set 13: Chapter 9, Problems 1-5
+* Thursday, March 27 &mdash; Start Chapter 9, derivatives (which are not on Exam 2!) through to the middle of p. 154 &mdash; Problem Set 13: Chapter 9, Problems 1-6
 
-### Week 10 &mdash; Exam 2 &mdash; Continue Derivatives
+### Week 10 &mdash; Exam 2 &mdash; Finish Derivatives
 
 * Monday, March 31 &mdash; Exam 2 on Spivak Chapters 5 to 8, including the Appendix to Chapter 8
 * Thursday, April 3 &mdash; Reading: Finish Chapter 9, derivatives &mdash; Problem Set 14: TBD
@@ -33,7 +33,7 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 * Monday, April 14 &mdash; Reading: Start Chapter 11
 * Thursday, April 17 &mdash; Reading: Finish Chapter 11
 
-#### In the interest of getting to The Fundamental Theorem of Calculus, we may have to skip Chapter 12 on inverse functions and go straight to Chapter 13 on integrals
+#### In the interest of getting to The Fundamental Theorem of Calculus, we may have to skip Chapter 12 on inverse functions, and go straight to Chapter 13 on integrals. I am not sure how much Chapters 13 and 14 depend on Chapter 12.
 
 ### Week 13 &mdash; Integrals
 
