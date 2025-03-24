@@ -10,26 +10,26 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[    287435,       5343]
-NotebookOptionsPosition[    284083,       5279]
-NotebookOutlinePosition[    284535,       5297]
-CellTagsIndexPosition[    284492,       5294]
+NotebookDataLength[    288680,       5370]
+NotebookOptionsPosition[    285327,       5306]
+NotebookOutlinePosition[    285780,       5324]
+CellTagsIndexPosition[    285737,       5321]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
 Cell["Uniform Continuity", "Section",
  CellChangeTimes->{{3.951758291646098*^9, 3.951758300389958*^9}, {
-  3.951815287017933*^9, 
-  3.951815287373867*^9}},ExpressionUUID->"8f0b2653-f746-476d-b78e-\
+  3.95182499382979*^9, 
+  3.951824994053323*^9}},ExpressionUUID->"8f0b2653-f746-476d-b78e-\
 e355b9de099a"],
 
 Cell[CellGroupData[{
 
-Cell["Presentation of Chapter 8 Appendix, Problem 2, p. 144", "Subtitle",
+Cell["For Chapter 8 Appendix, Problem 2, p. 144", "Subtitle",
  CellChangeTimes->{{3.951758371719893*^9, 3.951758384918213*^9}, {
-  3.9517610930077267`*^9, 3.951761094539194*^9}, {3.951815295132465*^9, 
-  3.951815302840192*^9}},ExpressionUUID->"ba5d4897-9583-438a-a726-\
+   3.9517610930077267`*^9, 3.951761094539194*^9}, 
+   3.951824991565466*^9},ExpressionUUID->"ba5d4897-9583-438a-a726-\
 3b14331ce1e5"],
 
 Cell[TextData[Cell[BoxData[
@@ -1315,19 +1315,16 @@ continuous, provided that both functions are bounded on the interval in \
 question.\n\nAs in 2(a), we will have a ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["\[Delta]", "f"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["\[Delta]", "f"], TraditionalForm]],ExpressionUUID->
   "b2bf9d82-ee41-49e3-b4e0-bcd7d3dba098"],
  " and ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["\[Delta]", "g"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["\[Delta]", "g"], TraditionalForm]],ExpressionUUID->
   "29680349-e16c-4c94-b6ee-ba4ddd67e5fa"],
  ". This time choose the \[Epsilon] for ",
  Cell[BoxData[
-  FormBox["f", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["f", TraditionalForm]],ExpressionUUID->
   "2d135565-10eb-477d-a227-c19a416b7339"],
  " to be ",
  Cell[BoxData[
@@ -1338,8 +1335,7 @@ question.\n\nAs in 2(a), we will have a ",
  ". E.g., our ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["\[Delta]", "f"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["\[Delta]", "f"], TraditionalForm]],ExpressionUUID->
   "13540404-2a59-49ab-95ae-e01925203a24"],
  " will be sufficiently small such that \n\n",
  Cell[BoxData[
@@ -1350,18 +1346,15 @@ question.\n\nAs in 2(a), we will have a ",
       RowBox[{"f", "(", "x", ")"}], "-", 
       RowBox[{"f", "(", "y", ")"}]}], "\[RightBracketingBar]"}], "<", 
     FractionBox["\[Epsilon]", 
-     RowBox[{"2", "N"}]]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     RowBox[{"2", "N"}]]}], TraditionalForm]],ExpressionUUID->
   "3da24360-c762-4738-8359-13473c82c123"],
  "\n\nwhere ",
  Cell[BoxData[
-  FormBox["N", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["N", TraditionalForm]],ExpressionUUID->
   "be94286c-b7dc-4285-9b13-5850b741bcfe"],
  " is the bound on ",
  Cell[BoxData[
-  FormBox["g", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["g", TraditionalForm]],ExpressionUUID->
   "05aebf53-cd7e-4a80-90ce-f5d91179a9d0"],
  ". E.g., ",
  Cell[BoxData[
@@ -1369,13 +1362,10 @@ question.\n\nAs in 2(a), we will have a ",
    RowBox[{
     RowBox[{"\[LeftBracketingBar]", 
      RowBox[{"g", "(", "x", ")"}], "\[RightBracketingBar]"}], "<", "N"}], 
-   TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "13e605b8-96bb-4aac-a842-b82f2ad3a14b"],
+   TraditionalForm]],ExpressionUUID->"13e605b8-96bb-4aac-a842-b82f2ad3a14b"],
  ".\n\nSimilarly, choose the \[Epsilon] for ",
  Cell[BoxData[
-  FormBox["g", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["g", TraditionalForm]],ExpressionUUID->
   "8cb7f1b7-8696-40f3-af09-8cf7dd83767e"],
  " to be ",
  Cell[BoxData[
@@ -1386,8 +1376,7 @@ question.\n\nAs in 2(a), we will have a ",
  ". E.g., our ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["\[Delta]", "g"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["\[Delta]", "g"], TraditionalForm]],ExpressionUUID->
   "108ac9ad-d8f5-4954-9b21-ce35529e31d1"],
  " will be sufficiently small such that \n\n",
  Cell[BoxData[
@@ -1398,18 +1387,15 @@ question.\n\nAs in 2(a), we will have a ",
       RowBox[{"g", "(", "x", ")"}], "-", 
       RowBox[{"g", "(", "y", ")"}]}], "\[RightBracketingBar]"}], "<", 
     FractionBox["\[Epsilon]", 
-     RowBox[{"2", "M"}]]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     RowBox[{"2", "M"}]]}], TraditionalForm]],ExpressionUUID->
   "b3021dc5-fa8d-460b-a936-c8f6161747be"],
  "\n\nwhere ",
  Cell[BoxData[
-  FormBox["M", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["M", TraditionalForm]],ExpressionUUID->
   "0c050906-725e-4c61-b168-55696ec3851d"],
  " is the bound on ",
  Cell[BoxData[
-  FormBox["f", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["f", TraditionalForm]],ExpressionUUID->
   "c6ab8718-c5f5-43f4-b466-965db43796be"],
  ". E.g., ",
  Cell[BoxData[
@@ -1417,9 +1403,7 @@ question.\n\nAs in 2(a), we will have a ",
    RowBox[{
     RowBox[{"\[LeftBracketingBar]", 
      RowBox[{"f", "(", "x", ")"}], "\[RightBracketingBar]"}], "<", "M"}], 
-   TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "d83013f7-0351-4bc3-be45-f3774f5894a7"],
+   TraditionalForm]],ExpressionUUID->"d83013f7-0351-4bc3-be45-f3774f5894a7"],
  ".\n\nNow we consider\n\n",
  Cell[BoxData[
   FormBox[
@@ -1504,9 +1488,7 @@ question.\n\nAs in 2(a), we will have a ",
        RowBox[{
         FractionBox["\[Epsilon]", "2"], "+", 
         FractionBox["\[Epsilon]", "2"]}], "=", "\[Epsilon]"}]}]}]}], 
-   TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "d662a989-8970-4f7d-abc4-7fb725ad9ee0"],
+   TraditionalForm]],ExpressionUUID->"d662a989-8970-4f7d-abc4-7fb725ad9ee0"],
  "\n\nVoila."
 }], "Text",
  CellChangeTimes->{{3.951760235901829*^9, 3.9517603603276997`*^9}, {
@@ -5063,13 +5045,11 @@ fq9e33of9TcBLmj/ALmyhTM=
   "9deb6191-7a95-4292-9e69-51a7f9a4e9fb"],
  "\nNotice that the roles of ",
  Cell[BoxData[
-  FormBox["f", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["f", TraditionalForm]],ExpressionUUID->
   "08517a8a-a02e-4ee1-8064-eaecd9737133"],
  " and ",
  Cell[BoxData[
-  FormBox["g", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["g", TraditionalForm]],ExpressionUUID->
   "5defcbfc-f1c9-4612-86b4-2bb8fd5bdb38"],
  " have been interchanged.\n\nIf you look at the rest of the proof of Theorem \
 2 of Chapter 6, you\[CloseCurlyQuote]ll see that it indeed has almost the \
@@ -5080,51 +5060,42 @@ exactly the same outline as our proof that follows:\n\n",
   FontWeight->"Regular"],
  "\n\nBecause ",
  Cell[BoxData[
-  FormBox["g", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["g", TraditionalForm]],ExpressionUUID->
   "73d36b3c-efbf-4d82-9138-c2f3f59c44c3"],
  " is uniformly continuous on ",
  Cell[BoxData[
-  FormBox["B", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["B", TraditionalForm]],ExpressionUUID->
   "0ff895ae-4396-4c89-8ddb-8986166e1f30"],
  " we know that for ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"f", "(", "x", ")"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"f", "(", "x", ")"}], TraditionalForm]],ExpressionUUID->
   "4abec955-9249-4ea4-888a-d08f36d48657"],
  " and ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"f", "(", "y", ")"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"f", "(", "y", ")"}], TraditionalForm]],ExpressionUUID->
   "746452e5-7e41-4cbc-9964-fee27e3b02c0"],
  " (which by assumption are in ",
  Cell[BoxData[
-  FormBox["B", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["B", TraditionalForm]],ExpressionUUID->
   "3f41ff2e-3897-4508-92cc-c63b4fc6ce06"],
  " provided ",
  Cell[BoxData[
-  FormBox["x", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["x", TraditionalForm]],ExpressionUUID->
   "7982a366-f97a-4922-b51a-f4aea37ea858"],
  " and ",
  Cell[BoxData[
-  FormBox["y", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["y", TraditionalForm]],ExpressionUUID->
   "61a17ec7-49ef-4d2a-8160-17d1cd735b65"],
  " are in ",
  Cell[BoxData[
-  FormBox["A", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["A", TraditionalForm]],ExpressionUUID->
   "316a97ca-e03b-470e-8c91-a1feab9eb3e2"],
  ") that there is a ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["\[Delta]", "g"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["\[Delta]", "g"], TraditionalForm]],ExpressionUUID->
   "e28165ee-4e51-48ba-9217-2eb419f67036"],
  " such that ",
  Cell[BoxData[
@@ -5136,8 +5107,7 @@ exactly the same outline as our proof that follows:\n\n",
        RowBox[{"f", "(", "x", ")"}], ")"}], "-", 
       RowBox[{"g", "(", 
        RowBox[{"f", "(", "y", ")"}], ")"}]}], "\[RightBracketingBar]"}], "<", 
-    "\[Epsilon]"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    "\[Epsilon]"}], TraditionalForm]],ExpressionUUID->
   "27893a30-bb9a-49da-b3ee-0b136afef539"],
  " provided that ",
  Cell[BoxData[
@@ -5147,24 +5117,20 @@ exactly the same outline as our proof that follows:\n\n",
      RowBox[{
       RowBox[{"f", "(", "x", ")"}], "-", 
       RowBox[{"f", "(", "y", ")"}]}], "\[RightBracketingBar]"}], "<", 
-    SubscriptBox["\[Delta]", "g"]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    SubscriptBox["\[Delta]", "g"]}], TraditionalForm]],ExpressionUUID->
   "8629a328-7e7a-4878-940d-78b1bd282c49"],
  ".\n\nBut we also know that since ",
  Cell[BoxData[
-  FormBox["f", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["f", TraditionalForm]],ExpressionUUID->
   "608e7e26-87ba-4ecd-b8ed-69e15b3f4b6a"],
  " is uniformly continuous on ",
  Cell[BoxData[
-  FormBox["A", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["A", TraditionalForm]],ExpressionUUID->
   "984847ea-d7f2-4545-9310-2473223a8ba7"],
  " that there is a ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["\[Delta]", "f"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["\[Delta]", "f"], TraditionalForm]],ExpressionUUID->
   "c76e80a6-2ee3-44a6-ade1-464d051857e4"],
  " such that ",
  Cell[BoxData[
@@ -5174,8 +5140,7 @@ exactly the same outline as our proof that follows:\n\n",
      RowBox[{
       RowBox[{"f", "(", "x", ")"}], "-", 
       RowBox[{"f", "(", "y", ")"}]}], "\[RightBracketingBar]"}], "<", 
-    SubscriptBox["\[Delta]", "g"]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    SubscriptBox["\[Delta]", "g"]}], TraditionalForm]],ExpressionUUID->
   "744ae67b-0583-4747-b34f-66820c979f06"],
  " provided that ",
  Cell[BoxData[
@@ -5183,8 +5148,7 @@ exactly the same outline as our proof that follows:\n\n",
    RowBox[{
     RowBox[{"\[LeftBracketingBar]", 
      RowBox[{"x", "-", "y"}], "\[RightBracketingBar]"}], "<", 
-    SubscriptBox["\[Delta]", "f"]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    SubscriptBox["\[Delta]", "f"]}], TraditionalForm]],ExpressionUUID->
   "2742c49e-1f58-4883-a5ad-69c8583c55e5"],
  ". (",
  Cell[BoxData[
@@ -5193,42 +5157,35 @@ exactly the same outline as our proof that follows:\n\n",
   "7f3bc6c6-5e0f-4223-b4f8-63eee2c20271"],
  " is just playing the role of the ",
  Cell[BoxData[
-  FormBox["\[Epsilon]", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["\[Epsilon]", TraditionalForm]],ExpressionUUID->
   "879c98dc-b140-4e73-8741-5ade5372a03f"],
  " in the definition of uniform continuity for ",
  Cell[BoxData[
-  FormBox["f", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["f", TraditionalForm]],ExpressionUUID->
   "fe34c755-f3b2-4542-b43b-7961b016c3f4"],
  ".)\n\nTo summarize: the ",
  Cell[BoxData[
-  FormBox["\[Epsilon]", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["\[Epsilon]", TraditionalForm]],ExpressionUUID->
   "1146b904-3c8d-4ac4-976e-f79763fe1684"],
  " requires a certain ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["\[Delta]", "g"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["\[Delta]", "g"], TraditionalForm]],ExpressionUUID->
   "91baa5dd-c392-4217-acf4-99ec32386da9"],
  ", and this ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["\[Delta]", "g"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["\[Delta]", "g"], TraditionalForm]],ExpressionUUID->
   "2545bc1c-b04f-41fd-b769-42b711edfe8c"],
  " transitively requires a certain ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["\[Delta]", "f"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["\[Delta]", "f"], TraditionalForm]],ExpressionUUID->
   "1f6399b4-ade5-40eb-b155-615d8f4ac619"],
  ". This ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["\[Delta]", "f"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   SubscriptBox["\[Delta]", "f"], TraditionalForm]],ExpressionUUID->
   "1b655ef8-c395-409c-8790-ed54fc3e6302"],
  " is the \[Delta] we need to make\n\n",
  Cell[BoxData[
@@ -5240,19 +5197,16 @@ exactly the same outline as our proof that follows:\n\n",
        RowBox[{"f", "(", "x", ")"}], ")"}], "-", 
       RowBox[{"g", "(", 
        RowBox[{"f", "(", "y", ")"}], ")"}]}], "\[RightBracketingBar]"}], "<", 
-    "\[Epsilon]"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    "\[Epsilon]"}], TraditionalForm]],ExpressionUUID->
   "204892d4-b797-4733-a3b5-6a80635c94a4"],
  "\n\nfor any ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"x", ",", "y"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"x", ",", "y"}], TraditionalForm]],ExpressionUUID->
   "ba240f4f-35d5-40e6-b708-4efe1b5dcf1d"],
  " in ",
  Cell[BoxData[
-  FormBox["A", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["A", TraditionalForm]],ExpressionUUID->
   "dd03bd6a-2e1f-41b3-be98-e33e64c1bf91"],
  " with ",
  Cell[BoxData[
@@ -5260,10 +5214,82 @@ exactly the same outline as our proof that follows:\n\n",
    RowBox[{
     RowBox[{"\[LeftBracketingBar]", 
      RowBox[{"x", "-", "y"}], "\[RightBracketingBar]"}], "<", "\[Delta]"}], 
-   TraditionalForm]],
+   TraditionalForm]],ExpressionUUID->"945bc97b-f3d2-4494-9bc5-f17a82aa9973"],
+ " .\n\n",
+ StyleBox["NOTHING NEW, BUT ANOTHER PROOF/RESTATEMENT",
+  FontFamily->"Times New Roman",
+  FontSize->14,
+  FontWeight->"Regular"],
+ "\n\nWe want to show that given any ",
+ Cell[BoxData[
+  FormBox["\[Epsilon]", TraditionalForm]],
   FormatType->TraditionalForm,ExpressionUUID->
-  "945bc97b-f3d2-4494-9bc5-f17a82aa9973"],
- " ."
+  "1c4f3355-d42f-4005-bfa3-a69bd4d509bf"],
+ ", there is a ",
+ Cell[BoxData[
+  FormBox["\[Delta]", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "e13e5ab0-1001-4176-9674-a7297d83a080"],
+ " that keeps ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"\[LeftBracketingBar]", 
+     RowBox[{
+      RowBox[{"g", "(", 
+       RowBox[{"f", "(", "x", ")"}], ")"}], "-", 
+      RowBox[{"g", "(", 
+       RowBox[{"f", "(", "y", ")"}], ")"}]}], "\[RightBracketingBar]"}], "<", 
+    "\[Epsilon]"}], TraditionalForm]],ExpressionUUID->
+  "b979b2ab-fa21-4551-86d6-50c94577c150"],
+ ".\n\nSo we START with this epsilon, and use the assumption that ",
+ Cell[BoxData[
+  FormBox["g", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "666127ce-2455-4194-98ef-dd3868f74d68"],
+ " is uniformly continuous. That tells us that there is a ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["\[Delta]", "g"], TraditionalForm]],ExpressionUUID->
+  "7313f035-ed2a-41f8-b012-4df07aff8dc9"],
+ ". Now that we know what that ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["\[Delta]", "g"], TraditionalForm]],ExpressionUUID->
+  "2e746b87-df71-4cea-98ae-5f46d2fec2b9"],
+ " has to be, we use the assumption that ",
+ Cell[BoxData[
+  FormBox["f", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "88ba0cee-a562-4d28-863b-d242eb8f5f7d"],
+ " is uniformly continuous. That tells us there is a ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["\[Delta]", "f"], TraditionalForm]],ExpressionUUID->
+  "dcf3aa78-affe-402b-b312-f944129fb358"],
+ " that keeps  ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"\[LeftBracketingBar]", 
+     RowBox[{
+      RowBox[{"f", "(", "x", ")"}], "-", 
+      RowBox[{"f", "(", "y", ")"}]}], "\[RightBracketingBar]"}], "<", 
+    SubscriptBox["\[Delta]", "g"]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "e69c364f-900f-48c2-85e9-14ea6ee9d1f0"],
+ ". This ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["\[Delta]", "f"], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "4b6b4e16-c3f7-4948-95eb-b5fe3d4ce5ef"],
+ " is what we need to use as our ",
+ Cell[BoxData[
+  FormBox["\[Delta]", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "70ba5895-0a97-479c-9d0a-275e87572bb5"],
+ "."
 }], "Text",
  CellChangeTimes->{{3.9517625707576313`*^9, 3.9517626170283937`*^9}, {
   3.9517627226136*^9, 3.951762816373994*^9}, {3.951763015120343*^9, 
@@ -5271,14 +5297,15 @@ exactly the same outline as our proof that follows:\n\n",
   3.951813349697434*^9, 3.951813518629945*^9}, {3.951813580355644*^9, 
   3.951813609085698*^9}, {3.9518138174744043`*^9, 3.951813853353163*^9}, {
   3.951814309664914*^9, 3.951814334993052*^9}, {3.9518143659501667`*^9, 
-  3.9518145112884083`*^9}, {3.9518145480517197`*^9, 
-  3.95181501879065*^9}},ExpressionUUID->"d939accf-099e-4dcd-b31e-\
+  3.9518145112884083`*^9}, {3.9518145480517197`*^9, 3.95181501879065*^9}, {
+  3.951824659258617*^9, 3.951824830264883*^9}, {3.95182488746737*^9, 
+  3.951824913430773*^9}},ExpressionUUID->"d939accf-099e-4dcd-b31e-\
 8ba2d0bfa50c"]
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{808, 911},
-WindowMargins->{{Automatic, 785}, {Automatic, 18}},
+WindowSize->{1011, 1211},
+WindowMargins->{{Automatic, 484}, {Automatic, 8}},
 PrintingCopies->1,
 PrintingPageRange->{1, Automatic},
 FrontEndVersion->"14.2 for Mac OS X ARM (64-bit) (December 26, 2024)",
@@ -5296,53 +5323,53 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[554, 20, 212, 4, 82, "Section",ExpressionUUID->"8f0b2653-f746-476d-b78e-e355b9de099a"],
+Cell[554, 20, 211, 4, 82, "Section",ExpressionUUID->"8f0b2653-f746-476d-b78e-e355b9de099a"],
 Cell[CellGroupData[{
-Cell[791, 28, 296, 4, 65, "Subtitle",ExpressionUUID->"ba5d4897-9583-438a-a726-3b14331ce1e5"],
-Cell[1090, 34, 68711, 1133, 173, "Text",ExpressionUUID->"af8fcff5-2847-4ac4-8367-a6bbcd4655e8"],
+Cell[790, 28, 262, 4, 65, "Subtitle",ExpressionUUID->"ba5d4897-9583-438a-a726-3b14331ce1e5"],
+Cell[1055, 34, 68711, 1133, 220, "Text",ExpressionUUID->"af8fcff5-2847-4ac4-8367-a6bbcd4655e8"],
 Cell[CellGroupData[{
-Cell[69826, 1171, 254, 4, 66, "Subsection",ExpressionUUID->"862d1e78-cf9f-4ab0-af66-ba9371c8d963"],
-Cell[70083, 1177, 4090, 119, 650, "Text",ExpressionUUID->"f8f77ff5-8b18-4f84-9c70-e554436d4ba5"],
-Cell[74176, 1298, 99, 1, 4, "PageBreak",ExpressionUUID->"0c99f536-c44e-4a18-8760-aa9efe19bc15",
+Cell[69791, 1171, 254, 4, 66, "Subsection",ExpressionUUID->"862d1e78-cf9f-4ab0-af66-ba9371c8d963"],
+Cell[70048, 1177, 4090, 119, 650, "Text",ExpressionUUID->"f8f77ff5-8b18-4f84-9c70-e554436d4ba5"],
+Cell[74141, 1298, 99, 1, 4, "PageBreak",ExpressionUUID->"0c99f536-c44e-4a18-8760-aa9efe19bc15",
  PageBreakBelow->True]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[74312, 1304, 309, 5, 66, "Subsection",ExpressionUUID->"a4ac1538-e44c-4cf1-89b5-91a17c5dc1d5"],
-Cell[74624, 1311, 7215, 207, 686, "Text",ExpressionUUID->"38a17eac-dadf-4845-9b84-9f32369e74ce"],
-Cell[81842, 1520, 99, 1, 1, "PageBreak",ExpressionUUID->"0db8065f-744d-4839-a475-ee6419c5c347",
+Cell[74277, 1304, 309, 5, 66, "Subsection",ExpressionUUID->"a4ac1538-e44c-4cf1-89b5-91a17c5dc1d5"],
+Cell[74589, 1311, 6741, 189, 657, "Text",ExpressionUUID->"38a17eac-dadf-4845-9b84-9f32369e74ce"],
+Cell[81333, 1502, 99, 1, 4, "PageBreak",ExpressionUUID->"0db8065f-744d-4839-a475-ee6419c5c347",
  PageBreakBelow->True]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[81978, 1526, 280, 4, 66, "Subsection",ExpressionUUID->"433be76f-f0c6-4c59-b071-a59a815911d1"],
-Cell[82261, 1532, 1730, 47, 288, "Text",ExpressionUUID->"1c6f2097-5a03-409f-8e1a-8e88821e8d1c"],
+Cell[81469, 1508, 280, 4, 66, "Subsection",ExpressionUUID->"433be76f-f0c6-4c59-b071-a59a815911d1"],
+Cell[81752, 1514, 1730, 47, 233, "Text",ExpressionUUID->"1c6f2097-5a03-409f-8e1a-8e88821e8d1c"],
 Cell[CellGroupData[{
-Cell[84016, 1583, 584, 15, 36, "Input",ExpressionUUID->"84564724-2d6d-43d4-ae07-9562cab22411"],
-Cell[84603, 1600, 87698, 1517, 735, "Output",ExpressionUUID->"a617d451-11e6-4d6d-99e3-59dc49efa6ec"]
+Cell[83507, 1565, 584, 15, 36, "Input",ExpressionUUID->"84564724-2d6d-43d4-ae07-9562cab22411"],
+Cell[84094, 1582, 87698, 1517, 735, "Output",ExpressionUUID->"a617d451-11e6-4d6d-99e3-59dc49efa6ec"]
 }, Open  ]],
-Cell[172316, 3120, 99, 1, 1, "PageBreak",ExpressionUUID->"e53f2825-cb62-4505-80ba-4fa9f1fa8345",
+Cell[171807, 3102, 99, 1, 4, "PageBreak",ExpressionUUID->"e53f2825-cb62-4505-80ba-4fa9f1fa8345",
  PageBreakBelow->True],
-Cell[172418, 3123, 1452, 42, 69, "Text",ExpressionUUID->"032946a0-09d3-4878-87de-dcd14339cd04"],
+Cell[171909, 3105, 1452, 42, 69, "Text",ExpressionUUID->"032946a0-09d3-4878-87de-dcd14339cd04"],
 Cell[CellGroupData[{
-Cell[173895, 3169, 892, 26, 62, "Input",ExpressionUUID->"5ec1900d-0130-4bb6-bb18-b8d04661443a"],
-Cell[174790, 3197, 7478, 164, 343, "Output",ExpressionUUID->"1ecb5c84-f008-4b8d-a726-52197d6f6450"]
+Cell[173386, 3151, 892, 26, 62, "Input",ExpressionUUID->"5ec1900d-0130-4bb6-bb18-b8d04661443a"],
+Cell[174281, 3179, 7478, 164, 343, "Output",ExpressionUUID->"1ecb5c84-f008-4b8d-a726-52197d6f6450"]
 }, Open  ]],
-Cell[182283, 3364, 723, 16, 96, "Text",ExpressionUUID->"3814b7c1-114d-4ad5-85c0-fe89c7410940"],
+Cell[181774, 3346, 723, 16, 96, "Text",ExpressionUUID->"3814b7c1-114d-4ad5-85c0-fe89c7410940"],
 Cell[CellGroupData[{
-Cell[183031, 3384, 941, 27, 62, "Input",ExpressionUUID->"12b3d55e-e506-4f44-a8e2-151f3ead5f3f"],
-Cell[183975, 3413, 6849, 153, 335, "Output",ExpressionUUID->"c123e5a8-4ae6-410a-96fc-b83b501fe018"]
+Cell[182522, 3366, 941, 27, 62, "Input",ExpressionUUID->"12b3d55e-e506-4f44-a8e2-151f3ead5f3f"],
+Cell[183466, 3395, 6849, 153, 335, "Output",ExpressionUUID->"c123e5a8-4ae6-410a-96fc-b83b501fe018"]
 }, Open  ]],
-Cell[190839, 3569, 626, 11, 69, "Text",ExpressionUUID->"0606247a-d65b-4cf7-8c45-e2c3abc7e9d6"],
-Cell[191468, 3582, 99, 1, 1, "PageBreak",ExpressionUUID->"3b55177e-e96d-4c9f-9433-dfbf43987442",
+Cell[190330, 3551, 626, 11, 42, "Text",ExpressionUUID->"0606247a-d65b-4cf7-8c45-e2c3abc7e9d6"],
+Cell[190959, 3564, 99, 1, 4, "PageBreak",ExpressionUUID->"3b55177e-e96d-4c9f-9433-dfbf43987442",
  PageBreakBelow->True],
-Cell[191570, 3585, 854, 18, 69, "Text",ExpressionUUID->"0c7448b1-dcee-4153-a257-0170b0853606"],
+Cell[191061, 3567, 854, 18, 69, "Text",ExpressionUUID->"0c7448b1-dcee-4153-a257-0170b0853606"],
 Cell[CellGroupData[{
-Cell[192449, 3607, 1038, 28, 62, "Input",ExpressionUUID->"ff5af518-6181-4e37-97cc-fabb15527d03"],
-Cell[193490, 3637, 6513, 148, 364, "Output",ExpressionUUID->"fdb8085c-0718-4569-9345-1cedb126743c"]
+Cell[191940, 3589, 1038, 28, 62, "Input",ExpressionUUID->"ff5af518-6181-4e37-97cc-fabb15527d03"],
+Cell[192981, 3619, 6513, 148, 364, "Output",ExpressionUUID->"fdb8085c-0718-4569-9345-1cedb126743c"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[200052, 3791, 310, 5, 66, "Subsection",ExpressionUUID->"14c8df55-703b-45d6-ad1f-977f5be601f0"],
-Cell[200365, 3798, 83690, 1477, 1026, "Text",ExpressionUUID->"d939accf-099e-4dcd-b31e-8ba2d0bfa50c"]
+Cell[199543, 3773, 310, 5, 66, "Subsection",ExpressionUUID->"14c8df55-703b-45d6-ad1f-977f5be601f0"],
+Cell[199856, 3780, 85443, 1522, 1264, "Text",ExpressionUUID->"d939accf-099e-4dcd-b31e-8ba2d0bfa50c"]
 }, Open  ]]
 }, Open  ]]
 }
