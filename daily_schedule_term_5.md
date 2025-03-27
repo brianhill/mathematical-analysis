@@ -14,7 +14,7 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 ### Week 9 &mdash; Finish Least Upper Bounds &mdash; Uniform Continuity &mdash; Start Derivatives
 
 * Monday, March 24 &mdash; Reading: Finish Chapter 8 and study the Appendix to Chapter 8 &mdash; Instead of a new problem set, three presentations: Rania and Will, Problem 1, p. 144; [Brian and Hexi, Problem 2, p. 144](./illustrations/UniformContinuity.nb.pdf); Brendan and Jeremy, Problem 10, p. 139 &mdash; Also, read each others' mid-semester course evaluations and be prepared to discuss &mdash; Surprise: [Continuity Implies Uniform Continuity](./illustrations/ContinuityImpliesUniformContinuity.nb.pdf) (only on a closed interval)
-* Thursday, March 27 &mdash; Start Chapter 9, derivatives (which are not on Exam 2!) through to the middle of p. 154 &mdash; Problem Set 13: Chapter 9, Problems 1-6 &mdash; Brian and Brendan: Leibniz vs. Newton
+* Thursday, March 27 &mdash; Start Chapter 9, derivatives (which are not on Exam 2!) through to the middle of p. 154 &mdash; Problem Set 13: Chapter 9, Problems 1-6 &mdash; Brian and Brendan: [Newton and Liebniz](./illustrations/NewtonAndLeibniz.nb.pdf)
 
 ### Week 10 &mdash; Exam 2 &mdash; Finish Derivatives
 
