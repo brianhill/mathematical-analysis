@@ -18,8 +18,8 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 
 ### Week 10 &mdash; Exam 2 &mdash; Finish Derivatives
 
-* Monday, March 31 &mdash; Exam 2 on Spivak Chapters 5 to 8, including the Appendix to Chapter 8
-* Thursday, April 3 &mdash; Reading: Finish Chapter 9, derivatives &mdash; Problem Set 14: TBD
+* Monday, March 31 &mdash; [Exam 2](./exams/Exam2.nb.pdf) on Spivak Chapters 5 to 8, including the Appendix to Chapter 8
+* Thursday, April 3 &mdash; Reading: Finish Chapter 9, derivatives &mdash; Problem Set 14: Chapter 9: Problems 7-11 &mdash; Can I have two groups who will present Chapter 9, Problems 12 and 14? &mdash; Perhaps I should try to present a convincing solution to the last part of Exam 2 Problem 7 (I am not sure I have one still, but I am close)?
 
 ### Week 11 &mdash; Differentiation (Common and Important Rules for Derivatives)
 
