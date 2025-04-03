@@ -21,26 +21,27 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 * Monday, March 31 &mdash; [Exam 2](./exams/Exam2.nb.pdf) on Spivak Chapters 5 to 8, including the Appendix to Chapter 8
 * Thursday, April 3 &mdash; Reading: Finish Chapter 9, derivatives &mdash; Problem Set 14: Chapter 9: Problems 7-11 &mdash; Can I have two groups who will present Chapter 9, Problems 12 and 14? &mdash; Perhaps I should try to present a convincing solution to the last part of Exam 2 Problem 7 (I am not sure I have one still, but I am close)?
 
-### Week 11 &mdash; Differentiation (Common and Important Rules for Derivatives)
+### Week 11 &mdash; Differentiation (Common and Important Rules for Derivatives, including the Chain Rule)
+
+* Monday, April 7 &mdash; Reading: Study Chapter 10 to the bottom of p. 173 &mdash; Problem Set 15: Problems 1 to 7, but for Problems 1, 2, 4, 5, and 6, just do the first half of the many parts (e.g., if there 18 parts, only do the first 9)
 
 #### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes.
 
-* Monday, April 7 &mdash; Reading: Start Chapter 10
-* Thursday, April 10 &mdash; Reading: Finish Chapter 10
+* Thursday, April 10 &mdash; Reading: Finish Studying Chapter 10 &mdash; Problem Set 16: TBD
 
 ### Week 12 &mdash; Significance of the Derivative
 
 * Monday, April 14 &mdash; Reading: Start Chapter 11
 * Thursday, April 17 &mdash; Reading: Finish Chapter 11
 
-#### In the interest of getting to The Fundamental Theorem of Calculus, we may have to skip Chapter 12 on inverse functions, and go straight to Chapter 13 on integrals. I am not sure how much Chapters 13 and 14 depend on Chapter 12.
+#### In the interest of getting to The Fundamental Theorem of Calculus, probably we have to skip Chapter 12 on inverse functions, and go straight to Chapter 13 on integrals. I am not sure how much Chapters 13 and 14 depend on Chapter 12.
 
 ### Week 13 &mdash; Integrals
 
 * Monday, April 21 &mdash; Reading: Start Chapter 13
 * Thursday, April 24 &mdash; Reading: Finish Chapter 13
 
-### Week 14 The Fundamental Theorem of Calculus &mdash; Exam 3
+### Week 14 &mdash; The Fundamental Theorem of Calculus &mdash; Exam 3
 
 * Monday, April 28 &mdash; Reading: Chapter 14
 * Thursday, May 1 &mdash; Exam 3
