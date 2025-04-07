@@ -19,22 +19,23 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 ### Week 10 &mdash; Exam 2 &mdash; Finish Derivatives
 
 * Monday, March 31 &mdash; [Exam 2](./exams/Exam2.nb.pdf) on Spivak Chapters 5 to 8, including the Appendix to Chapter 8
-* Thursday, April 3 &mdash; Reading: Finish Chapter 9, derivatives &mdash; Problem Set 14: Chapter 9: Problems 7-11 &mdash; Can I have two groups who will present Chapter 9, Problems 12 and 14? &mdash; Perhaps I should try to present a convincing solution to the last part of Exam 2 Problem 7 (I am not sure I have one still, but I am close)?
+* Thursday, April 3 &mdash; Reading: Finish Chapter 9, derivatives &mdash; Problem Set 14: Chapter 9: Problems 7-11 &mdash; Two groups presented Problems 12 and 14? &mdash; I presented a better solution to the last part of Exam 2 Problem 7
 
 ### Week 11 &mdash; Differentiation (Common and Important Rules for Derivatives, including the Chain Rule)
 
 * Monday, April 7 &mdash; Reading: Study Chapter 10 to the bottom of p. 173 &mdash; Problem Set 15: Problems 1 to 7, but for Problems 1, 2, 4, 5, and 6, just do the first half of the many parts (e.g., if there 18 parts, only do the first 9)
 
-#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes.
 
-* Thursday, April 10 &mdash; Reading: Finish Studying Chapter 10 &mdash; Problem Set 16: TBD
+* Thursday, April 10 &mdash; Reading: Finish Studying Chapter 10 and continue studying in Chapter 11 to p. 192 &mdash; Problem Set 16: Chapter 10, Problem 17, and Chapter 11, Problems 1-3 &mdash; Presentations: Brendan and Rania will present Chapter 10, Problem 22; Hexi and Jeremy will speak about the significance and applications of the Mean Value Theorem
 
 ### Week 12 &mdash; Significance of the Derivative
 
-* Monday, April 14 &mdash; Reading: Start Chapter 11
-* Thursday, April 17 &mdash; Reading: Finish Chapter 11
+#### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes.
 
-#### In the interest of getting to The Fundamental Theorem of Calculus, probably we have to skip Chapter 12 on inverse functions, and go straight to Chapter 13 on integrals. I am not sure how much Chapters 13 and 14 depend on Chapter 12.
+* Monday, April 14 &mdash; Reading: Continue Chapter 11
+* Thursday, April 17 &mdash; Reading: Finish Chapter 11, including Chapter 11 Appendix
+
+#### In the interest of getting to The Fundamental Theorem of Calculus, we may have to skip Chapter 12 on inverse functions, and go straight to Chapter 13 on integrals. I am not sure how much Chapters 13 and 14 depend on Chapter 12.
 
 ### Week 13 &mdash; Integrals
 
