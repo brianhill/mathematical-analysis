@@ -21,14 +21,12 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 * Monday, March 31 &mdash; [Exam 2](./exams/Exam2.nb.pdf) on Spivak Chapters 5 to 8, including the Appendix to Chapter 8
 * Thursday, April 3 &mdash; Reading: Finish Chapter 9, derivatives &mdash; Problem Set 14: Chapter 9: Problems 7-11 &mdash; Two groups presented Problems 12 and 14? &mdash; I presented a better solution to the last part of Exam 2 Problem 7
 
-### Week 11 &mdash; Differentiation (Common and Important Rules for Derivatives, including the Chain Rule)
+### Week 11 &mdash; Differentiation (Widely Used Properties of Derivatives)
 
 * Monday, April 7 &mdash; Reading: Study Chapter 10 to the bottom of p. 173 &mdash; Problem Set 15: Problems 1 to 7, but for Problems 1, 2, 4, 5, and 6, just do the first half of the many parts (e.g., if there 18 parts, only do the first 9)
+* Thursday, April 10 &mdash; Reading: Finish studying Chapter 10 and continue studying in Chapter 11 to p. 192 &mdash; Chain Rule (Derivation and Application) &mdash; Problem Set 16: Chapter 10, Problem 17, and Chapter 11, Problems 1-3 &mdash; Presentations: Brendan and Rania will present Chapter 10, Problem 22; Hexi and Jeremy will present the significance and applications of the Mean Value Theorem (why is it so famous?)
 
-
-* Thursday, April 10 &mdash; Reading: Finish Studying Chapter 10 and continue studying in Chapter 11 to p. 192 &mdash; Problem Set 16: Chapter 10, Problem 17, and Chapter 11, Problems 1-3 &mdash; Presentations: Brendan and Rania will present Chapter 10, Problem 22; Hexi and Jeremy will speak about the significance and applications of the Mean Value Theorem
-
-### Week 12 &mdash; Significance of the Derivative
+### Week 12 &mdash; The Significance of the Derivative
 
 #### Plans for upcoming classes are subject to adjustment, depending especially on the actual pace of the previous classes.
 
