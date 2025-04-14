@@ -28,7 +28,7 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 
 ### Week 12 &mdash; Finish the Significance of the Derivative &mdash; Inverse Functions
 
-* Monday, April 14 &mdash; Reading: Finish Chapter 11 (but we are skipping the Chapter 11 Appendix on concavity so that we can spend one class on Chapter 12) &mdash; Problem Set 17: Chapter 12, Problems 6 to 12 (these are typical applications to real-world problems of the extrema-finding techniques in Chapter 11, albeit somewhat contrived)
+* Monday, April 14 &mdash; Reading: Finish Chapter 11 (but we are skipping the Chapter 11 Appendix on concavity so that we can spend one class on Chapter 12) &mdash; Problem Set 17: Chapter 11, Problems 6 to 12 (these are typical applications to real-world problems of the extrema-finding techniques in Chapter 11, albeit somewhat contrived)
 * Thursday, April 17 &mdash; Reading: One class devoted to Chapter 12, inverse functions
 
 ### Week 13 &mdash; Integrals
