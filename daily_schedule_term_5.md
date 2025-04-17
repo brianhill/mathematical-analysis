@@ -29,14 +29,14 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 ### Week 12 &mdash; Finish the Significance of the Derivative &mdash; Inverse Functions
 
 * Monday, April 14 &mdash; Reading: Finish Chapter 11 (skip the Chapter 11 Appendix) &mdash; Problem Set 17: Chapter 11, Problems 6 to 12 (these are typical applications to real-world problems of the extrema-finding techniques in Chapter 11, albeit somewhat contrived)
-* Thursday, April 17 &mdash; Reading: Only one class devoted to Chapter 12 (inverse functions) so that we can have all the remaining time in the semester to introduce integrals (skip the Chapter 12 Appendix) &mdash; On p. 234, there are very useful results arising from combining the inverse function idea with the chain rule theorem &mdash; Problem Set 18: Chapter 12, Problems 4 to 7
+* Thursday, April 17 &mdash; Reading: Only one class devoted to Chapter 12 (inverse functions) so that we can have all the remaining time in the semester to introduce integrals &mdash; On p. 234, there are very useful results arising from combining the inverse function idea with the chain rule theorem &mdash; Problem Set 18: Chapter 12, Problems 4 to 7
 
 ### Week 13 &mdash; Integrals
 
-* Monday, April 21 &mdash; Reading: Start Chapter 13 &mdash; Start Chapter 13
+* Monday, April 21 &mdash; Reading: Start Chapter 13 through p. 260 &mdash; Problem Set 19: Chapter 13, Problems 1, 2, and 7(i)-7(iv) &mdash; Draw graphs of what you are calculating so that you build intuition &mdash; Use graph paper and draw the graphs to scale &mdash; [No graph paper, click on this?](./illustrations/print-graph-paper.com.pdf) &mdash; You should be able to check (by counting squares on the graph paper) that your analytical results are consistent with the graphs
 * Thursday, April 24 &mdash; Reading: Finish Chapter 13
 
 ### Week 14 &mdash; The Fundamental Theorem of Calculus &mdash; Exam 3
 
 * Monday, April 28 &mdash; Reading: Chapter 14
-* Thursday, May 1 &mdash; Exam 3
+* Thursday, May 1 &mdash; Exam 3 on Spivak Chapters 9 to 14
