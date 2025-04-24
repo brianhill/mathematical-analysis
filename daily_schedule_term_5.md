@@ -34,9 +34,13 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 ### Week 13 &mdash; Integrals
 
 * Monday, April 21 &mdash; Reading: Start Chapter 13 through p. 260 &mdash; Problem Set 19: Chapter 13, Problems 1, 2, and 7(i)-7(iv) &mdash; You should be able to check (by counting squares on the graph paper) that your analytical results are consistent with the graphs
-* Thursday, April 24 &mdash; Reading: Finish Chapter 13 &mdash; Problem Set 20: Chapter 13, Problems 8, 12, and 15 &mdash; Also, problems 18 and 19 are at our current ability level and instructive, so we might want to work on them in class &mdash; We can do the three pages of the Chapter 13 appendix in class too &mdash; After we are satisfied with Chapter 13, I will preview some of Chapter 14 for you
+* Thursday, April 24 &mdash; Reading: Finish Chapter 13 &mdash; Problem Set 20: Chapter 13, Problems 8, 12, and 15 &mdash; Also, problems 18 and 19 are at our current ability level and instructive &mdash; &mdash; After we are satisfied with Chapter 13, and especially Theorems 3 and 8 which prepare us for the Appendix, we will preview the two versions of "The Fundamental Theorem of Calculus"
 
 ### Week 14 &mdash; The Fundamental Theorem of Calculus &mdash; Exam 3
 
-* Monday, April 28 &mdash; Reading: Chapter 14 &mdash; Presentations of Problems 1, 4, and 7
+* Monday, April 28 &mdash; Reading: Finish Chapter 14 &mdash; Problem Set 21: Problems 1 (parts (i)-(iv) only), 4 (take derivatives to show x-independence), and 7 (could be tricky!)
 * Thursday, May 1 &mdash; Exam 3 on Spivak Chapters 9 to 14
+
+<img src="./illustrations/TheFundamentalTheoremOfCalculus.png" width="70%">
+
+#### Intuition for the Proof of The Fundamental Theorem of Calculus
