@@ -39,7 +39,7 @@ See also [Daily Schedule Term 4](./daily_schedule_term_4.html)
 ### Week 14 &mdash; The Fundamental Theorem of Calculus &mdash; Exam 3
 
 * Monday, April 28 &mdash; Reading: Finish Chapter 14 &mdash; Problem Set 21: Problems 1 (parts (i)-(iv) only), 4 (take derivatives to show x-independence), and 7 (could be tricky!)
-* Thursday, May 1 &mdash; Exam 3 on Spivak Chapters 9 to 14
+* Thursday, May 1 &mdash; [Exam 3](./exams/Exam3.nb.pdf) on Spivak Chapters 9 to 14
 
 <img src="./illustrations/TheFundamentalTheoremOfCalculus.png" width="70%">
 
