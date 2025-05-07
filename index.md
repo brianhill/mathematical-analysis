@@ -41,7 +41,7 @@ A course in the topics of mathematical analysis that undergird calculus prepares
 ## Grading
 
 * 40% assignments
-* 50% total for three exams, coming in the 5th, 10th, and 15th week of the semester
+* 50% total for three exams, coming in the 5th, 10th, and 14th week of the semester
 * 10% preparation for class and leadership of course
 
 ## Problem Sets / Handouts / Exams
