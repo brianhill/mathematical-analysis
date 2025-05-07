@@ -12,7 +12,7 @@
 
 ## Syllabus
  
-* The [Syllabus](./MathematicalAnalysisPreliminarySyllabus.pdf) (containing essentially the same information as is on these web pages).
+* The [Syllabus](./MathematicalAnalysisSyllabus.pdf) (containing the same information as is on these web pages).
 
 ## Required Text
 
